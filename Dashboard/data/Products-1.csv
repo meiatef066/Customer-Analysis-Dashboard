@@ -1,0 +1,2456 @@
+product_id,brand,product_line,product_class,product_size,list_price,standard_cost,product_first_sold_date
+2,Solex,Standard,medium,medium,71.49,53.62,1970-01-01 00:00:00.000041245
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000041701
+37,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000036361
+88,Norco Bicycles,Standard,medium,medium,1198.46,381.1,1970-01-01 00:00:00.000036145
+78,Giant Bicycles,Standard,medium,large,1765.3,709.48,1970-01-01 00:00:00.000042226
+25,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000039031
+22,WeareA2B,Standard,medium,medium,60.34,45.26,1970-01-01 00:00:00.000034165
+15,WeareA2B,Standard,medium,medium,1292.84,13.44,1970-01-01 00:00:00.000039915
+67,Solex,Standard,medium,large,1071.23,380.74,1970-01-01 00:00:00.000033455
+12,WeareA2B,Standard,medium,medium,1231.15,161.6,1970-01-01 00:00:00.000038216
+5,Trek Bicycles,Mountain,low,medium,574.64,459.71,1970-01-01 00:00:00.000040784
+61,OHM Cycles,Standard,low,medium,71.16,56.93,1970-01-01 00:00:00.000042172
+35,Trek Bicycles,Standard,low,medium,1057.51,154.4,1970-01-01 00:00:00.000034527
+16,Norco Bicycles,Standard,high,small,1661.92,1479.11,1970-01-01 00:00:00.000034586
+12,Giant Bicycles,Standard,medium,large,1765.3,709.48,1970-01-01 00:00:00.000038193
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000037873
+79,Norco Bicycles,Standard,medium,medium,1555.58,818.01,1970-01-01 00:00:00.000038206
+33,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000033888
+54,WeareA2B,Standard,medium,medium,1292.84,13.44,1970-01-01 00:00:00.000039915
+25,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000037337
+27,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000036334
+37,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000042145
+82,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000042404
+89,WeareA2B,Touring,medium,large,1362.99,57.74,1970-01-01 00:00:00.000034079
+64,Trek Bicycles,Standard,medium,large,1469.44,596.55,1970-01-01 00:00:00.000042145
+64,Trek Bicycles,Standard,medium,large,1469.44,596.55,1970-01-01 00:00:00.000041047
+19,Trek Bicycles,Mountain,low,medium,574.64,459.71,1970-01-01 00:00:00.000042560
+72,Norco Bicycles,Standard,medium,medium,360.4,270.3,1970-01-01 00:00:00.000042710
+91,WeareA2B,Standard,low,medium,642.31,513.85,1970-01-01 00:00:00.000041922
+88,Norco Bicycles,Standard,medium,medium,1198.46,381.1,1970-01-01 00:00:00.000037539
+1,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000042688
+25,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000042404
+99,Trek Bicycles,Road,low,small,1720.7,1531.42,1970-01-01 00:00:00.000038991
+0,Norco Bicycles,Road,medium,medium,544.05,376.84,1970-01-01 00:00:00.000038647
+92,WeareA2B,Standard,medium,small,1415.01,1259.36,1970-01-01 00:00:00.000037874
+14,Solex,Standard,high,large,1842.92,1105.75,1970-01-01 00:00:00.000034996
+2,Solex,Standard,medium,medium,71.49,53.62,1970-01-01 00:00:00.000033549
+12,WeareA2B,Standard,medium,medium,1231.15,161.6,1970-01-01 00:00:00.000038693
+44,WeareA2B,Standard,medium,medium,1769.64,108.76,1970-01-01 00:00:00.000037668
+79,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000041533
+76,WeareA2B,Standard,low,medium,642.31,513.85,1970-01-01 00:00:00.000041922
+46,Solex,Standard,low,medium,1289.85,74.51,1970-01-01 00:00:00.000037668
+55,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000042172
+66,Solex,Standard,medium,medium,1163.89,589.27,1970-01-01 00:00:00.000042560
+81,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000041009
+86,OHM Cycles,Standard,medium,medium,235.63,125.07,1970-01-01 00:00:00.000038206
+32,Giant Bicycles,Standard,medium,medium,642.7,211.37,1970-01-01 00:00:00.000037337
+77,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000040553
+96,Giant Bicycles,Standard,medium,large,1635.3,993.66,1970-01-01 00:00:00.000039427
+6,OHM Cycles,Standard,high,medium,227.88,136.73,1970-01-01 00:00:00.000033549
+27,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000034527
+0,Norco Bicycles,Standard,low,medium,363.01,290.41,1970-01-01 00:00:00.000038482
+47,Trek Bicycles,Road,low,small,1720.7,1531.42,1970-01-01 00:00:00.000035470
+94,Giant Bicycles,Standard,medium,large,1635.3,993.66,1970-01-01 00:00:00.000041434
+91,Solex,Standard,medium,medium,100.35,75.26,1970-01-01 00:00:00.000036367
+93,OHM Cycles,Standard,high,medium,1458.17,874.9,1970-01-01 00:00:00.000038750
+60,Giant Bicycles,Standard,high,small,1977.36,1759.85,1970-01-01 00:00:00.000041848
+0,OHM Cycles,Road,high,large,12.01,7.21,1970-01-01 00:00:00.000034244
+35,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000042688
+0,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000039031
+28,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000042696
+86,OHM Cycles,Standard,medium,medium,235.63,125.07,1970-01-01 00:00:00.000036367
+4,Giant Bicycles,Standard,high,medium,1129.13,677.48,1970-01-01 00:00:00.000038258
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000041167
+77,WeareA2B,Standard,medium,medium,1769.64,108.76,1970-01-01 00:00:00.000040672
+56,OHM Cycles,Standard,medium,medium,183.86,137.9,1970-01-01 00:00:00.000035707
+58,OHM Cycles,Standard,medium,medium,912.52,141.4,1970-01-01 00:00:00.000042295
+22,WeareA2B,Standard,medium,medium,60.34,45.26,1970-01-01 00:00:00.000033552
+50,WeareA2B,Standard,medium,small,175.89,131.92,1970-01-01 00:00:00.000037668
+80,OHM Cycles,Touring,low,medium,1073.07,933.84,1970-01-01 00:00:00.000036145
+87,Giant Bicycles,Standard,high,medium,1179.0,707.4,1970-01-01 00:00:00.000035667
+15,Norco Bicycles,Standard,low,medium,958.74,748.9,1970-01-01 00:00:00.000038693
+84,Giant Bicycles,Road,medium,medium,792.9,594.68,1970-01-01 00:00:00.000033879
+21,Solex,Standard,medium,large,1071.23,380.74,1970-01-01 00:00:00.000040670
+0,OHM Cycles,Standard,medium,medium,235.63,125.07,1970-01-01 00:00:00.000037626
+84,Trek Bicycles,Road,medium,medium,290.62,215.14,1970-01-01 00:00:00.000038339
+1,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000038258
+27,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000033455
+31,WeareA2B,Standard,medium,medium,752.64,205.36,1970-01-01 00:00:00.000034079
+0,OHM Cycles,Road,high,large,12.01,7.21,1970-01-01 00:00:00.000040303
+62,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000034143
+17,Solex,Standard,high,medium,1024.66,614.8,1970-01-01 00:00:00.000035160
+73,Solex,Standard,medium,medium,1945.43,333.18,1970-01-01 00:00:00.000036668
+33,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000036498
+86,OHM Cycles,Standard,medium,medium,235.63,125.07,1970-01-01 00:00:00.000038482
+45,Solex,Standard,medium,medium,441.49,84.99,1970-01-01 00:00:00.000034071
+1,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000040649
+80,OHM Cycles,Touring,low,medium,1073.07,933.84,1970-01-01 00:00:00.000038339
+49,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000037823
+95,Giant Bicycles,Standard,medium,large,569.56,528.43,1970-01-01 00:00:00.000037874
+0,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000036146
+18,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000042226
+4,Giant Bicycles,Standard,high,medium,1129.13,677.48,1970-01-01 00:00:00.000040649
+78,Giant Bicycles,Standard,medium,large,1765.3,709.48,1970-01-01 00:00:00.000038193
+89,WeareA2B,Touring,medium,large,1362.99,57.74,1970-01-01 00:00:00.000041434
+70,Trek Bicycles,Standard,high,medium,495.72,297.43,1970-01-01 00:00:00.000042105
+79,Norco Bicycles,Standard,medium,medium,1555.58,818.01,1970-01-01 00:00:00.000037873
+26,WeareA2B,Standard,medium,medium,1992.93,762.63,1970-01-01 00:00:00.000034115
+39,Giant Bicycles,Standard,medium,large,1812.75,582.48,1970-01-01 00:00:00.000038991
+36,Solex,Standard,low,medium,945.04,507.58,1970-01-01 00:00:00.000035052
+0,OHM Cycles,Standard,low,medium,71.16,56.93,1970-01-01 00:00:00.000042172
+98,Trek Bicycles,Standard,high,medium,358.39,215.03,1970-01-01 00:00:00.000033364
+75,Giant Bicycles,Touring,medium,large,1873.97,863.95,1970-01-01 00:00:00.000037873
+76,WeareA2B,Standard,low,medium,642.31,513.85,1970-01-01 00:00:00.000038482
+72,Norco Bicycles,Standard,medium,medium,360.4,270.3,1970-01-01 00:00:00.000040553
+42,OHM Cycles,Road,medium,small,1810.0,1610.9,1970-01-01 00:00:00.000034071
+20,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000040303
+64,Trek Bicycles,Standard,medium,large,1469.44,596.55,1970-01-01 00:00:00.000038647
+0,Trek Bicycles,Standard,high,medium,495.72,297.43,1970-01-01 00:00:00.000042105
+25,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000033888
+24,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000034115
+31,WeareA2B,Standard,medium,medium,752.64,205.36,1970-01-01 00:00:00.000042218
+98,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000035470
+22,Solex,Standard,medium,medium,575.27,431.45,1970-01-01 00:00:00.000041345
+53,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000037823
+84,Trek Bicycles,Road,medium,medium,290.62,215.14,1970-01-01 00:00:00.000038482
+50,WeareA2B,Standard,medium,small,175.89,131.92,1970-01-01 00:00:00.000042295
+44,WeareA2B,Standard,medium,medium,1769.64,108.76,1970-01-01 00:00:00.000040672
+96,WeareA2B,Road,low,small,1172.78,1043.77,1970-01-01 00:00:00.000037539
+93,WeareA2B,Standard,medium,medium,1065.03,230.09,1970-01-01 00:00:00.000037539
+78,Giant Bicycles,Standard,medium,large,1765.3,709.48,1970-01-01 00:00:00.000033429
+84,Giant Bicycles,Road,medium,medium,792.9,594.68,1970-01-01 00:00:00.000038859
+65,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000042105
+0,N/A,N/A,N/A,N/A,1942.61,619.48,1970-01-01 00:00:00.000035455
+29,WeareA2B,Standard,medium,medium,1065.03,230.09,1970-01-01 00:00:00.000036833
+32,Giant Bicycles,Standard,high,medium,1179.0,707.4,1970-01-01 00:00:00.000036833
+11,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000042560
+10,Solex,Standard,medium,medium,1945.43,333.18,1970-01-01 00:00:00.000037499
+46,Solex,Standard,low,medium,1289.85,74.51,1970-01-01 00:00:00.000041064
+60,Giant Bicycles,Standard,high,small,1977.36,1759.85,1970-01-01 00:00:00.000041047
+92,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000033259
+7,Trek Bicycles,Road,low,medium,980.37,234.43,1970-01-01 00:00:00.000038693
+41,Solex,Road,medium,medium,416.98,312.74,1970-01-01 00:00:00.000035560
+67,Norco Bicycles,Road,medium,medium,544.05,376.84,1970-01-01 00:00:00.000038647
+14,Trek Bicycles,Standard,medium,small,1386.84,1234.29,1970-01-01 00:00:00.000037838
+9,OHM Cycles,Road,medium,medium,742.54,667.4,1970-01-01 00:00:00.000034586
+31,Giant Bicycles,Standard,medium,medium,230.91,173.18,1970-01-01 00:00:00.000037698
+92,WeareA2B,Standard,medium,small,1415.01,1259.36,1970-01-01 00:00:00.000036833
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000040784
+56,Norco Bicycles,Mountain,low,small,688.63,612.88,1970-01-01 00:00:00.000042404
+14,Solex,Standard,high,large,1842.92,1105.75,1970-01-01 00:00:00.000037873
+6,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000042105
+50,WeareA2B,Standard,medium,small,175.89,131.92,1970-01-01 00:00:00.000039915
+10,WeareA2B,Touring,medium,medium,1466.68,363.25,1970-01-01 00:00:00.000041345
+0,N/A,N/A,N/A,N/A,1656.86,1479.11,1970-01-01 00:00:00.000037668
+69,Giant Bicycles,Road,medium,medium,792.9,594.68,1970-01-01 00:00:00.000042105
+80,OHM Cycles,Touring,low,medium,1073.07,933.84,1970-01-01 00:00:00.000042226
+17,Solex,Standard,high,medium,1024.66,614.8,1970-01-01 00:00:00.000035378
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000038573
+90,Norco Bicycles,Standard,low,medium,363.01,290.41,1970-01-01 00:00:00.000038482
+97,Solex,Standard,medium,large,202.62,151.96,1970-01-01 00:00:00.000038002
+6,OHM Cycles,Standard,high,medium,227.88,136.73,1970-01-01 00:00:00.000037838
+100,Norco Bicycles,Road,medium,medium,1036.59,206.35,1970-01-01 00:00:00.000033364
+55,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000033259
+10,WeareA2B,Touring,medium,medium,1466.68,363.25,1970-01-01 00:00:00.000034586
+25,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000042696
+74,WeareA2B,Standard,medium,medium,1228.07,400.91,1970-01-01 00:00:00.000037873
+17,Solex,Standard,high,medium,1024.66,614.8,1970-01-01 00:00:00.000040670
+16,Norco Bicycles,Standard,high,small,1661.92,1479.11,1970-01-01 00:00:00.000041345
+71,Solex,Standard,high,large,1842.92,1105.75,1970-01-01 00:00:00.000034996
+91,WeareA2B,Standard,low,medium,642.31,513.85,1970-01-01 00:00:00.000038193
+1,Giant Bicycles,Touring,medium,large,1873.97,863.95,1970-01-01 00:00:00.000037873
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000041167
+56,OHM Cycles,Standard,medium,medium,183.86,137.9,1970-01-01 00:00:00.000034143
+37,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000040672
+34,Norco Bicycles,Road,high,large,774.53,464.72,1970-01-01 00:00:00.000039526
+0,Giant Bicycles,Standard,medium,medium,230.91,173.18,1970-01-01 00:00:00.000039031
+12,WeareA2B,Standard,medium,medium,1231.15,161.6,1970-01-01 00:00:00.000039880
+25,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000040553
+81,Norco Bicycles,Standard,medium,small,586.45,521.94,1970-01-01 00:00:00.000033429
+19,OHM Cycles,Road,high,large,12.01,7.21,1970-01-01 00:00:00.000036334
+74,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000041848
+57,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000034143
+0,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000041064
+23,Norco Bicycles,Mountain,low,small,688.63,612.88,1970-01-01 00:00:00.000039031
+5,Giant Bicycles,Standard,high,medium,1129.13,677.48,1970-01-01 00:00:00.000038573
+51,OHM Cycles,Standard,high,medium,2005.66,1203.4,1970-01-01 00:00:00.000041009
+59,WeareA2B,Standard,medium,small,1415.01,1259.36,1970-01-01 00:00:00.000037626
+63,Solex,Standard,medium,medium,1483.2,99.59,1970-01-01 00:00:00.000033879
+40,OHM Cycles,Standard,high,medium,1458.17,874.9,1970-01-01 00:00:00.000038750
+80,Trek Bicycles,Standard,medium,large,1469.44,596.55,1970-01-01 00:00:00.000038647
+82,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000042226
+46,Solex,Standard,low,medium,1289.85,74.51,1970-01-01 00:00:00.000041009
+75,Giant Bicycles,Touring,medium,large,1873.97,863.95,1970-01-01 00:00:00.000038193
+40,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000037823
+2,Giant Bicycles,Road,low,small,590.26,525.33,1970-01-01 00:00:00.000040487
+8,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000040649
+69,Giant Bicycles,Road,medium,medium,792.9,594.68,1970-01-01 00:00:00.000033879
+8,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000034079
+13,Solex,Standard,medium,medium,1163.89,589.27,1970-01-01 00:00:00.000041345
+19,Trek Bicycles,Mountain,low,medium,574.64,459.71,1970-01-01 00:00:00.000040784
+86,OHM Cycles,Standard,medium,medium,235.63,125.07,1970-01-01 00:00:00.000041434
+46,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000036361
+30,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000036361
+7,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000037698
+23,Norco Bicycles,Mountain,low,small,688.63,612.88,1970-01-01 00:00:00.000034244
+12,WeareA2B,Standard,medium,medium,1231.15,161.6,1970-01-01 00:00:00.000034586
+61,OHM Cycles,Standard,low,medium,71.16,56.93,1970-01-01 00:00:00.000042145
+21,Solex,Standard,medium,large,1071.23,380.74,1970-01-01 00:00:00.000033552
+86,OHM Cycles,Standard,medium,medium,235.63,125.07,1970-01-01 00:00:00.000037626
+57,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000036146
+63,Solex,Standard,medium,medium,1483.2,99.59,1970-01-01 00:00:00.000036146
+63,WeareA2B,Standard,medium,medium,1992.93,762.63,1970-01-01 00:00:00.000034115
+33,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000040336
+98,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000042172
+15,Norco Bicycles,Standard,low,medium,958.74,748.9,1970-01-01 00:00:00.000039880
+48,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000035470
+63,Solex,Standard,medium,medium,1483.2,99.59,1970-01-01 00:00:00.000042145
+78,Giant Bicycles,Standard,medium,large,1765.3,709.48,1970-01-01 00:00:00.000041533
+67,Solex,Standard,medium,large,1071.23,380.74,1970-01-01 00:00:00.000036334
+13,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000040618
+65,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000042145
+49,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000041064
+31,Giant Bicycles,Standard,medium,medium,230.91,173.18,1970-01-01 00:00:00.000040618
+17,Solex,Standard,high,medium,1024.66,614.8,1970-01-01 00:00:00.000039880
+53,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000036668
+38,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000034170
+69,Giant Bicycles,Road,medium,medium,792.9,594.68,1970-01-01 00:00:00.000041922
+68,OHM Cycles,Standard,medium,medium,1636.9,44.71,1970-01-01 00:00:00.000040410
+11,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000041345
+2,Solex,Standard,medium,medium,71.49,53.62,1970-01-01 00:00:00.000038573
+0,Trek Bicycles,Standard,high,medium,358.39,215.03,1970-01-01 00:00:00.000038002
+81,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000035470
+6,OHM Cycles,Standard,high,medium,227.88,136.73,1970-01-01 00:00:00.000041701
+18,Solex,Standard,medium,medium,575.27,431.45,1970-01-01 00:00:00.000034244
+18,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000036145
+9,OHM Cycles,Road,medium,medium,742.54,667.4,1970-01-01 00:00:00.000033549
+93,WeareA2B,Standard,medium,medium,1065.03,230.09,1970-01-01 00:00:00.000042458
+44,WeareA2B,Standard,medium,medium,1769.64,108.76,1970-01-01 00:00:00.000041064
+48,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000041848
+56,OHM Cycles,Standard,medium,medium,183.86,137.9,1970-01-01 00:00:00.000034170
+36,Solex,Standard,low,medium,1289.85,74.51,1970-01-01 00:00:00.000041064
+36,Solex,Standard,low,medium,945.04,507.58,1970-01-01 00:00:00.000038750
+13,Solex,Standard,medium,medium,1163.89,589.27,1970-01-01 00:00:00.000034586
+55,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000034170
+38,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000040672
+64,Giant Bicycles,Standard,high,small,1977.36,1759.85,1970-01-01 00:00:00.000042172
+0,OHM Cycles,Standard,high,medium,227.88,136.73,1970-01-01 00:00:00.000039298
+11,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000039298
+91,Solex,Standard,medium,medium,100.35,75.26,1970-01-01 00:00:00.000037874
+18,Solex,Standard,medium,medium,575.27,431.45,1970-01-01 00:00:00.000041345
+13,Solex,Standard,medium,medium,1163.89,589.27,1970-01-01 00:00:00.000042560
+4,Giant Bicycles,Standard,high,medium,1129.13,677.48,1970-01-01 00:00:00.000038216
+78,Giant Bicycles,Standard,medium,large,1765.3,709.48,1970-01-01 00:00:00.000035455
+42,OHM Cycles,Road,medium,small,1810.0,1610.9,1970-01-01 00:00:00.000036498
+12,WeareA2B,Standard,medium,medium,1231.15,161.6,1970-01-01 00:00:00.000042560
+25,OHM Cycles,Standard,high,medium,2005.66,1203.4,1970-01-01 00:00:00.000042295
+7,Trek Bicycles,Road,low,medium,980.37,234.43,1970-01-01 00:00:00.000038258
+81,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000036498
+6,OHM Cycles,Standard,high,medium,227.88,136.73,1970-01-01 00:00:00.000039298
+62,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000042105
+90,Norco Bicycles,Standard,low,medium,363.01,290.41,1970-01-01 00:00:00.000036367
+32,Giant Bicycles,Standard,medium,medium,642.7,211.37,1970-01-01 00:00:00.000033888
+65,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000037499
+36,Solex,Standard,low,medium,945.04,507.58,1970-01-01 00:00:00.000039526
+87,OHM Cycles,Standard,medium,medium,1636.9,44.71,1970-01-01 00:00:00.000040410
+62,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000033879
+55,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000034143
+1,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000041167
+61,Norco Bicycles,Standard,medium,small,586.45,521.94,1970-01-01 00:00:00.000033429
+71,Solex,Standard,high,large,1842.92,1105.75,1970-01-01 00:00:00.000038859
+58,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000037220
+86,Norco Bicycles,Road,high,large,774.53,464.72,1970-01-01 00:00:00.000036361
+55,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000037823
+82,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000041533
+32,Giant Bicycles,Standard,medium,medium,642.7,211.37,1970-01-01 00:00:00.000037698
+1,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000038573
+24,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000040670
+7,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000033888
+59,Solex,Standard,medium,large,1061.56,733.58,1970-01-01 00:00:00.000034170
+34,Norco Bicycles,Road,high,large,774.53,464.72,1970-01-01 00:00:00.000035052
+83,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000041533
+82,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000034115
+69,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000040553
+7,Trek Bicycles,Road,low,medium,980.37,234.43,1970-01-01 00:00:00.000041701
+73,Solex,Standard,medium,medium,1945.43,333.18,1970-01-01 00:00:00.000037499
+39,Giant Bicycles,Standard,medium,large,1812.75,582.48,1970-01-01 00:00:00.000039427
+0,N/A,N/A,N/A,N/A,850.89,101.58,1970-01-01 00:00:00.000038002
+25,OHM Cycles,Standard,high,medium,2005.66,1203.4,1970-01-01 00:00:00.000041009
+32,Giant Bicycles,Standard,high,medium,1179.0,707.4,1970-01-01 00:00:00.000041434
+56,OHM Cycles,Standard,medium,medium,183.86,137.9,1970-01-01 00:00:00.000041047
+17,WeareA2B,Touring,medium,large,1362.99,57.74,1970-01-01 00:00:00.000034079
+0,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000041245
+53,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000035470
+20,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000042404
+83,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000042218
+39,Giant Bicycles,Standard,medium,large,1812.75,582.48,1970-01-01 00:00:00.000040672
+67,Solex,Standard,medium,large,1071.23,380.74,1970-01-01 00:00:00.000035160
+40,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000034143
+13,Solex,Standard,medium,medium,1163.89,589.27,1970-01-01 00:00:00.000038693
+35,Trek Bicycles,Standard,low,medium,1057.51,154.4,1970-01-01 00:00:00.000040336
+79,Norco Bicycles,Standard,medium,medium,1555.58,818.01,1970-01-01 00:00:00.000039298
+86,Norco Bicycles,Road,high,large,774.53,464.72,1970-01-01 00:00:00.000035707
+9,OHM Cycles,Road,medium,medium,742.54,667.4,1970-01-01 00:00:00.000041701
+58,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000035707
+43,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000036498
+88,Norco Bicycles,Standard,medium,medium,1198.46,381.1,1970-01-01 00:00:00.000036833
+83,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000038206
+0,Solex,Standard,medium,medium,71.49,53.62,1970-01-01 00:00:00.000037659
+82,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000033455
+88,Norco Bicycles,Standard,medium,medium,1198.46,381.1,1970-01-01 00:00:00.000034079
+67,Norco Bicycles,Road,medium,medium,544.05,376.84,1970-01-01 00:00:00.000039298
+0,N/A,N/A,N/A,N/A,710.59,649.2266666666666,1970-01-01 00:00:00.000033879
+18,Solex,Standard,medium,medium,575.27,431.45,1970-01-01 00:00:00.000038339
+23,Norco Bicycles,Mountain,low,small,688.63,612.88,1970-01-01 00:00:00.000040670
+82,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000040553
+20,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000034115
+65,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000034115
+76,WeareA2B,Standard,low,medium,642.31,513.85,1970-01-01 00:00:00.000033429
+17,Solex,Standard,high,medium,1024.66,614.8,1970-01-01 00:00:00.000042404
+39,Giant Bicycles,Standard,medium,large,1812.75,582.48,1970-01-01 00:00:00.000040336
+34,WeareA2B,Standard,medium,medium,1231.15,161.6,1970-01-01 00:00:00.000038216
+97,OHM Cycles,Road,medium,medium,742.54,667.4,1970-01-01 00:00:00.000041701
+9,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000033455
+11,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000035378
+96,Giant Bicycles,Standard,medium,large,1635.3,993.66,1970-01-01 00:00:00.000038002
+28,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000041701
+70,Trek Bicycles,Standard,high,medium,495.72,297.43,1970-01-01 00:00:00.000041922
+62,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000036146
+21,Solex,Standard,medium,large,1071.23,380.74,1970-01-01 00:00:00.000035160
+4,Solex,Standard,medium,medium,1483.2,99.59,1970-01-01 00:00:00.000036146
+13,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000039526
+33,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000037698
+54,WeareA2B,Standard,medium,medium,1292.84,13.44,1970-01-01 00:00:00.000042295
+93,WeareA2B,Standard,medium,medium,1065.03,230.09,1970-01-01 00:00:00.000036833
+63,Solex,Standard,medium,medium,1483.2,99.59,1970-01-01 00:00:00.000038647
+52,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000042295
+33,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000035560
+0,Solex,Standard,medium,medium,71.49,53.62,1970-01-01 00:00:00.000041245
+5,Trek Bicycles,Mountain,low,medium,574.64,459.71,1970-01-01 00:00:00.000039298
+29,Norco Bicycles,Road,medium,medium,543.39,407.54,1970-01-01 00:00:00.000042696
+80,Trek Bicycles,Standard,medium,large,1469.44,596.55,1970-01-01 00:00:00.000041047
+9,OHM Cycles,Road,medium,medium,742.54,667.4,1970-01-01 00:00:00.000034143
+24,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000042710
+84,Giant Bicycles,Road,medium,medium,792.9,594.68,1970-01-01 00:00:00.000042105
+7,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000040336
+46,Solex,Standard,low,medium,1289.85,74.51,1970-01-01 00:00:00.000039427
+62,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000041047
+81,Norco Bicycles,Standard,medium,small,586.45,521.94,1970-01-01 00:00:00.000038206
+31,Giant Bicycles,Standard,medium,medium,230.91,173.18,1970-01-01 00:00:00.000039031
+13,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000035560
+59,Solex,Standard,medium,large,1061.56,733.58,1970-01-01 00:00:00.000034143
+53,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000034170
+18,Solex,Standard,medium,medium,575.27,431.45,1970-01-01 00:00:00.000034165
+18,Solex,Standard,medium,medium,575.27,431.45,1970-01-01 00:00:00.000036367
+25,OHM Cycles,Standard,high,medium,2005.66,1203.4,1970-01-01 00:00:00.000034170
+21,WeareA2B,Touring,medium,medium,1466.68,363.25,1970-01-01 00:00:00.000037838
+73,Solex,Standard,medium,medium,1945.43,333.18,1970-01-01 00:00:00.000038859
+98,Trek Bicycles,Standard,high,medium,358.39,215.03,1970-01-01 00:00:00.000038002
+52,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000037220
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000037823
+87,OHM Cycles,Standard,medium,medium,1636.9,44.71,1970-01-01 00:00:00.000037499
+25,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000038339
+32,Giant Bicycles,Standard,medium,medium,642.7,211.37,1970-01-01 00:00:00.000034527
+44,WeareA2B,Standard,medium,medium,1769.64,108.76,1970-01-01 00:00:00.000038750
+92,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000042172
+21,Solex,Standard,medium,large,1071.23,380.74,1970-01-01 00:00:00.000033455
+62,Solex,Standard,high,medium,1024.66,614.8,1970-01-01 00:00:00.000034244
+28,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000035052
+77,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000041434
+66,Giant Bicycles,Road,low,small,590.26,525.33,1970-01-01 00:00:00.000040487
+66,Giant Bicycles,Road,low,small,590.26,525.33,1970-01-01 00:00:00.000034996
+17,Solex,Standard,high,medium,1024.66,614.8,1970-01-01 00:00:00.000040487
+85,WeareA2B,Standard,medium,medium,752.64,205.36,1970-01-01 00:00:00.000042218
+24,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000033552
+57,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000041047
+53,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000040779
+43,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000040672
+77,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000042226
+92,WeareA2B,Standard,medium,small,1415.01,1259.36,1970-01-01 00:00:00.000038002
+99,OHM Cycles,Standard,medium,medium,1227.34,770.89,1970-01-01 00:00:00.000033364
+37,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000040618
+14,Trek Bicycles,Standard,medium,small,1386.84,1234.29,1970-01-01 00:00:00.000034165
+42,OHM Cycles,Road,medium,small,1810.0,1610.9,1970-01-01 00:00:00.000040672
+77,WeareA2B,Standard,medium,medium,1769.64,108.76,1970-01-01 00:00:00.000039427
+57,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000033259
+30,OHM Cycles,Standard,medium,medium,1227.34,770.89,1970-01-01 00:00:00.000034556
+4,Giant Bicycles,Standard,high,medium,1129.13,677.48,1970-01-01 00:00:00.000036361
+74,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000035470
+38,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000040618
+40,OHM Cycles,Standard,high,medium,1458.17,874.9,1970-01-01 00:00:00.000034071
+80,OHM Cycles,Touring,low,medium,1073.07,933.84,1970-01-01 00:00:00.000035455
+96,Giant Bicycles,Standard,medium,large,1635.3,993.66,1970-01-01 00:00:00.000041434
+45,Trek Bicycles,Road,low,medium,980.37,234.43,1970-01-01 00:00:00.000038258
+0,OHM Cycles,Standard,high,medium,227.88,136.73,1970-01-01 00:00:00.000037659
+21,Solex,Standard,medium,large,1071.23,380.74,1970-01-01 00:00:00.000034244
+90,Solex,Standard,low,medium,945.04,507.58,1970-01-01 00:00:00.000035052
+91,Solex,Standard,medium,medium,100.35,75.26,1970-01-01 00:00:00.000034556
+54,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000042145
+20,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000033455
+65,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000040410
+97,Solex,Standard,medium,large,202.62,151.96,1970-01-01 00:00:00.000033364
+45,Solex,Standard,medium,medium,441.49,84.99,1970-01-01 00:00:00.000041064
+65,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000033879
+10,WeareA2B,Touring,medium,medium,1466.68,363.25,1970-01-01 00:00:00.000038693
+76,WeareA2B,Road,low,small,1172.78,1043.77,1970-01-01 00:00:00.000037539
+4,Solex,Standard,medium,medium,1483.2,99.59,1970-01-01 00:00:00.000038647
+89,WeareA2B,Touring,medium,large,1362.99,57.74,1970-01-01 00:00:00.000036833
+89,WeareA2B,Touring,medium,large,1362.99,57.74,1970-01-01 00:00:00.000042560
+66,Solex,Standard,medium,medium,1163.89,589.27,1970-01-01 00:00:00.000037838
+51,OHM Cycles,Standard,high,medium,2005.66,1203.4,1970-01-01 00:00:00.000039915
+0,Trek Bicycles,Road,medium,medium,290.62,215.14,1970-01-01 00:00:00.000038339
+43,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000034071
+56,OHM Cycles,Standard,medium,medium,183.86,137.9,1970-01-01 00:00:00.000042172
+82,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000037337
+7,Trek Bicycles,Road,low,medium,980.37,234.43,1970-01-01 00:00:00.000033429
+0,Giant Bicycles,Standard,medium,large,569.56,528.43,1970-01-01 00:00:00.000033364
+31,Giant Bicycles,Standard,medium,medium,230.91,173.18,1970-01-01 00:00:00.000033888
+84,Trek Bicycles,Road,medium,medium,290.62,215.14,1970-01-01 00:00:00.000034079
+86,Norco Bicycles,Road,high,large,774.53,464.72,1970-01-01 00:00:00.000037698
+12,Giant Bicycles,Standard,medium,large,1765.3,709.48,1970-01-01 00:00:00.000042218
+45,Trek Bicycles,Road,low,medium,980.37,234.43,1970-01-01 00:00:00.000038216
+76,WeareA2B,Road,low,small,1172.78,1043.77,1970-01-01 00:00:00.000034556
+89,WeareA2B,Touring,medium,large,1362.99,57.74,1970-01-01 00:00:00.000037874
+52,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000040670
+96,WeareA2B,Road,low,small,1172.78,1043.77,1970-01-01 00:00:00.000033364
+0,OHM Cycles,Standard,high,medium,227.88,136.73,1970-01-01 00:00:00.000040649
+70,Trek Bicycles,Standard,high,medium,495.72,297.43,1970-01-01 00:00:00.000036367
+74,WeareA2B,Standard,medium,medium,1228.07,400.91,1970-01-01 00:00:00.000036668
+85,WeareA2B,Standard,medium,medium,752.64,205.36,1970-01-01 00:00:00.000036833
+85,WeareA2B,Standard,medium,medium,1228.07,400.91,1970-01-01 00:00:00.000036668
+91,WeareA2B,Standard,low,medium,642.31,513.85,1970-01-01 00:00:00.000040553
+24,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000042696
+81,Norco Bicycles,Standard,medium,small,586.45,521.94,1970-01-01 00:00:00.000036145
+12,WeareA2B,Standard,medium,medium,1231.15,161.6,1970-01-01 00:00:00.000035378
+79,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000040303
+89,Giant Bicycles,Standard,medium,large,1812.75,582.48,1970-01-01 00:00:00.000040336
+62,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000041245
+89,WeareA2B,Touring,medium,large,1362.99,57.74,1970-01-01 00:00:00.000038482
+94,Giant Bicycles,Standard,medium,large,1635.3,993.66,1970-01-01 00:00:00.000034556
+0,Norco Bicycles,Road,medium,medium,543.39,407.54,1970-01-01 00:00:00.000042696
+90,Solex,Standard,low,medium,945.04,507.58,1970-01-01 00:00:00.000040672
+49,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000033259
+83,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000038482
+95,Giant Bicycles,Standard,medium,large,569.56,528.43,1970-01-01 00:00:00.000039031
+95,Giant Bicycles,Standard,medium,large,569.56,528.43,1970-01-01 00:00:00.000042458
+30,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000033552
+97,Solex,Standard,medium,large,202.62,151.96,1970-01-01 00:00:00.000042458
+99,OHM Cycles,Standard,medium,medium,1227.34,770.89,1970-01-01 00:00:00.000034556
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000036498
+42,OHM Cycles,Road,medium,small,1810.0,1610.9,1970-01-01 00:00:00.000035455
+64,Trek Bicycles,Standard,medium,large,1469.44,596.55,1970-01-01 00:00:00.000042710
+4,Giant Bicycles,Standard,high,medium,1129.13,677.48,1970-01-01 00:00:00.000038573
+8,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000038693
+26,WeareA2B,Standard,medium,medium,1992.93,762.63,1970-01-01 00:00:00.000042218
+0,WeareA2B,Standard,medium,medium,60.34,45.26,1970-01-01 00:00:00.000033552
+41,Solex,Road,medium,medium,416.98,312.74,1970-01-01 00:00:00.000036498
+62,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000040410
+72,Norco Bicycles,Standard,medium,medium,360.4,270.3,1970-01-01 00:00:00.000037873
+68,OHM Cycles,Standard,medium,medium,1636.9,44.71,1970-01-01 00:00:00.000036668
+5,Giant Bicycles,Standard,high,medium,1129.13,677.48,1970-01-01 00:00:00.000037698
+61,OHM Cycles,Standard,low,medium,71.16,56.93,1970-01-01 00:00:00.000034143
+0,OHM Cycles,Standard,medium,medium,183.86,137.9,1970-01-01 00:00:00.000035707
+0,N/A,N/A,N/A,N/A,1972.01,619.48,1970-01-01 00:00:00.000036361
+74,WeareA2B,Standard,medium,medium,1228.07,400.91,1970-01-01 00:00:00.000038193
+75,Giant Bicycles,Touring,medium,large,1873.97,863.95,1970-01-01 00:00:00.000038859
+34,Norco Bicycles,Road,high,large,774.53,464.72,1970-01-01 00:00:00.000037698
+54,WeareA2B,Standard,medium,medium,1292.84,13.44,1970-01-01 00:00:00.000042172
+88,Norco Bicycles,Standard,high,small,1661.92,1479.11,1970-01-01 00:00:00.000040303
+15,Norco Bicycles,Standard,low,medium,958.74,748.9,1970-01-01 00:00:00.000034165
+8,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000033549
+0,Solex,Road,medium,medium,416.98,312.74,1970-01-01 00:00:00.000034165
+64,Trek Bicycles,Standard,medium,large,1469.44,596.55,1970-01-01 00:00:00.000040410
+88,Norco Bicycles,Standard,high,small,1661.92,1479.11,1970-01-01 00:00:00.000034586
+60,Giant Bicycles,Standard,high,small,1977.36,1759.85,1970-01-01 00:00:00.000040779
+51,OHM Cycles,Standard,high,medium,2005.66,1203.4,1970-01-01 00:00:00.000035707
+24,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000033455
+0,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000035470
+41,Norco Bicycles,Standard,low,medium,958.74,748.9,1970-01-01 00:00:00.000038693
+82,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000038859
+47,Trek Bicycles,Road,low,small,1720.7,1531.42,1970-01-01 00:00:00.000037823
+0,Solex,Standard,medium,medium,100.35,75.26,1970-01-01 00:00:00.000036367
+65,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000042710
+95,OHM Cycles,Touring,low,medium,1073.07,933.84,1970-01-01 00:00:00.000042226
+0,Trek Bicycles,Standard,high,medium,495.72,297.43,1970-01-01 00:00:00.000038859
+27,Trek Bicycles,Standard,low,medium,1057.51,154.4,1970-01-01 00:00:00.000040336
+19,OHM Cycles,Road,high,large,12.01,7.21,1970-01-01 00:00:00.000039880
+53,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000039298
+52,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000035707
+62,Solex,Standard,high,medium,1024.66,614.8,1970-01-01 00:00:00.000035378
+74,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000037823
+42,OHM Cycles,Road,medium,small,1810.0,1610.9,1970-01-01 00:00:00.000039526
+26,WeareA2B,Standard,medium,medium,1992.93,762.63,1970-01-01 00:00:00.000033888
+56,Norco Bicycles,Mountain,low,small,688.63,612.88,1970-01-01 00:00:00.000034244
+28,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000033455
+78,Giant Bicycles,Standard,medium,large,1765.3,709.48,1970-01-01 00:00:00.000038206
+32,Giant Bicycles,Standard,medium,medium,642.7,211.37,1970-01-01 00:00:00.000040336
+75,Giant Bicycles,Touring,medium,large,1873.97,863.95,1970-01-01 00:00:00.000033429
+59,Solex,Standard,medium,large,1061.56,733.58,1970-01-01 00:00:00.000040779
+8,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000041701
+4,Giant Bicycles,Standard,high,medium,1129.13,677.48,1970-01-01 00:00:00.000033549
+6,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000033552
+81,Norco Bicycles,Standard,medium,small,586.45,521.94,1970-01-01 00:00:00.000034079
+95,OHM Cycles,Touring,low,medium,1073.07,933.84,1970-01-01 00:00:00.000041533
+58,OHM Cycles,Standard,medium,medium,912.52,141.4,1970-01-01 00:00:00.000041047
+39,Giant Bicycles,Standard,medium,large,1812.75,582.48,1970-01-01 00:00:00.000036498
+64,Trek Bicycles,Standard,medium,large,1469.44,596.55,1970-01-01 00:00:00.000040487
+94,Giant Bicycles,Standard,medium,large,1635.3,993.66,1970-01-01 00:00:00.000038002
+0,N/A,N/A,N/A,N/A,311.54,215.14,1970-01-01 00:00:00.000037823
+0,Giant Bicycles,Standard,medium,large,569.56,528.43,1970-01-01 00:00:00.000037874
+81,Norco Bicycles,Standard,medium,small,586.45,521.94,1970-01-01 00:00:00.000041533
+34,Norco Bicycles,Road,high,large,774.53,464.72,1970-01-01 00:00:00.000040336
+0,OHM Cycles,Standard,medium,medium,235.63,125.07,1970-01-01 00:00:00.000035667
+67,Solex,Standard,medium,large,1071.23,380.74,1970-01-01 00:00:00.000040670
+69,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000042226
+18,Solex,Standard,medium,medium,575.27,431.45,1970-01-01 00:00:00.000035667
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000039526
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000040670
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000040336
+21,WeareA2B,Touring,medium,medium,1466.68,363.25,1970-01-01 00:00:00.000038693
+34,WeareA2B,Standard,medium,medium,1231.15,161.6,1970-01-01 00:00:00.000035378
+47,Trek Bicycles,Road,low,small,1720.7,1531.42,1970-01-01 00:00:00.000038991
+0,Trek Bicycles,Road,medium,medium,290.62,215.14,1970-01-01 00:00:00.000035667
+22,WeareA2B,Standard,medium,medium,60.34,45.26,1970-01-01 00:00:00.000042696
+98,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000037823
+2,Solex,Standard,medium,medium,71.49,53.62,1970-01-01 00:00:00.000037659
+45,Solex,Standard,medium,medium,441.49,84.99,1970-01-01 00:00:00.000033879
+51,OHM Cycles,Standard,high,medium,2005.66,1203.4,1970-01-01 00:00:00.000037220
+2,Giant Bicycles,Road,low,small,590.26,525.33,1970-01-01 00:00:00.000036668
+36,Solex,Standard,low,medium,1289.85,74.51,1970-01-01 00:00:00.000039427
+1,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000041245
+76,WeareA2B,Standard,low,medium,642.31,513.85,1970-01-01 00:00:00.000037873
+54,WeareA2B,Standard,medium,medium,1292.84,13.44,1970-01-01 00:00:00.000042226
+45,Solex,Standard,medium,medium,441.49,84.99,1970-01-01 00:00:00.000037220
+0,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000035707
+21,Solex,Standard,medium,large,1071.23,380.74,1970-01-01 00:00:00.000042404
+40,OHM Cycles,Standard,high,medium,1458.17,874.9,1970-01-01 00:00:00.000036498
+95,OHM Cycles,Touring,low,medium,1073.07,933.84,1970-01-01 00:00:00.000036145
+38,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000039526
+57,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000042145
+93,WeareA2B,Standard,medium,medium,1065.03,230.09,1970-01-01 00:00:00.000037874
+0,Norco Bicycles,Standard,medium,medium,360.4,270.3,1970-01-01 00:00:00.000042710
+56,OHM Cycles,Standard,medium,medium,183.86,137.9,1970-01-01 00:00:00.000036146
+2,Solex,Standard,medium,medium,71.49,53.62,1970-01-01 00:00:00.000040784
+0,Trek Bicycles,Standard,high,medium,495.72,297.43,1970-01-01 00:00:00.000042710
+40,OHM Cycles,Standard,high,medium,1458.17,874.9,1970-01-01 00:00:00.000039526
+92,WeareA2B,Standard,medium,small,1415.01,1259.36,1970-01-01 00:00:00.000037539
+56,OHM Cycles,Standard,medium,medium,183.86,137.9,1970-01-01 00:00:00.000033259
+38,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000035560
+73,Solex,Standard,medium,medium,1945.43,333.18,1970-01-01 00:00:00.000040553
+40,OHM Cycles,Standard,high,medium,1458.17,874.9,1970-01-01 00:00:00.000041848
+1,Giant Bicycles,Touring,medium,large,1873.97,863.95,1970-01-01 00:00:00.000042226
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000033259
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000037659
+55,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000042295
+87,OHM Cycles,Standard,medium,medium,1636.9,44.71,1970-01-01 00:00:00.000038859
+100,Trek Bicycles,Standard,medium,small,1386.84,1234.29,1970-01-01 00:00:00.000037838
+0,OHM Cycles,Standard,high,medium,227.88,136.73,1970-01-01 00:00:00.000038258
+6,OHM Cycles,Standard,high,medium,227.88,136.73,1970-01-01 00:00:00.000037659
+39,Giant Bicycles,Standard,medium,large,1812.75,582.48,1970-01-01 00:00:00.000038750
+0,Trek Bicycles,Standard,high,medium,358.39,215.03,1970-01-01 00:00:00.000033364
+2,Giant Bicycles,Road,low,small,590.26,525.33,1970-01-01 00:00:00.000033879
+60,Giant Bicycles,Standard,high,small,1977.36,1759.85,1970-01-01 00:00:00.000038647
+5,Trek Bicycles,Mountain,low,medium,574.64,459.71,1970-01-01 00:00:00.000033549
+93,WeareA2B,Standard,medium,medium,1065.03,230.09,1970-01-01 00:00:00.000034556
+27,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000037698
+84,Trek Bicycles,Road,medium,medium,290.62,215.14,1970-01-01 00:00:00.000042218
+36,Solex,Standard,low,medium,945.04,507.58,1970-01-01 00:00:00.000035560
+93,WeareA2B,Standard,medium,medium,1065.03,230.09,1970-01-01 00:00:00.000033364
+85,WeareA2B,Standard,medium,medium,752.64,205.36,1970-01-01 00:00:00.000037626
+86,Norco Bicycles,Road,high,large,774.53,464.72,1970-01-01 00:00:00.000038750
+23,Norco Bicycles,Mountain,low,small,688.63,612.88,1970-01-01 00:00:00.000036334
+0,WeareA2B,Standard,medium,small,175.89,131.92,1970-01-01 00:00:00.000035470
+4,Giant Bicycles,Standard,high,medium,1129.13,677.48,1970-01-01 00:00:00.000035052
+50,Giant Bicycles,Standard,medium,medium,642.7,211.37,1970-01-01 00:00:00.000037337
+79,Norco Bicycles,Standard,medium,medium,1555.58,818.01,1970-01-01 00:00:00.000041345
+2,Solex,Standard,medium,medium,71.49,53.62,1970-01-01 00:00:00.000041167
+35,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000040784
+97,OHM Cycles,Road,medium,medium,742.54,667.4,1970-01-01 00:00:00.000033549
+52,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000034115
+11,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000040303
+83,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000034079
+38,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000037220
+50,Giant Bicycles,Standard,medium,medium,642.7,211.37,1970-01-01 00:00:00.000035052
+49,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000037220
+40,OHM Cycles,Standard,high,medium,1458.17,874.9,1970-01-01 00:00:00.000038991
+36,Solex,Standard,low,medium,945.04,507.58,1970-01-01 00:00:00.000036361
+17,Solex,Standard,high,medium,1024.66,614.8,1970-01-01 00:00:00.000034165
+23,Norco Bicycles,Mountain,low,small,688.63,612.88,1970-01-01 00:00:00.000034071
+5,Trek Bicycles,Mountain,low,medium,574.64,459.71,1970-01-01 00:00:00.000037659
+0,OHM Cycles,Standard,medium,medium,235.63,125.07,1970-01-01 00:00:00.000038482
+63,Solex,Standard,medium,medium,1483.2,99.59,1970-01-01 00:00:00.000038216
+18,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000041533
+56,OHM Cycles,Standard,medium,medium,183.86,137.9,1970-01-01 00:00:00.000042295
+10,WeareA2B,Touring,medium,medium,1466.68,363.25,1970-01-01 00:00:00.000035378
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000038482
+64,Giant Bicycles,Standard,high,small,1977.36,1759.85,1970-01-01 00:00:00.000038647
+37,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000039526
+28,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000040649
+1,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000036833
+53,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000038216
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000038859
+59,WeareA2B,Standard,medium,small,1415.01,1259.36,1970-01-01 00:00:00.000033364
+33,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000040618
+52,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000033455
+93,WeareA2B,Standard,medium,medium,1065.03,230.09,1970-01-01 00:00:00.000039298
+0,N/A,N/A,N/A,N/A,205.84,149.26999999999998,1970-01-01 00:00:00.000039880
+80,OHM Cycles,Touring,low,medium,1073.07,933.84,1970-01-01 00:00:00.000033429
+84,Giant Bicycles,Road,medium,medium,792.9,594.68,1970-01-01 00:00:00.000042710
+35,Trek Bicycles,Standard,low,medium,1057.51,154.4,1970-01-01 00:00:00.000039526
+41,Norco Bicycles,Standard,low,medium,958.74,748.9,1970-01-01 00:00:00.000035160
+43,Norco Bicycles,Standard,medium,medium,1555.58,818.01,1970-01-01 00:00:00.000038206
+4,Giant Bicycles,Standard,high,medium,1129.13,677.48,1970-01-01 00:00:00.000037698
+23,Norco Bicycles,Standard,medium,medium,1198.46,381.1,1970-01-01 00:00:00.000036833
+25,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000036334
+93,WeareA2B,Standard,medium,medium,1065.03,230.09,1970-01-01 00:00:00.000038002
+49,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000035470
+49,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000035707
+0,Solex,Standard,medium,medium,71.49,53.62,1970-01-01 00:00:00.000041167
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000039298
+30,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000037698
+17,Solex,Standard,high,medium,1024.66,614.8,1970-01-01 00:00:00.000040303
+54,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000033879
+15,Norco Bicycles,Standard,low,medium,958.74,748.9,1970-01-01 00:00:00.000034244
+39,Giant Bicycles,Standard,medium,large,1812.75,582.48,1970-01-01 00:00:00.000039526
+62,Solex,Standard,high,medium,1024.66,614.8,1970-01-01 00:00:00.000042404
+66,Giant Bicycles,Road,low,small,590.26,525.33,1970-01-01 00:00:00.000042710
+77,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000033429
+81,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000038991
+68,OHM Cycles,Standard,medium,medium,1636.9,44.71,1970-01-01 00:00:00.000034996
+63,Solex,Standard,medium,medium,1483.2,99.59,1970-01-01 00:00:00.000034996
+99,Trek Bicycles,Road,low,small,1720.7,1531.42,1970-01-01 00:00:00.000035470
+96,WeareA2B,Road,low,small,1172.78,1043.77,1970-01-01 00:00:00.000038002
+35,Trek Bicycles,Standard,low,medium,1057.51,154.4,1970-01-01 00:00:00.000040618
+10,WeareA2B,Touring,medium,medium,1466.68,363.25,1970-01-01 00:00:00.000039298
+36,Solex,Standard,low,medium,945.04,507.58,1970-01-01 00:00:00.000040784
+91,Solex,Standard,medium,medium,100.35,75.26,1970-01-01 00:00:00.000038002
+74,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000037220
+72,Norco Bicycles,Standard,medium,medium,360.4,270.3,1970-01-01 00:00:00.000038193
+43,Norco Bicycles,Standard,medium,medium,1555.58,818.01,1970-01-01 00:00:00.000041533
+14,Trek Bicycles,Standard,medium,small,1386.84,1234.29,1970-01-01 00:00:00.000041345
+92,WeareA2B,Standard,medium,small,1415.01,1259.36,1970-01-01 00:00:00.000037626
+71,Solex,Standard,high,large,1842.92,1105.75,1970-01-01 00:00:00.000037873
+31,Giant Bicycles,Standard,medium,medium,230.91,173.18,1970-01-01 00:00:00.000035052
+27,Trek Bicycles,Standard,low,medium,1057.51,154.4,1970-01-01 00:00:00.000034527
+27,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000033888
+50,Giant Bicycles,Standard,medium,medium,642.7,211.37,1970-01-01 00:00:00.000034527
+85,WeareA2B,Standard,medium,medium,752.64,205.36,1970-01-01 00:00:00.000036367
+83,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000035667
+82,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000042218
+0,OHM Cycles,Road,high,large,12.01,7.21,1970-01-01 00:00:00.000039880
+58,OHM Cycles,Standard,medium,medium,912.52,141.4,1970-01-01 00:00:00.000036146
+80,OHM Cycles,Touring,low,medium,1073.07,933.84,1970-01-01 00:00:00.000041533
+85,WeareA2B,Standard,medium,medium,752.64,205.36,1970-01-01 00:00:00.000035667
+89,WeareA2B,Touring,medium,large,1362.99,57.74,1970-01-01 00:00:00.000042458
+7,Trek Bicycles,Road,low,medium,980.37,234.43,1970-01-01 00:00:00.000039298
+5,Trek Bicycles,Mountain,low,medium,574.64,459.71,1970-01-01 00:00:00.000036145
+0,Solex,Standard,medium,medium,71.49,53.62,1970-01-01 00:00:00.000041701
+41,Solex,Road,medium,medium,416.98,312.74,1970-01-01 00:00:00.000036334
+0,Solex,Road,medium,medium,416.98,312.74,1970-01-01 00:00:00.000041064
+0,Norco Bicycles,Road,medium,medium,543.39,407.54,1970-01-01 00:00:00.000034527
+0,N/A,N/A,N/A,N/A,605.54,481.5833333333333,1970-01-01 00:00:00.000039526
+77,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000035455
+10,WeareA2B,Touring,medium,medium,1466.68,363.25,1970-01-01 00:00:00.000034556
+88,Norco Bicycles,Standard,medium,medium,1198.46,381.1,1970-01-01 00:00:00.000038482
+61,Norco Bicycles,Standard,medium,small,586.45,521.94,1970-01-01 00:00:00.000041533
+48,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000037220
+45,Trek Bicycles,Road,low,medium,980.37,234.43,1970-01-01 00:00:00.000040649
+4,Giant Bicycles,Standard,high,medium,1129.13,677.48,1970-01-01 00:00:00.000040784
+37,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000036146
+27,Trek Bicycles,Standard,low,medium,1057.51,154.4,1970-01-01 00:00:00.000036361
+69,Giant Bicycles,Road,medium,medium,792.9,594.68,1970-01-01 00:00:00.000034996
+85,WeareA2B,Standard,medium,medium,752.64,205.36,1970-01-01 00:00:00.000038482
+0,Trek Bicycles,Road,medium,medium,290.62,215.14,1970-01-01 00:00:00.000042218
+8,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000037838
+92,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000035160
+72,OHM Cycles,Standard,medium,medium,912.52,141.4,1970-01-01 00:00:00.000042295
+54,WeareA2B,Standard,medium,medium,1292.84,13.44,1970-01-01 00:00:00.000037823
+49,Solex,Standard,medium,large,1061.56,733.58,1970-01-01 00:00:00.000034170
+68,OHM Cycles,Standard,medium,medium,1636.9,44.71,1970-01-01 00:00:00.000033879
+0,Solex,Standard,medium,medium,71.49,53.62,1970-01-01 00:00:00.000040784
+28,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000042560
+0,N/A,N/A,N/A,N/A,756.31,448.8999999999999,1970-01-01 00:00:00.000035560
+10,WeareA2B,Touring,medium,medium,1466.68,363.25,1970-01-01 00:00:00.000041701
+0,OHM Cycles,Standard,low,medium,71.16,56.93,1970-01-01 00:00:00.000038647
+84,Trek Bicycles,Road,medium,medium,290.62,215.14,1970-01-01 00:00:00.000038206
+70,Trek Bicycles,Standard,high,medium,495.72,297.43,1970-01-01 00:00:00.000036668
+95,OHM Cycles,Touring,low,medium,1073.07,933.84,1970-01-01 00:00:00.000038206
+23,Norco Bicycles,Standard,medium,medium,1198.46,381.1,1970-01-01 00:00:00.000037626
+0,OHM Cycles,Standard,medium,medium,183.86,137.9,1970-01-01 00:00:00.000042172
+61,Norco Bicycles,Standard,medium,small,586.45,521.94,1970-01-01 00:00:00.000036145
+15,WeareA2B,Standard,medium,medium,1292.84,13.44,1970-01-01 00:00:00.000040779
+87,Giant Bicycles,Standard,high,medium,1179.0,707.4,1970-01-01 00:00:00.000036145
+96,WeareA2B,Road,low,small,1172.78,1043.77,1970-01-01 00:00:00.000034556
+93,OHM Cycles,Standard,high,medium,1458.17,874.9,1970-01-01 00:00:00.000035560
+75,Giant Bicycles,Touring,medium,large,1873.97,863.95,1970-01-01 00:00:00.000035455
+95,OHM Cycles,Touring,low,medium,1073.07,933.84,1970-01-01 00:00:00.000042218
+6,OHM Cycles,Standard,high,medium,227.88,136.73,1970-01-01 00:00:00.000042560
+0,Giant Bicycles,Standard,medium,medium,230.91,173.18,1970-01-01 00:00:00.000033888
+54,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000033552
+69,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000035455
+74,WeareA2B,Standard,medium,medium,1228.07,400.91,1970-01-01 00:00:00.000038859
+80,OHM Cycles,Touring,low,medium,1073.07,933.84,1970-01-01 00:00:00.000038206
+0,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000034143
+99,Trek Bicycles,Road,low,small,1720.7,1531.42,1970-01-01 00:00:00.000037220
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000041848
+1,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000037659
+52,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000039031
+18,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000038482
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000040779
+0,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000041047
+0,N/A,N/A,N/A,N/A,850.0,101.58,1970-01-01 00:00:00.000034527
+57,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000040779
+11,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000034244
+38,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000039427
+14,Trek Bicycles,Standard,medium,small,1386.84,1234.29,1970-01-01 00:00:00.000040303
+43,Norco Bicycles,Standard,medium,medium,1555.58,818.01,1970-01-01 00:00:00.000037873
+54,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000038647
+62,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000040649
+59,Solex,Standard,medium,large,1061.56,733.58,1970-01-01 00:00:00.000040487
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000039298
+64,Trek Bicycles,Standard,medium,large,1469.44,596.55,1970-01-01 00:00:00.000042105
+95,Giant Bicycles,Standard,medium,large,569.56,528.43,1970-01-01 00:00:00.000034556
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000038258
+7,Trek Bicycles,Road,low,medium,980.37,234.43,1970-01-01 00:00:00.000040649
+91,Solex,Standard,medium,medium,100.35,75.26,1970-01-01 00:00:00.000041434
+73,Solex,Standard,medium,medium,1945.43,333.18,1970-01-01 00:00:00.000038193
+90,Norco Bicycles,Standard,low,medium,363.01,290.41,1970-01-01 00:00:00.000037539
+18,Solex,Standard,medium,medium,575.27,431.45,1970-01-01 00:00:00.000040670
+43,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000041848
+39,Giant Bicycles,Standard,medium,large,1812.75,582.48,1970-01-01 00:00:00.000035560
+62,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000042145
+66,Solex,Standard,medium,medium,1163.89,589.27,1970-01-01 00:00:00.000042295
+35,Trek Bicycles,Standard,low,medium,1057.51,154.4,1970-01-01 00:00:00.000035052
+32,Giant Bicycles,Standard,high,medium,1179.0,707.4,1970-01-01 00:00:00.000038482
+73,Solex,Standard,medium,medium,1945.43,333.18,1970-01-01 00:00:00.000041922
+65,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000040487
+52,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000035455
+72,OHM Cycles,Standard,medium,medium,912.52,141.4,1970-01-01 00:00:00.000034143
+33,OHM Cycles,Road,medium,small,1810.0,1610.9,1970-01-01 00:00:00.000039526
+63,WeareA2B,Standard,medium,medium,1992.93,762.63,1970-01-01 00:00:00.000033455
+23,Norco Bicycles,Mountain,low,small,688.63,612.88,1970-01-01 00:00:00.000033552
+9,OHM Cycles,Road,medium,medium,742.54,667.4,1970-01-01 00:00:00.000042560
+13,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000038750
+76,WeareA2B,Standard,low,medium,642.31,513.85,1970-01-01 00:00:00.000042226
+28,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000033888
+70,Trek Bicycles,Standard,high,medium,495.72,297.43,1970-01-01 00:00:00.000038193
+65,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000038647
+42,OHM Cycles,Road,medium,small,1810.0,1610.9,1970-01-01 00:00:00.000037668
+31,WeareA2B,Standard,medium,medium,752.64,205.36,1970-01-01 00:00:00.000036145
+15,Norco Bicycles,Standard,low,medium,958.74,748.9,1970-01-01 00:00:00.000035378
+40,OHM Cycles,Standard,high,medium,1458.17,874.9,1970-01-01 00:00:00.000040672
+0,OHM Cycles,Standard,medium,medium,183.86,137.9,1970-01-01 00:00:00.000034170
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000037220
+7,Trek Bicycles,Road,low,medium,980.37,234.43,1970-01-01 00:00:00.000037838
+57,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000042172
+32,Giant Bicycles,Standard,high,medium,1179.0,707.4,1970-01-01 00:00:00.000035667
+83,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000036367
+0,OHM Cycles,Standard,medium,medium,235.63,125.07,1970-01-01 00:00:00.000038206
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000037659
+7,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000035052
+92,WeareA2B,Standard,medium,small,1415.01,1259.36,1970-01-01 00:00:00.000036145
+82,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000036145
+93,WeareA2B,Standard,medium,medium,1065.03,230.09,1970-01-01 00:00:00.000041434
+34,Norco Bicycles,Road,high,large,774.53,464.72,1970-01-01 00:00:00.000036361
+21,WeareA2B,Touring,medium,medium,1466.68,363.25,1970-01-01 00:00:00.000041701
+30,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000042105
+53,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000039915
+48,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000042688
+1,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000035667
+9,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000033888
+1,Giant Bicycles,Touring,medium,large,1873.97,863.95,1970-01-01 00:00:00.000038859
+75,Giant Bicycles,Touring,medium,large,1873.97,863.95,1970-01-01 00:00:00.000041922
+7,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000040618
+89,Giant Bicycles,Standard,medium,large,1812.75,582.48,1970-01-01 00:00:00.000038750
+20,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000040670
+57,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000034586
+63,Solex,Standard,medium,medium,1483.2,99.59,1970-01-01 00:00:00.000042105
+0,OHM Cycles,Standard,medium,medium,183.86,137.9,1970-01-01 00:00:00.000033259
+86,OHM Cycles,Standard,medium,medium,235.63,125.07,1970-01-01 00:00:00.000036833
+51,OHM Cycles,Standard,high,medium,2005.66,1203.4,1970-01-01 00:00:00.000034071
+53,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000039880
+52,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000042696
+71,Solex,Standard,high,large,1842.92,1105.75,1970-01-01 00:00:00.000040553
+84,Trek Bicycles,Road,medium,medium,290.62,215.14,1970-01-01 00:00:00.000037626
+97,OHM Cycles,Road,medium,medium,742.54,667.4,1970-01-01 00:00:00.000042560
+77,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000036833
+82,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000036334
+79,Norco Bicycles,Standard,medium,medium,1555.58,818.01,1970-01-01 00:00:00.000042226
+48,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000041009
+34,Norco Bicycles,Road,high,large,774.53,464.72,1970-01-01 00:00:00.000041009
+39,Giant Bicycles,Standard,medium,large,1812.75,582.48,1970-01-01 00:00:00.000034071
+89,Giant Bicycles,Standard,medium,large,1812.75,582.48,1970-01-01 00:00:00.000040618
+90,Norco Bicycles,Standard,low,medium,363.01,290.41,1970-01-01 00:00:00.000037874
+54,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000040410
+28,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000040303
+0,Giant Bicycles,Standard,medium,large,569.56,528.43,1970-01-01 00:00:00.000038002
+51,OHM Cycles,Standard,high,medium,2005.66,1203.4,1970-01-01 00:00:00.000040672
+79,Norco Bicycles,Standard,medium,medium,1555.58,818.01,1970-01-01 00:00:00.000035667
+23,Norco Bicycles,Standard,medium,medium,1198.46,381.1,1970-01-01 00:00:00.000038482
+64,Trek Bicycles,Standard,medium,large,1469.44,596.55,1970-01-01 00:00:00.000035455
+30,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000040618
+83,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000038339
+46,Solex,Standard,low,medium,1289.85,74.51,1970-01-01 00:00:00.000037220
+94,Giant Bicycles,Standard,medium,large,1635.3,993.66,1970-01-01 00:00:00.000037539
+100,Trek Bicycles,Standard,medium,small,1386.84,1234.29,1970-01-01 00:00:00.000040303
+12,WeareA2B,Standard,medium,medium,1231.15,161.6,1970-01-01 00:00:00.000040303
+86,Norco Bicycles,Road,high,large,774.53,464.72,1970-01-01 00:00:00.000035560
+0,Solex,Road,medium,medium,416.98,312.74,1970-01-01 00:00:00.000035560
+27,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000037337
+55,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000034586
+68,OHM Cycles,Standard,medium,medium,1636.9,44.71,1970-01-01 00:00:00.000042710
+19,Trek Bicycles,Mountain,low,medium,574.64,459.71,1970-01-01 00:00:00.000038258
+98,Trek Bicycles,Standard,high,medium,358.39,215.03,1970-01-01 00:00:00.000034556
+50,WeareA2B,Standard,medium,small,175.89,131.92,1970-01-01 00:00:00.000041009
+53,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000038647
+11,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000034115
+64,Trek Bicycles,Standard,medium,large,1469.44,596.55,1970-01-01 00:00:00.000033879
+87,Giant Bicycles,Standard,high,medium,1179.0,707.4,1970-01-01 00:00:00.000034079
+48,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000041064
+58,OHM Cycles,Standard,medium,medium,912.52,141.4,1970-01-01 00:00:00.000042172
+29,Norco Bicycles,Road,medium,medium,543.39,407.54,1970-01-01 00:00:00.000039031
+88,Norco Bicycles,Standard,high,small,1661.92,1479.11,1970-01-01 00:00:00.000041345
+66,Solex,Standard,medium,medium,1163.89,589.27,1970-01-01 00:00:00.000040303
+17,Solex,Standard,high,medium,1024.66,614.8,1970-01-01 00:00:00.000041345
+34,Norco Bicycles,Road,high,large,774.53,464.72,1970-01-01 00:00:00.000034527
+0,WeareA2B,Standard,medium,small,175.89,131.92,1970-01-01 00:00:00.000037668
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000038573
+9,OHM Cycles,Road,medium,medium,742.54,667.4,1970-01-01 00:00:00.000038216
+78,Giant Bicycles,Standard,medium,large,1765.3,709.48,1970-01-01 00:00:00.000037873
+22,WeareA2B,Standard,medium,medium,60.34,45.26,1970-01-01 00:00:00.000040670
+64,Giant Bicycles,Standard,high,small,1977.36,1759.85,1970-01-01 00:00:00.000041047
+64,Trek Bicycles,Standard,medium,large,1469.44,596.55,1970-01-01 00:00:00.000034996
+16,Norco Bicycles,Standard,high,small,1661.92,1479.11,1970-01-01 00:00:00.000035378
+64,Trek Bicycles,Standard,medium,large,1469.44,596.55,1970-01-01 00:00:00.000036668
+0,N/A,N/A,N/A,N/A,571.27,459.71,1970-01-01 00:00:00.000039031
+14,Trek Bicycles,Standard,medium,small,1386.84,1234.29,1970-01-01 00:00:00.000033364
+0,Norco Bicycles,Road,medium,medium,543.39,407.54,1970-01-01 00:00:00.000033888
+18,Solex,Standard,medium,medium,575.27,431.45,1970-01-01 00:00:00.000039880
+18,Solex,Standard,medium,medium,575.27,431.45,1970-01-01 00:00:00.000042404
+58,OHM Cycles,Standard,medium,medium,912.52,141.4,1970-01-01 00:00:00.000034556
+0,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000037823
+0,N/A,N/A,N/A,N/A,294.35,201.11666666666667,1970-01-01 00:00:00.000038482
+77,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000037873
+27,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000041009
+22,WeareA2B,Standard,medium,medium,60.34,45.26,1970-01-01 00:00:00.000042404
+63,WeareA2B,Standard,medium,medium,1992.93,762.63,1970-01-01 00:00:00.000033888
+55,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000036146
+88,Norco Bicycles,Standard,medium,medium,1198.46,381.1,1970-01-01 00:00:00.000036367
+96,Giant Bicycles,Standard,medium,large,1635.3,993.66,1970-01-01 00:00:00.000042458
+88,Norco Bicycles,Standard,high,small,1661.92,1479.11,1970-01-01 00:00:00.000035160
+36,Solex,Standard,low,medium,1289.85,74.51,1970-01-01 00:00:00.000041009
+66,Solex,Standard,medium,medium,1163.89,589.27,1970-01-01 00:00:00.000038693
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000038991
+89,Giant Bicycles,Standard,medium,large,1812.75,582.48,1970-01-01 00:00:00.000036498
+76,WeareA2B,Road,low,small,1172.78,1043.77,1970-01-01 00:00:00.000033364
+74,WeareA2B,Standard,medium,medium,1228.07,400.91,1970-01-01 00:00:00.000035455
+20,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000036334
+0,Solex,Standard,medium,large,202.62,151.96,1970-01-01 00:00:00.000042458
+91,WeareA2B,Standard,low,medium,642.31,513.85,1970-01-01 00:00:00.000035455
+78,Giant Bicycles,Standard,medium,large,1765.3,709.48,1970-01-01 00:00:00.000042218
+0,N/A,N/A,N/A,N/A,149.3,135.90666666666667,1970-01-01 00:00:00.000037874
+31,Giant Bicycles,Standard,medium,medium,230.91,173.18,1970-01-01 00:00:00.000034527
+61,OHM Cycles,Standard,low,medium,71.16,56.93,1970-01-01 00:00:00.000036146
+50,WeareA2B,Standard,medium,small,175.89,131.92,1970-01-01 00:00:00.000035707
+0,OHM Cycles,Standard,medium,medium,235.63,125.07,1970-01-01 00:00:00.000036833
+32,Giant Bicycles,Standard,medium,medium,642.7,211.37,1970-01-01 00:00:00.000035052
+0,N/A,N/A,N/A,N/A,447.25,303.3933333333334,1970-01-01 00:00:00.000038216
+23,Norco Bicycles,Mountain,low,small,688.63,612.88,1970-01-01 00:00:00.000033455
+53,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000035707
+9,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000042696
+93,WeareA2B,Standard,medium,medium,1065.03,230.09,1970-01-01 00:00:00.000033549
+72,Norco Bicycles,Standard,medium,medium,360.4,270.3,1970-01-01 00:00:00.000038859
+37,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000035560
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000042145
+90,Norco Bicycles,Standard,low,medium,363.01,290.41,1970-01-01 00:00:00.000038002
+43,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000038991
+0,Norco Bicycles,Standard,low,medium,363.01,290.41,1970-01-01 00:00:00.000042458
+9,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000034527
+41,Solex,Road,medium,medium,416.98,312.74,1970-01-01 00:00:00.000039526
+52,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000035470
+6,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000035052
+35,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000041167
+54,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000042710
+6,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000039031
+63,Solex,Standard,medium,medium,1483.2,99.59,1970-01-01 00:00:00.000040487
+87,Giant Bicycles,Standard,high,medium,1179.0,707.4,1970-01-01 00:00:00.000036833
+56,Norco Bicycles,Mountain,low,small,688.63,612.88,1970-01-01 00:00:00.000037668
+23,Norco Bicycles,Mountain,low,small,688.63,612.88,1970-01-01 00:00:00.000034115
+70,Norco Bicycles,Road,medium,medium,1036.59,206.35,1970-01-01 00:00:00.000033364
+58,OHM Cycles,Standard,medium,medium,912.52,141.4,1970-01-01 00:00:00.000042458
+42,OHM Cycles,Road,medium,small,1810.0,1610.9,1970-01-01 00:00:00.000039427
+68,OHM Cycles,Standard,medium,medium,1636.9,44.71,1970-01-01 00:00:00.000037499
+31,WeareA2B,Standard,medium,medium,752.64,205.36,1970-01-01 00:00:00.000035667
+85,WeareA2B,Standard,medium,medium,752.64,205.36,1970-01-01 00:00:00.000038206
+12,WeareA2B,Standard,medium,medium,1231.15,161.6,1970-01-01 00:00:00.000037838
+28,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000038693
+73,Solex,Standard,medium,medium,1945.43,333.18,1970-01-01 00:00:00.000041064
+75,Giant Bicycles,Touring,medium,large,1873.97,863.95,1970-01-01 00:00:00.000041533
+58,OHM Cycles,Standard,medium,medium,912.52,141.4,1970-01-01 00:00:00.000042145
+23,Norco Bicycles,Mountain,low,small,688.63,612.88,1970-01-01 00:00:00.000042696
+58,OHM Cycles,Standard,medium,medium,912.52,141.4,1970-01-01 00:00:00.000040487
+4,Solex,Standard,medium,medium,1483.2,99.59,1970-01-01 00:00:00.000042145
+0,Norco Bicycles,Road,medium,medium,544.05,376.84,1970-01-01 00:00:00.000042105
+43,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000042295
+72,Norco Bicycles,Standard,medium,medium,360.4,270.3,1970-01-01 00:00:00.000036668
+4,Giant Bicycles,Standard,high,medium,1129.13,677.48,1970-01-01 00:00:00.000039298
+43,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000041064
+39,Giant Bicycles,Standard,medium,large,1812.75,582.48,1970-01-01 00:00:00.000040618
+56,Norco Bicycles,Mountain,low,small,688.63,612.88,1970-01-01 00:00:00.000039031
+60,Giant Bicycles,Standard,high,small,1977.36,1759.85,1970-01-01 00:00:00.000036146
+91,WeareA2B,Standard,low,medium,642.31,513.85,1970-01-01 00:00:00.000042226
+79,Norco Bicycles,Standard,medium,medium,1555.58,818.01,1970-01-01 00:00:00.000042218
+21,Solex,Standard,medium,large,1071.23,380.74,1970-01-01 00:00:00.000034165
+90,Norco Bicycles,Standard,low,medium,363.01,290.41,1970-01-01 00:00:00.000041434
+0,Solex,Road,medium,medium,416.98,312.74,1970-01-01 00:00:00.000039526
+62,Solex,Standard,high,medium,1024.66,614.8,1970-01-01 00:00:00.000035160
+12,WeareA2B,Standard,medium,medium,1231.15,161.6,1970-01-01 00:00:00.000034170
+12,WeareA2B,Standard,medium,medium,1231.15,161.6,1970-01-01 00:00:00.000041345
+23,Norco Bicycles,Standard,medium,medium,1198.46,381.1,1970-01-01 00:00:00.000036367
+92,WeareA2B,Standard,medium,small,1415.01,1259.36,1970-01-01 00:00:00.000041434
+87,Giant Bicycles,Standard,high,medium,1179.0,707.4,1970-01-01 00:00:00.000038693
+69,Giant Bicycles,Road,medium,medium,792.9,594.68,1970-01-01 00:00:00.000037698
+74,WeareA2B,Standard,medium,medium,1228.07,400.91,1970-01-01 00:00:00.000042226
+5,Giant Bicycles,Standard,high,medium,1129.13,677.48,1970-01-01 00:00:00.000033549
+59,Solex,Standard,medium,large,1061.56,733.58,1970-01-01 00:00:00.000042145
+55,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000040649
+92,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000040670
+31,WeareA2B,Standard,medium,medium,752.64,205.36,1970-01-01 00:00:00.000037698
+10,WeareA2B,Touring,medium,medium,1466.68,363.25,1970-01-01 00:00:00.000038216
+30,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000033888
+35,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000037659
+85,WeareA2B,Standard,medium,medium,752.64,205.36,1970-01-01 00:00:00.000036334
+27,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000039031
+18,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000042218
+62,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000040487
+19,OHM Cycles,Road,high,large,12.01,7.21,1970-01-01 00:00:00.000034165
+6,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000042710
+49,Solex,Standard,medium,large,1061.56,733.58,1970-01-01 00:00:00.000040779
+67,Solex,Standard,medium,large,1071.23,380.74,1970-01-01 00:00:00.000034244
+50,WeareA2B,Standard,medium,small,175.89,131.92,1970-01-01 00:00:00.000037220
+9,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000035160
+66,Solex,Standard,medium,medium,1163.89,589.27,1970-01-01 00:00:00.000039880
+78,Giant Bicycles,Standard,medium,large,1765.3,709.48,1970-01-01 00:00:00.000038339
+8,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000042560
+26,WeareA2B,Standard,medium,medium,1992.93,762.63,1970-01-01 00:00:00.000037698
+38,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000035707
+25,OHM Cycles,Standard,high,medium,2005.66,1203.4,1970-01-01 00:00:00.000035470
+5,Trek Bicycles,Mountain,low,medium,574.64,459.71,1970-01-01 00:00:00.000038206
+77,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000038193
+19,Trek Bicycles,Mountain,low,medium,574.64,459.71,1970-01-01 00:00:00.000037659
+6,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000040618
+88,Norco Bicycles,Standard,medium,medium,1198.46,381.1,1970-01-01 00:00:00.000037874
+59,Solex,Standard,medium,large,1061.56,733.58,1970-01-01 00:00:00.000042172
+80,OHM Cycles,Touring,low,medium,1073.07,933.84,1970-01-01 00:00:00.000042218
+52,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000033259
+69,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000038339
+9,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000035052
+53,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000033259
+28,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000038216
+74,WeareA2B,Standard,medium,medium,1228.07,400.91,1970-01-01 00:00:00.000041922
+67,Norco Bicycles,Road,medium,medium,544.05,376.84,1970-01-01 00:00:00.000040410
+0,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000035707
+46,Solex,Standard,low,medium,1289.85,74.51,1970-01-01 00:00:00.000038573
+16,Norco Bicycles,Standard,high,small,1661.92,1479.11,1970-01-01 00:00:00.000040670
+0,Trek Bicycles,Road,medium,medium,290.62,215.14,1970-01-01 00:00:00.000034079
+69,Giant Bicycles,Road,medium,medium,792.9,594.68,1970-01-01 00:00:00.000038859
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000038647
+4,Solex,Standard,medium,medium,1483.2,99.59,1970-01-01 00:00:00.000040410
+15,Norco Bicycles,Standard,low,medium,958.74,748.9,1970-01-01 00:00:00.000040670
+79,Norco Bicycles,Standard,medium,medium,1555.58,818.01,1970-01-01 00:00:00.000035455
+46,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000034071
+38,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000038750
+49,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000039915
+0,Giant Bicycles,Standard,medium,medium,230.91,173.18,1970-01-01 00:00:00.000035052
+53,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000042295
+0,Solex,Standard,medium,medium,441.49,84.99,1970-01-01 00:00:00.000041009
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000034115
+43,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000037823
+29,Norco Bicycles,Road,medium,medium,543.39,407.54,1970-01-01 00:00:00.000036361
+86,Norco Bicycles,Road,high,large,774.53,464.72,1970-01-01 00:00:00.000040618
+0,N/A,N/A,N/A,N/A,1348.41,1025.6066666666668,1970-01-01 00:00:00.000039031
+2,Solex,Standard,medium,medium,71.49,53.62,1970-01-01 00:00:00.000038258
+67,Solex,Standard,medium,large,1071.23,380.74,1970-01-01 00:00:00.000034115
+85,WeareA2B,Standard,medium,medium,1228.07,400.91,1970-01-01 00:00:00.000034527
+33,OHM Cycles,Road,medium,small,1810.0,1610.9,1970-01-01 00:00:00.000039427
+90,Norco Bicycles,Standard,low,medium,363.01,290.41,1970-01-01 00:00:00.000037626
+15,Norco Bicycles,Standard,low,medium,958.74,748.9,1970-01-01 00:00:00.000041345
+27,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000033552
+1,Giant Bicycles,Touring,medium,large,1873.97,863.95,1970-01-01 00:00:00.000037499
+45,Solex,Standard,medium,medium,441.49,84.99,1970-01-01 00:00:00.000042172
+19,OHM Cycles,Road,high,large,12.01,7.21,1970-01-01 00:00:00.000034115
+64,Giant Bicycles,Standard,high,small,1977.36,1759.85,1970-01-01 00:00:00.000040410
+67,Norco Bicycles,Road,medium,medium,544.05,376.84,1970-01-01 00:00:00.000033879
+0,WeareA2B,Standard,medium,medium,60.34,45.26,1970-01-01 00:00:00.000042404
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000042226
+41,Norco Bicycles,Standard,low,medium,958.74,748.9,1970-01-01 00:00:00.000041345
+0,Norco Bicycles,Standard,low,medium,363.01,290.41,1970-01-01 00:00:00.000041434
+35,Trek Bicycles,Standard,low,medium,1057.51,154.4,1970-01-01 00:00:00.000036498
+31,Giant Bicycles,Standard,medium,medium,230.91,173.18,1970-01-01 00:00:00.000036361
+1,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000040784
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000036361
+37,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000040336
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000033455
+0,N/A,N/A,N/A,N/A,1021.43,614.8,1970-01-01 00:00:00.000040303
+45,Trek Bicycles,Road,low,medium,980.37,234.43,1970-01-01 00:00:00.000039298
+16,Norco Bicycles,Standard,high,small,1661.92,1479.11,1970-01-01 00:00:00.000034165
+20,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000035160
+1,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000033549
+82,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000038339
+52,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000034170
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000040649
+90,Norco Bicycles,Standard,low,medium,363.01,290.41,1970-01-01 00:00:00.000042458
+88,Norco Bicycles,Standard,high,small,1661.92,1479.11,1970-01-01 00:00:00.000039880
+95,OHM Cycles,Touring,low,medium,1073.07,933.84,1970-01-01 00:00:00.000035455
+66,Giant Bicycles,Road,low,small,590.26,525.33,1970-01-01 00:00:00.000033879
+77,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000034556
+53,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000042172
+25,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000035455
+89,Giant Bicycles,Standard,medium,large,1812.75,582.48,1970-01-01 00:00:00.000039427
+36,Solex,Standard,low,medium,1289.85,74.51,1970-01-01 00:00:00.000037668
+0,Norco Bicycles,Standard,medium,medium,360.4,270.3,1970-01-01 00:00:00.000035455
+13,Solex,Standard,medium,medium,1163.89,589.27,1970-01-01 00:00:00.000037838
+14,Solex,Standard,high,large,1842.92,1105.75,1970-01-01 00:00:00.000037499
+64,Giant Bicycles,Standard,high,small,1977.36,1759.85,1970-01-01 00:00:00.000040779
+59,WeareA2B,Standard,medium,small,1415.01,1259.36,1970-01-01 00:00:00.000037539
+26,WeareA2B,Standard,medium,medium,1992.93,762.63,1970-01-01 00:00:00.000042696
+32,Giant Bicycles,Standard,medium,medium,642.7,211.37,1970-01-01 00:00:00.000038750
+0,Norco Bicycles,Standard,medium,medium,360.4,270.3,1970-01-01 00:00:00.000036668
+13,Solex,Standard,medium,medium,1163.89,589.27,1970-01-01 00:00:00.000035378
+2,Giant Bicycles,Road,low,small,590.26,525.33,1970-01-01 00:00:00.000042710
+7,Trek Bicycles,Road,low,medium,980.37,234.43,1970-01-01 00:00:00.000038216
+87,OHM Cycles,Standard,medium,medium,1636.9,44.71,1970-01-01 00:00:00.000036668
+75,Giant Bicycles,Touring,medium,large,1873.97,863.95,1970-01-01 00:00:00.000040410
+0,Solex,Standard,medium,medium,71.49,53.62,1970-01-01 00:00:00.000038573
+82,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000033879
+9,OHM Cycles,Road,medium,medium,742.54,667.4,1970-01-01 00:00:00.000039298
+43,Norco Bicycles,Standard,medium,medium,1555.58,818.01,1970-01-01 00:00:00.000033429
+89,WeareA2B,Touring,medium,large,1362.99,57.74,1970-01-01 00:00:00.000037539
+99,Trek Bicycles,Road,low,small,1720.7,1531.42,1970-01-01 00:00:00.000041009
+56,OHM Cycles,Standard,medium,medium,183.86,137.9,1970-01-01 00:00:00.000040779
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000035470
+75,Giant Bicycles,Touring,medium,large,1873.97,863.95,1970-01-01 00:00:00.000040553
+56,Norco Bicycles,Mountain,low,small,688.63,612.88,1970-01-01 00:00:00.000034115
+57,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000042295
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000042218
+51,OHM Cycles,Standard,high,medium,2005.66,1203.4,1970-01-01 00:00:00.000042295
+14,Solex,Standard,high,large,1842.92,1105.75,1970-01-01 00:00:00.000041922
+77,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000042218
+64,Trek Bicycles,Standard,medium,large,1469.44,596.55,1970-01-01 00:00:00.000041922
+0,Norco Bicycles,Road,medium,medium,544.05,376.84,1970-01-01 00:00:00.000042710
+0,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000037668
+38,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000036498
+66,Solex,Standard,medium,medium,1163.89,589.27,1970-01-01 00:00:00.000041345
+90,Solex,Standard,low,medium,945.04,507.58,1970-01-01 00:00:00.000035560
+87,Giant Bicycles,Standard,high,medium,1179.0,707.4,1970-01-01 00:00:00.000038482
+67,Norco Bicycles,Road,medium,medium,544.05,376.84,1970-01-01 00:00:00.000037499
+34,Norco Bicycles,Road,high,large,774.53,464.72,1970-01-01 00:00:00.000040618
+41,Norco Bicycles,Standard,low,medium,958.74,748.9,1970-01-01 00:00:00.000040303
+35,Trek Bicycles,Standard,low,medium,1057.51,154.4,1970-01-01 00:00:00.000035560
+52,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000040779
+36,Solex,Standard,low,medium,945.04,507.58,1970-01-01 00:00:00.000040672
+69,Giant Bicycles,Road,medium,medium,792.9,594.68,1970-01-01 00:00:00.000033552
+34,Norco Bicycles,Road,high,large,774.53,464.72,1970-01-01 00:00:00.000037823
+1,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000038482
+18,Solex,Standard,medium,medium,575.27,431.45,1970-01-01 00:00:00.000035160
+56,Norco Bicycles,Mountain,low,small,688.63,612.88,1970-01-01 00:00:00.000040670
+88,Norco Bicycles,Standard,medium,medium,1198.46,381.1,1970-01-01 00:00:00.000037626
+95,Giant Bicycles,Standard,medium,large,569.56,528.43,1970-01-01 00:00:00.000038002
+73,Solex,Standard,medium,medium,1945.43,333.18,1970-01-01 00:00:00.000033429
+100,Norco Bicycles,Road,medium,medium,1036.59,206.35,1970-01-01 00:00:00.000041922
+27,Trek Bicycles,Standard,low,medium,1057.51,154.4,1970-01-01 00:00:00.000035560
+72,Norco Bicycles,Standard,medium,medium,360.4,270.3,1970-01-01 00:00:00.000041922
+80,Trek Bicycles,Standard,medium,large,1469.44,596.55,1970-01-01 00:00:00.000033879
+63,WeareA2B,Standard,medium,medium,1992.93,762.63,1970-01-01 00:00:00.000042696
+17,WeareA2B,Touring,medium,large,1362.99,57.74,1970-01-01 00:00:00.000036367
+77,WeareA2B,Standard,medium,medium,1769.64,108.76,1970-01-01 00:00:00.000041064
+10,Solex,Standard,medium,medium,1945.43,333.18,1970-01-01 00:00:00.000036668
+31,WeareA2B,Standard,medium,medium,752.64,205.36,1970-01-01 00:00:00.000036367
+0,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000036334
+50,Giant Bicycles,Standard,medium,medium,642.7,211.37,1970-01-01 00:00:00.000036361
+26,WeareA2B,Standard,medium,medium,1992.93,762.63,1970-01-01 00:00:00.000033552
+91,Solex,Standard,medium,medium,100.35,75.26,1970-01-01 00:00:00.000036833
+0,Norco Bicycles,Standard,medium,medium,360.4,270.3,1970-01-01 00:00:00.000038859
+30,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000034527
+18,Solex,Standard,medium,medium,575.27,431.45,1970-01-01 00:00:00.000038482
+67,Norco Bicycles,Road,medium,medium,544.05,376.84,1970-01-01 00:00:00.000038859
+29,Norco Bicycles,Road,medium,medium,543.39,407.54,1970-01-01 00:00:00.000033888
+77,WeareA2B,Standard,medium,medium,1769.64,108.76,1970-01-01 00:00:00.000041848
+57,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000035378
+0,Solex,Standard,medium,medium,100.35,75.26,1970-01-01 00:00:00.000036833
+38,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000040336
+56,Norco Bicycles,Mountain,low,small,688.63,612.88,1970-01-01 00:00:00.000033552
+66,Giant Bicycles,Road,low,small,590.26,525.33,1970-01-01 00:00:00.000040410
+69,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000033429
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000033259
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000040649
+40,OHM Cycles,Standard,high,medium,1458.17,874.9,1970-01-01 00:00:00.000033455
+48,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000035707
+66,Solex,Standard,medium,medium,1163.89,589.27,1970-01-01 00:00:00.000034586
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000033879
+24,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000037337
+62,Solex,Standard,high,medium,1024.66,614.8,1970-01-01 00:00:00.000042105
+31,WeareA2B,Standard,medium,medium,752.64,205.36,1970-01-01 00:00:00.000037626
+92,WeareA2B,Standard,medium,small,1415.01,1259.36,1970-01-01 00:00:00.000042458
+95,Giant Bicycles,Standard,medium,large,569.56,528.43,1970-01-01 00:00:00.000037539
+21,WeareA2B,Touring,medium,medium,1466.68,363.25,1970-01-01 00:00:00.000041345
+67,Solex,Standard,medium,large,1071.23,380.74,1970-01-01 00:00:00.000034165
+47,Trek Bicycles,Road,low,small,1720.7,1531.42,1970-01-01 00:00:00.000037220
+90,Norco Bicycles,Standard,low,medium,363.01,290.41,1970-01-01 00:00:00.000036833
+63,Solex,Standard,medium,medium,1483.2,99.59,1970-01-01 00:00:00.000039880
+0,Giant Bicycles,Standard,medium,medium,230.91,173.18,1970-01-01 00:00:00.000040618
+96,WeareA2B,Road,low,small,1172.78,1043.77,1970-01-01 00:00:00.000042458
+51,OHM Cycles,Standard,high,medium,2005.66,1203.4,1970-01-01 00:00:00.000033259
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000036146
+92,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000039880
+6,OHM Cycles,Standard,high,medium,227.88,136.73,1970-01-01 00:00:00.000038258
+51,OHM Cycles,Standard,high,medium,2005.66,1203.4,1970-01-01 00:00:00.000039427
+14,Solex,Standard,high,large,1842.92,1105.75,1970-01-01 00:00:00.000038859
+35,Trek Bicycles,Standard,low,medium,1057.51,154.4,1970-01-01 00:00:00.000036361
+5,Trek Bicycles,Mountain,low,medium,574.64,459.71,1970-01-01 00:00:00.000038258
+47,Trek Bicycles,Road,low,small,1720.7,1531.42,1970-01-01 00:00:00.000041848
+61,OHM Cycles,Standard,low,medium,71.16,56.93,1970-01-01 00:00:00.000040487
+0,Solex,Standard,medium,medium,441.49,84.99,1970-01-01 00:00:00.000034071
+13,Solex,Standard,medium,medium,1163.89,589.27,1970-01-01 00:00:00.000040303
+35,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000041245
+20,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000034165
+42,OHM Cycles,Road,medium,small,1810.0,1610.9,1970-01-01 00:00:00.000037873
+23,Norco Bicycles,Standard,medium,medium,1198.46,381.1,1970-01-01 00:00:00.000036145
+46,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000039526
+80,Trek Bicycles,Standard,medium,large,1469.44,596.55,1970-01-01 00:00:00.000042145
+41,Solex,Road,medium,medium,416.98,312.74,1970-01-01 00:00:00.000040672
+61,OHM Cycles,Standard,low,medium,71.16,56.93,1970-01-01 00:00:00.000033879
+61,OHM Cycles,Standard,low,medium,71.16,56.93,1970-01-01 00:00:00.000040410
+0,Solex,Road,medium,medium,416.98,312.74,1970-01-01 00:00:00.000038991
+91,WeareA2B,Standard,low,medium,642.31,513.85,1970-01-01 00:00:00.000037874
+16,Norco Bicycles,Standard,high,small,1661.92,1479.11,1970-01-01 00:00:00.000033888
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000041047
+94,Giant Bicycles,Standard,medium,large,1635.3,993.66,1970-01-01 00:00:00.000042458
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000041009
+7,Trek Bicycles,Road,low,medium,980.37,234.43,1970-01-01 00:00:00.000033549
+79,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000038482
+0,Norco Bicycles,Road,medium,medium,543.39,407.54,1970-01-01 00:00:00.000036361
+46,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000035560
+5,Giant Bicycles,Standard,high,medium,1129.13,677.48,1970-01-01 00:00:00.000041701
+13,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000039427
+21,WeareA2B,Touring,medium,medium,1466.68,363.25,1970-01-01 00:00:00.000038216
+0,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000033879
+26,WeareA2B,Standard,medium,medium,1992.93,762.63,1970-01-01 00:00:00.000036334
+0,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000041009
+0,OHM Cycles,Standard,high,medium,227.88,136.73,1970-01-01 00:00:00.000042560
+0,N/A,N/A,N/A,N/A,1163.77,589.27,1970-01-01 00:00:00.000040618
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000034170
+0,Norco Bicycles,Road,medium,medium,543.39,407.54,1970-01-01 00:00:00.000042458
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000035667
+8,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000039298
+4,Solex,Standard,medium,medium,1483.2,99.59,1970-01-01 00:00:00.000034996
+89,WeareA2B,Touring,medium,large,1362.99,57.74,1970-01-01 00:00:00.000037626
+42,OHM Cycles,Road,medium,small,1810.0,1610.9,1970-01-01 00:00:00.000041848
+93,OHM Cycles,Standard,high,medium,1458.17,874.9,1970-01-01 00:00:00.000034071
+43,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000037668
+0,N/A,N/A,N/A,N/A,1294.66,764.96,1970-01-01 00:00:00.000039298
+41,Solex,Road,medium,medium,416.98,312.74,1970-01-01 00:00:00.000039427
+79,Norco Bicycles,Standard,medium,medium,1555.58,818.01,1970-01-01 00:00:00.000038339
+45,Solex,Standard,medium,medium,441.49,84.99,1970-01-01 00:00:00.000035470
+33,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000034527
+35,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000035667
+82,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000035667
+0,Giant Bicycles,Standard,medium,medium,230.91,173.18,1970-01-01 00:00:00.000040336
+78,Giant Bicycles,Standard,medium,large,1765.3,709.48,1970-01-01 00:00:00.000042458
+32,Giant Bicycles,Standard,medium,medium,642.7,211.37,1970-01-01 00:00:00.000036361
+79,Norco Bicycles,Standard,medium,medium,1555.58,818.01,1970-01-01 00:00:00.000038693
+6,OHM Cycles,Standard,high,medium,227.88,136.73,1970-01-01 00:00:00.000040649
+24,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000041047
+40,OHM Cycles,Standard,high,medium,1458.17,874.9,1970-01-01 00:00:00.000039427
+55,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000040779
+92,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000034586
+92,WeareA2B,Standard,medium,small,1415.01,1259.36,1970-01-01 00:00:00.000034556
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000042172
+72,OHM Cycles,Standard,medium,medium,912.52,141.4,1970-01-01 00:00:00.000036146
+32,Giant Bicycles,Standard,high,medium,1179.0,707.4,1970-01-01 00:00:00.000038693
+11,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000035160
+36,Solex,Standard,low,medium,945.04,507.58,1970-01-01 00:00:00.000040618
+0,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000037668
+10,Solex,Standard,medium,medium,1945.43,333.18,1970-01-01 00:00:00.000037668
+77,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000041533
+0,Norco Bicycles,Road,medium,medium,544.05,376.84,1970-01-01 00:00:00.000038859
+97,Solex,Standard,medium,large,202.62,151.96,1970-01-01 00:00:00.000034556
+5,Trek Bicycles,Mountain,low,medium,574.64,459.71,1970-01-01 00:00:00.000038216
+48,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000037823
+90,Solex,Standard,low,medium,945.04,507.58,1970-01-01 00:00:00.000040336
+69,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000038002
+14,Trek Bicycles,Standard,medium,small,1386.84,1234.29,1970-01-01 00:00:00.000039880
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000040672
+91,Solex,Standard,medium,medium,100.35,75.26,1970-01-01 00:00:00.000037626
+0,N/A,N/A,N/A,N/A,638.29,316.02333333333337,1970-01-01 00:00:00.000037626
+44,WeareA2B,Standard,medium,medium,1769.64,108.76,1970-01-01 00:00:00.000039526
+95,OHM Cycles,Touring,low,medium,1073.07,933.84,1970-01-01 00:00:00.000038482
+41,Solex,Road,medium,medium,416.98,312.74,1970-01-01 00:00:00.000041064
+19,Trek Bicycles,Mountain,low,medium,574.64,459.71,1970-01-01 00:00:00.000034079
+2,Giant Bicycles,Road,low,small,590.26,525.33,1970-01-01 00:00:00.000042105
+50,Giant Bicycles,Standard,medium,medium,642.7,211.37,1970-01-01 00:00:00.000040618
+44,WeareA2B,Standard,medium,medium,1769.64,108.76,1970-01-01 00:00:00.000036498
+20,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000034244
+89,Giant Bicycles,Standard,medium,large,1812.75,582.48,1970-01-01 00:00:00.000040672
+53,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000034586
+88,Norco Bicycles,Standard,high,small,1661.92,1479.11,1970-01-01 00:00:00.000035378
+0,N/A,N/A,N/A,N/A,1202.34,468.5199999999999,1970-01-01 00:00:00.000038002
+50,Giant Bicycles,Standard,medium,medium,642.7,211.37,1970-01-01 00:00:00.000040336
+86,OHM Cycles,Standard,medium,medium,235.63,125.07,1970-01-01 00:00:00.000034079
+71,Solex,Standard,high,large,1842.92,1105.75,1970-01-01 00:00:00.000041922
+0,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000033552
+72,OHM Cycles,Standard,medium,medium,912.52,141.4,1970-01-01 00:00:00.000040487
+66,Giant Bicycles,Road,low,small,590.26,525.33,1970-01-01 00:00:00.000037499
+8,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000038216
+32,Giant Bicycles,Standard,high,medium,1179.0,707.4,1970-01-01 00:00:00.000036367
+19,Trek Bicycles,Mountain,low,medium,574.64,459.71,1970-01-01 00:00:00.000038216
+65,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000042404
+89,WeareA2B,Touring,medium,large,1362.99,57.74,1970-01-01 00:00:00.000036367
+59,WeareA2B,Standard,medium,small,1415.01,1259.36,1970-01-01 00:00:00.000037874
+9,OHM Cycles,Road,medium,medium,742.54,667.4,1970-01-01 00:00:00.000038693
+58,OHM Cycles,Standard,medium,medium,912.52,141.4,1970-01-01 00:00:00.000034170
+24,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000036334
+77,WeareA2B,Standard,medium,medium,1769.64,108.76,1970-01-01 00:00:00.000038991
+54,WeareA2B,Standard,medium,medium,1292.84,13.44,1970-01-01 00:00:00.000034143
+23,Norco Bicycles,Standard,medium,medium,1198.46,381.1,1970-01-01 00:00:00.000037539
+82,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000038206
+32,Giant Bicycles,Standard,high,medium,1179.0,707.4,1970-01-01 00:00:00.000034244
+19,Trek Bicycles,Mountain,low,medium,574.64,459.71,1970-01-01 00:00:00.000035667
+73,Solex,Standard,medium,medium,1945.43,333.18,1970-01-01 00:00:00.000035455
+47,Trek Bicycles,Road,low,small,1720.7,1531.42,1970-01-01 00:00:00.000041064
+21,WeareA2B,Touring,medium,medium,1466.68,363.25,1970-01-01 00:00:00.000042560
+89,Giant Bicycles,Standard,medium,large,1812.75,582.48,1970-01-01 00:00:00.000039526
+0,WeareA2B,Standard,medium,medium,60.34,45.26,1970-01-01 00:00:00.000033455
+74,WeareA2B,Standard,medium,medium,1228.07,400.91,1970-01-01 00:00:00.000036498
+85,WeareA2B,Standard,medium,medium,1228.07,400.91,1970-01-01 00:00:00.000040618
+49,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000037668
+29,Norco Bicycles,Road,medium,medium,543.39,407.54,1970-01-01 00:00:00.000035052
+28,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000033552
+17,WeareA2B,Touring,medium,large,1362.99,57.74,1970-01-01 00:00:00.000042458
+22,Solex,Standard,medium,medium,575.27,431.45,1970-01-01 00:00:00.000042404
+51,OHM Cycles,Standard,high,medium,2005.66,1203.4,1970-01-01 00:00:00.000034170
+0,N/A,N/A,N/A,N/A,326.86,251.8766666666667,1970-01-01 00:00:00.000037838
+70,Norco Bicycles,Road,medium,medium,1036.59,206.35,1970-01-01 00:00:00.000040553
+0,WeareA2B,Standard,medium,medium,60.34,45.26,1970-01-01 00:00:00.000034115
+82,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000039031
+36,Solex,Standard,low,medium,1289.85,74.51,1970-01-01 00:00:00.000040649
+27,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000037668
+0,WeareA2B,Standard,medium,medium,60.34,45.26,1970-01-01 00:00:00.000040670
+83,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000040303
+34,WeareA2B,Standard,medium,medium,1231.15,161.6,1970-01-01 00:00:00.000037838
+46,Solex,Standard,low,medium,1289.85,74.51,1970-01-01 00:00:00.000039915
+77,WeareA2B,Standard,medium,medium,1769.64,108.76,1970-01-01 00:00:00.000034071
+76,WeareA2B,Road,low,small,1172.78,1043.77,1970-01-01 00:00:00.000042458
+81,Norco Bicycles,Standard,medium,small,586.45,521.94,1970-01-01 00:00:00.000042218
+79,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000038206
+76,WeareA2B,Standard,low,medium,642.31,513.85,1970-01-01 00:00:00.000040553
+33,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000038750
+69,Giant Bicycles,Road,medium,medium,792.9,594.68,1970-01-01 00:00:00.000040553
+41,Solex,Road,medium,medium,416.98,312.74,1970-01-01 00:00:00.000041848
+18,Solex,Standard,medium,medium,575.27,431.45,1970-01-01 00:00:00.000034115
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000036668
+31,Giant Bicycles,Standard,medium,medium,230.91,173.18,1970-01-01 00:00:00.000040336
+0,Solex,Standard,medium,medium,441.49,84.99,1970-01-01 00:00:00.000038991
+43,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000039427
+63,WeareA2B,Standard,medium,medium,1992.93,762.63,1970-01-01 00:00:00.000036334
+25,OHM Cycles,Standard,high,medium,2005.66,1203.4,1970-01-01 00:00:00.000039915
+93,OHM Cycles,Standard,high,medium,1458.17,874.9,1970-01-01 00:00:00.000039427
+10,WeareA2B,Touring,medium,medium,1466.68,363.25,1970-01-01 00:00:00.000037838
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000042696
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000033549
+47,Trek Bicycles,Road,low,small,1720.7,1531.42,1970-01-01 00:00:00.000039915
+10,WeareA2B,Touring,medium,medium,1466.68,363.25,1970-01-01 00:00:00.000042560
+25,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000034115
+17,Solex,Standard,high,medium,1024.66,614.8,1970-01-01 00:00:00.000034244
+32,Giant Bicycles,Standard,medium,medium,642.7,211.37,1970-01-01 00:00:00.000040618
+6,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000036361
+22,Solex,Standard,medium,medium,575.27,431.45,1970-01-01 00:00:00.000039880
+65,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000034996
+15,Norco Bicycles,Standard,low,medium,958.74,748.9,1970-01-01 00:00:00.000035160
+17,Solex,Standard,high,medium,1024.66,614.8,1970-01-01 00:00:00.000038647
+0,Norco Bicycles,Road,medium,medium,544.05,376.84,1970-01-01 00:00:00.000037499
+7,Trek Bicycles,Road,low,medium,980.37,234.43,1970-01-01 00:00:00.000042560
+81,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000041064
+29,Norco Bicycles,Road,medium,medium,543.39,407.54,1970-01-01 00:00:00.000037337
+52,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000033552
+46,Solex,Standard,low,medium,1289.85,74.51,1970-01-01 00:00:00.000035470
+60,Giant Bicycles,Standard,high,small,1977.36,1759.85,1970-01-01 00:00:00.000042145
+42,OHM Cycles,Road,medium,small,1810.0,1610.9,1970-01-01 00:00:00.000038991
+87,Giant Bicycles,Standard,high,medium,1179.0,707.4,1970-01-01 00:00:00.000037626
+17,WeareA2B,Touring,medium,large,1362.99,57.74,1970-01-01 00:00:00.000038693
+16,Norco Bicycles,Standard,high,small,1661.92,1479.11,1970-01-01 00:00:00.000035160
+36,Solex,Standard,low,medium,945.04,507.58,1970-01-01 00:00:00.000036498
+17,WeareA2B,Touring,medium,large,1362.99,57.74,1970-01-01 00:00:00.000041434
+28,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000037698
+25,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000033455
+19,OHM Cycles,Road,high,large,12.01,7.21,1970-01-01 00:00:00.000034244
+69,Giant Bicycles,Road,medium,medium,792.9,594.68,1970-01-01 00:00:00.000036361
+60,Giant Bicycles,Standard,high,small,1977.36,1759.85,1970-01-01 00:00:00.000040487
+0,N/A,N/A,N/A,N/A,814.86,222.6266666666667,1970-01-01 00:00:00.000037337
+96,Giant Bicycles,Standard,medium,large,1635.3,993.66,1970-01-01 00:00:00.000034556
+90,Norco Bicycles,Standard,low,medium,363.01,290.41,1970-01-01 00:00:00.000039880
+72,Norco Bicycles,Standard,medium,medium,360.4,270.3,1970-01-01 00:00:00.000037499
+52,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000041047
+79,Norco Bicycles,Standard,medium,medium,1555.58,818.01,1970-01-01 00:00:00.000033429
+82,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000038482
+14,Solex,Standard,high,large,1842.92,1105.75,1970-01-01 00:00:00.000040553
+60,Giant Bicycles,Standard,high,small,1977.36,1759.85,1970-01-01 00:00:00.000041064
+22,Solex,Standard,medium,medium,575.27,431.45,1970-01-01 00:00:00.000034115
+0,WeareA2B,Standard,medium,medium,60.34,45.26,1970-01-01 00:00:00.000036334
+20,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000041701
+44,WeareA2B,Standard,medium,medium,1769.64,108.76,1970-01-01 00:00:00.000039427
+0,Trek Bicycles,Standard,high,medium,495.72,297.43,1970-01-01 00:00:00.000040553
+49,Solex,Standard,medium,large,1061.56,733.58,1970-01-01 00:00:00.000034143
+50,Giant Bicycles,Standard,medium,medium,642.7,211.37,1970-01-01 00:00:00.000033888
+11,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000034244
+0,N/A,N/A,N/A,N/A,1102.68,677.48,1970-01-01 00:00:00.000036668
+20,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000042560
+33,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000036361
+46,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000040336
+88,Norco Bicycles,Standard,medium,medium,1198.46,381.1,1970-01-01 00:00:00.000041434
+49,Solex,Standard,medium,large,1061.56,733.58,1970-01-01 00:00:00.000040487
+87,Giant Bicycles,Standard,high,medium,1179.0,707.4,1970-01-01 00:00:00.000041434
+9,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000039031
+81,Norco Bicycles,Standard,medium,small,586.45,521.94,1970-01-01 00:00:00.000038002
+0,Trek Bicycles,Road,medium,medium,290.62,215.14,1970-01-01 00:00:00.000037626
+24,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000042404
+30,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000039031
+17,Solex,Standard,high,medium,1024.66,614.8,1970-01-01 00:00:00.000034996
+91,WeareA2B,Standard,low,medium,642.31,513.85,1970-01-01 00:00:00.000037873
+7,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000035560
+54,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000039031
+5,Giant Bicycles,Standard,high,medium,1129.13,677.48,1970-01-01 00:00:00.000038216
+19,OHM Cycles,Road,high,large,12.01,7.21,1970-01-01 00:00:00.000040303
+74,WeareA2B,Standard,medium,medium,1228.07,400.91,1970-01-01 00:00:00.000035052
+36,Solex,Standard,low,medium,1289.85,74.51,1970-01-01 00:00:00.000038991
+34,WeareA2B,Standard,medium,medium,1231.15,161.6,1970-01-01 00:00:00.000041345
+94,Giant Bicycles,Standard,medium,large,1635.3,993.66,1970-01-01 00:00:00.000033364
+0,Giant Bicycles,Standard,medium,medium,230.91,173.18,1970-01-01 00:00:00.000036361
+33,OHM Cycles,Road,medium,small,1810.0,1610.9,1970-01-01 00:00:00.000040672
+0,N/A,N/A,N/A,N/A,1880.4,767.7566666666667,1970-01-01 00:00:00.000040672
+55,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000035707
+52,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000037823
+48,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000037668
+50,WeareA2B,Standard,medium,small,175.89,131.92,1970-01-01 00:00:00.000037823
+94,Giant Bicycles,Standard,medium,large,1635.3,993.66,1970-01-01 00:00:00.000035470
+34,Norco Bicycles,Road,high,large,774.53,464.72,1970-01-01 00:00:00.000041064
+0,N/A,N/A,N/A,N/A,1541.62,824.7233333333334,1970-01-01 00:00:00.000041434
+21,WeareA2B,Touring,medium,medium,1466.68,363.25,1970-01-01 00:00:00.000035378
+0,WeareA2B,Standard,medium,medium,60.34,45.26,1970-01-01 00:00:00.000034165
+23,Norco Bicycles,Standard,medium,medium,1198.46,381.1,1970-01-01 00:00:00.000037874
+67,Norco Bicycles,Road,medium,medium,544.05,376.84,1970-01-01 00:00:00.000037838
+0,Norco Bicycles,Standard,medium,medium,360.4,270.3,1970-01-01 00:00:00.000041922
+90,Norco Bicycles,Standard,low,medium,363.01,290.41,1970-01-01 00:00:00.000036334
+90,Solex,Standard,low,medium,945.04,507.58,1970-01-01 00:00:00.000040784
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000041533
+84,Trek Bicycles,Road,medium,medium,290.62,215.14,1970-01-01 00:00:00.000036367
+0,N/A,N/A,N/A,N/A,639.38,211.37,1970-01-01 00:00:00.000037626
+58,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000037823
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000041009
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000038193
+44,WeareA2B,Standard,medium,medium,1769.64,108.76,1970-01-01 00:00:00.000041009
+15,Norco Bicycles,Standard,low,medium,958.74,748.9,1970-01-01 00:00:00.000040303
+0,OHM Cycles,Road,high,large,12.01,7.21,1970-01-01 00:00:00.000035160
+94,Giant Bicycles,Standard,medium,large,1635.3,993.66,1970-01-01 00:00:00.000039427
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000040779
+85,WeareA2B,Standard,medium,medium,752.64,205.36,1970-01-01 00:00:00.000036145
+0,OHM Cycles,Standard,medium,medium,183.86,137.9,1970-01-01 00:00:00.000040779
+74,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000035707
+58,OHM Cycles,Standard,medium,medium,912.52,141.4,1970-01-01 00:00:00.000040779
+74,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000039915
+77,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000042458
+0,N/A,N/A,N/A,N/A,402.14,291.15000000000003,1970-01-01 00:00:00.000038991
+0,N/A,N/A,N/A,N/A,710.55,631.0533333333333,1970-01-01 00:00:00.000035707
+0,N/A,N/A,N/A,N/A,1142.89,681.38,1970-01-01 00:00:00.000038339
+36,Solex,Standard,low,medium,945.04,507.58,1970-01-01 00:00:00.000040336
+17,WeareA2B,Touring,medium,large,1362.99,57.74,1970-01-01 00:00:00.000036833
+66,Giant Bicycles,Road,low,small,590.26,525.33,1970-01-01 00:00:00.000038647
+58,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000034170
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000042710
+49,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000041009
+85,WeareA2B,Standard,medium,medium,1228.07,400.91,1970-01-01 00:00:00.000035455
+33,OHM Cycles,Road,medium,small,1810.0,1610.9,1970-01-01 00:00:00.000041064
+77,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000038339
+29,WeareA2B,Standard,medium,medium,1065.03,230.09,1970-01-01 00:00:00.000033549
+37,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000038750
+92,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000034143
+0,OHM Cycles,Standard,medium,medium,183.86,137.9,1970-01-01 00:00:00.000041047
+61,OHM Cycles,Standard,low,medium,71.16,56.93,1970-01-01 00:00:00.000038647
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000037499
+17,WeareA2B,Touring,medium,large,1362.99,57.74,1970-01-01 00:00:00.000042560
+24,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000039031
+99,Trek Bicycles,Road,low,small,1720.7,1531.42,1970-01-01 00:00:00.000041064
+0,WeareA2B,Standard,medium,small,175.89,131.92,1970-01-01 00:00:00.000037823
+98,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000034170
+69,Giant Bicycles,Road,medium,medium,792.9,594.68,1970-01-01 00:00:00.000042710
+46,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000036146
+30,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000037337
+0,N/A,N/A,N/A,N/A,813.6,343.67333333333335,1970-01-01 00:00:00.000035667
+0,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000039915
+77,WeareA2B,Standard,medium,medium,1769.64,108.76,1970-01-01 00:00:00.000041009
+45,Trek Bicycles,Road,low,medium,980.37,234.43,1970-01-01 00:00:00.000042560
+48,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000038258
+0,Solex,Standard,medium,medium,100.35,75.26,1970-01-01 00:00:00.000037539
+67,Norco Bicycles,Road,medium,medium,544.05,376.84,1970-01-01 00:00:00.000036668
+86,Norco Bicycles,Road,high,large,774.53,464.72,1970-01-01 00:00:00.000034527
+11,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000037838
+0,N/A,N/A,N/A,N/A,1833.17,756.9033333333333,1970-01-01 00:00:00.000038002
+0,Norco Bicycles,Road,medium,medium,544.05,376.84,1970-01-01 00:00:00.000036668
+90,Solex,Standard,low,medium,945.04,507.58,1970-01-01 00:00:00.000036361
+68,OHM Cycles,Standard,medium,medium,1636.9,44.71,1970-01-01 00:00:00.000042105
+34,Norco Bicycles,Road,high,large,774.53,464.72,1970-01-01 00:00:00.000038750
+44,WeareA2B,Standard,medium,medium,1769.64,108.76,1970-01-01 00:00:00.000038991
+62,Solex,Standard,high,medium,1024.66,614.8,1970-01-01 00:00:00.000041345
+45,Trek Bicycles,Road,low,medium,980.37,234.43,1970-01-01 00:00:00.000038693
+58,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000040779
+21,WeareA2B,Touring,medium,medium,1466.68,363.25,1970-01-01 00:00:00.000034556
+91,WeareA2B,Standard,low,medium,642.31,513.85,1970-01-01 00:00:00.000042458
+26,WeareA2B,Standard,medium,medium,1992.93,762.63,1970-01-01 00:00:00.000039031
+87,Giant Bicycles,Standard,high,medium,1179.0,707.4,1970-01-01 00:00:00.000037874
+0,OHM Cycles,Standard,low,medium,71.16,56.93,1970-01-01 00:00:00.000042145
+1,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000036145
+93,OHM Cycles,Standard,high,medium,1458.17,874.9,1970-01-01 00:00:00.000041848
+87,OHM Cycles,Standard,medium,medium,1636.9,44.71,1970-01-01 00:00:00.000041922
+2,Solex,Standard,medium,medium,71.49,53.62,1970-01-01 00:00:00.000041701
+61,Norco Bicycles,Standard,medium,small,586.45,521.94,1970-01-01 00:00:00.000042226
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000037873
+50,Giant Bicycles,Standard,medium,medium,642.7,211.37,1970-01-01 00:00:00.000038750
+72,OHM Cycles,Standard,medium,medium,912.52,141.4,1970-01-01 00:00:00.000040779
+63,WeareA2B,Standard,medium,medium,1992.93,762.63,1970-01-01 00:00:00.000039031
+11,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000042404
+87,Giant Bicycles,Standard,high,medium,1179.0,707.4,1970-01-01 00:00:00.000036367
+40,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000035707
+29,WeareA2B,Standard,medium,medium,1065.03,230.09,1970-01-01 00:00:00.000038002
+25,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000033552
+0,Norco Bicycles,Road,medium,medium,544.05,376.84,1970-01-01 00:00:00.000034996
+79,Norco Bicycles,Standard,medium,medium,1555.58,818.01,1970-01-01 00:00:00.000041533
+11,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000039880
+42,OHM Cycles,Road,medium,small,1810.0,1610.9,1970-01-01 00:00:00.000038206
+0,N/A,N/A,N/A,N/A,1285.47,514.4533333333334,1970-01-01 00:00:00.000038859
+45,Solex,Standard,medium,medium,441.49,84.99,1970-01-01 00:00:00.000039427
+5,Giant Bicycles,Standard,high,medium,1129.13,677.48,1970-01-01 00:00:00.000038258
+48,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000041167
+49,Solex,Standard,medium,large,1061.56,733.58,1970-01-01 00:00:00.000042145
+75,Giant Bicycles,Touring,medium,large,1873.97,863.95,1970-01-01 00:00:00.000042226
+0,N/A,N/A,N/A,N/A,1678.71,1491.4499999999998,1970-01-01 00:00:00.000036146
+85,WeareA2B,Standard,medium,medium,1228.07,400.91,1970-01-01 00:00:00.000033429
+4,Giant Bicycles,Standard,high,medium,1129.13,677.48,1970-01-01 00:00:00.000037659
+52,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000033429
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000040487
+43,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000035470
+84,Trek Bicycles,Road,medium,medium,290.62,215.14,1970-01-01 00:00:00.000035667
+40,OHM Cycles,Standard,high,medium,1458.17,874.9,1970-01-01 00:00:00.000035052
+0,N/A,N/A,N/A,N/A,437.51,303.3933333333334,1970-01-01 00:00:00.000038206
+0,Norco Bicycles,Standard,low,medium,363.01,290.41,1970-01-01 00:00:00.000036367
+35,Trek Bicycles,Standard,low,medium,1057.51,154.4,1970-01-01 00:00:00.000038750
+21,Solex,Standard,medium,large,1071.23,380.74,1970-01-01 00:00:00.000034115
+28,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000034165
+54,WeareA2B,Standard,medium,medium,1292.84,13.44,1970-01-01 00:00:00.000035707
+58,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000039915
+0,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000033259
+14,Solex,Standard,high,large,1842.92,1105.75,1970-01-01 00:00:00.000042710
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000035707
+4,Giant Bicycles,Standard,high,medium,1129.13,677.48,1970-01-01 00:00:00.000041701
+43,Norco Bicycles,Standard,medium,medium,1555.58,818.01,1970-01-01 00:00:00.000042218
+49,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000036146
+16,Norco Bicycles,Standard,high,small,1661.92,1479.11,1970-01-01 00:00:00.000039880
+78,Giant Bicycles,Standard,medium,large,1765.3,709.48,1970-01-01 00:00:00.000038002
+0,N/A,N/A,N/A,N/A,366.22,283.7066666666667,1970-01-01 00:00:00.000038002
+16,Norco Bicycles,Standard,high,small,1661.92,1479.11,1970-01-01 00:00:00.000035560
+32,Giant Bicycles,Standard,medium,medium,642.7,211.37,1970-01-01 00:00:00.000039427
+8,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000038482
+22,Solex,Standard,medium,medium,575.27,431.45,1970-01-01 00:00:00.000038339
+60,Giant Bicycles,Standard,high,small,1977.36,1759.85,1970-01-01 00:00:00.000040410
+11,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000036334
+74,WeareA2B,Standard,medium,medium,1228.07,400.91,1970-01-01 00:00:00.000033429
+74,WeareA2B,Standard,medium,medium,1228.07,400.91,1970-01-01 00:00:00.000040553
+28,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000034527
+81,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000039427
+91,Solex,Standard,medium,medium,100.35,75.26,1970-01-01 00:00:00.000042458
+35,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000036145
+0,N/A,N/A,N/A,N/A,1199.26,519.88,1970-01-01 00:00:00.000038693
+82,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000034079
+0,Giant Bicycles,Standard,medium,medium,230.91,173.18,1970-01-01 00:00:00.000034527
+0,WeareA2B,Standard,medium,small,175.89,131.92,1970-01-01 00:00:00.000033259
+0,OHM Cycles,Standard,medium,medium,183.86,137.9,1970-01-01 00:00:00.000036146
+54,WeareA2B,Standard,medium,medium,1292.84,13.44,1970-01-01 00:00:00.000036145
+35,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000038258
+5,Trek Bicycles,Mountain,low,medium,574.64,459.71,1970-01-01 00:00:00.000036367
+37,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000036498
+33,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000041848
+71,Solex,Standard,high,large,1842.92,1105.75,1970-01-01 00:00:00.000037499
+21,WeareA2B,Touring,medium,medium,1466.68,363.25,1970-01-01 00:00:00.000034586
+0,N/A,N/A,N/A,N/A,1888.45,863.9500000000002,1970-01-01 00:00:00.000037874
+6,OHM Cycles,Standard,high,medium,227.88,136.73,1970-01-01 00:00:00.000038216
+36,Solex,Standard,low,medium,1289.85,74.51,1970-01-01 00:00:00.000035470
+0,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000042105
+0,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000042172
+76,WeareA2B,Standard,low,medium,642.31,513.85,1970-01-01 00:00:00.000035455
+73,Solex,Standard,medium,medium,1945.43,333.18,1970-01-01 00:00:00.000037873
+28,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000039031
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000033455
+72,Norco Bicycles,Standard,medium,medium,360.4,270.3,1970-01-01 00:00:00.000035455
+18,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000038206
+70,Trek Bicycles,Standard,high,medium,495.72,297.43,1970-01-01 00:00:00.000037874
+86,Norco Bicycles,Road,high,large,774.53,464.72,1970-01-01 00:00:00.000041009
+69,Giant Bicycles,Road,medium,medium,792.9,594.68,1970-01-01 00:00:00.000034527
+69,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000041533
+58,OHM Cycles,Standard,medium,medium,912.52,141.4,1970-01-01 00:00:00.000034143
+5,Trek Bicycles,Mountain,low,medium,574.64,459.71,1970-01-01 00:00:00.000041701
+45,Solex,Standard,medium,medium,441.49,84.99,1970-01-01 00:00:00.000038991
+0,WeareA2B,Standard,medium,small,175.89,131.92,1970-01-01 00:00:00.000037220
+41,Norco Bicycles,Standard,low,medium,958.74,748.9,1970-01-01 00:00:00.000034165
+0,N/A,N/A,N/A,N/A,237.44,132.84333333333333,1970-01-01 00:00:00.000038859
+54,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000034996
+19,OHM Cycles,Road,high,large,12.01,7.21,1970-01-01 00:00:00.000040670
+94,Giant Bicycles,Standard,medium,large,1635.3,993.66,1970-01-01 00:00:00.000039915
+48,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000039915
+81,Norco Bicycles,Standard,medium,small,586.45,521.94,1970-01-01 00:00:00.000035667
+92,WeareA2B,Standard,medium,small,1415.01,1259.36,1970-01-01 00:00:00.000033364
+44,WeareA2B,Standard,medium,medium,1769.64,108.76,1970-01-01 00:00:00.000034071
+57,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000040303
+19,OHM Cycles,Road,high,large,12.01,7.21,1970-01-01 00:00:00.000035160
+0,N/A,N/A,N/A,N/A,317.3,283.7066666666667,1970-01-01 00:00:00.000040410
+5,Trek Bicycles,Mountain,low,medium,574.64,459.71,1970-01-01 00:00:00.000042560
+27,Trek Bicycles,Standard,low,medium,1057.51,154.4,1970-01-01 00:00:00.000039526
+0,Solex,Standard,medium,medium,441.49,84.99,1970-01-01 00:00:00.000039427
+9,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000037698
+0,Norco Bicycles,Road,medium,medium,543.39,407.54,1970-01-01 00:00:00.000035052
+95,OHM Cycles,Touring,low,medium,1073.07,933.84,1970-01-01 00:00:00.000035667
+14,Solex,Standard,high,large,1842.92,1105.75,1970-01-01 00:00:00.000037874
+57,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000034165
+43,Norco Bicycles,Standard,medium,medium,1555.58,818.01,1970-01-01 00:00:00.000038339
+13,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000039915
+0,N/A,N/A,N/A,N/A,1527.25,586.2966666666666,1970-01-01 00:00:00.000041848
+45,Solex,Standard,medium,medium,441.49,84.99,1970-01-01 00:00:00.000041009
+61,OHM Cycles,Standard,low,medium,71.16,56.93,1970-01-01 00:00:00.000041047
+33,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000035052
+67,Norco Bicycles,Road,medium,medium,544.05,376.84,1970-01-01 00:00:00.000034996
+18,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000038339
+66,Giant Bicycles,Road,low,small,590.26,525.33,1970-01-01 00:00:00.000042105
+0,N/A,N/A,N/A,N/A,1563.94,825.77,1970-01-01 00:00:00.000040553
+0,Solex,Standard,medium,medium,71.49,53.62,1970-01-01 00:00:00.000038258
+0,N/A,N/A,N/A,N/A,1146.42,677.48,1970-01-01 00:00:00.000039031
+10,Solex,Standard,medium,medium,1945.43,333.18,1970-01-01 00:00:00.000041922
+13,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000036498
+49,Solex,Standard,medium,large,1061.56,733.58,1970-01-01 00:00:00.000036146
+19,Trek Bicycles,Mountain,low,medium,574.64,459.71,1970-01-01 00:00:00.000039298
+86,Norco Bicycles,Road,high,large,774.53,464.72,1970-01-01 00:00:00.000040336
+32,Giant Bicycles,Standard,medium,medium,642.7,211.37,1970-01-01 00:00:00.000035560
+71,Solex,Standard,high,large,1842.92,1105.75,1970-01-01 00:00:00.000041434
+28,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000037838
+0,OHM Cycles,Standard,medium,medium,235.63,125.07,1970-01-01 00:00:00.000034079
+35,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000033549
+59,Solex,Standard,medium,large,1061.56,733.58,1970-01-01 00:00:00.000036146
+37,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000040410
+66,Solex,Standard,medium,medium,1163.89,589.27,1970-01-01 00:00:00.000035160
+44,WeareA2B,Standard,medium,medium,1769.64,108.76,1970-01-01 00:00:00.000037220
+42,OHM Cycles,Road,medium,small,1810.0,1610.9,1970-01-01 00:00:00.000041064
+29,WeareA2B,Standard,medium,medium,1065.03,230.09,1970-01-01 00:00:00.000034556
+15,WeareA2B,Standard,medium,medium,1292.84,13.44,1970-01-01 00:00:00.000037823
+40,OHM Cycles,Standard,high,medium,1458.17,874.9,1970-01-01 00:00:00.000035560
+95,Giant Bicycles,Standard,medium,large,569.56,528.43,1970-01-01 00:00:00.000037337
+31,Giant Bicycles,Standard,medium,medium,230.91,173.18,1970-01-01 00:00:00.000037337
+32,Giant Bicycles,Standard,high,medium,1179.0,707.4,1970-01-01 00:00:00.000037874
+80,Trek Bicycles,Standard,medium,large,1469.44,596.55,1970-01-01 00:00:00.000040487
+100,Trek Bicycles,Standard,medium,small,1386.84,1234.29,1970-01-01 00:00:00.000037539
+53,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000035378
+76,WeareA2B,Standard,low,medium,642.31,513.85,1970-01-01 00:00:00.000041533
+71,Solex,Standard,high,large,1842.92,1105.75,1970-01-01 00:00:00.000042710
+9,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000037337
+23,Norco Bicycles,Standard,medium,medium,1198.46,381.1,1970-01-01 00:00:00.000040649
+47,Trek Bicycles,Road,low,small,1720.7,1531.42,1970-01-01 00:00:00.000037668
+68,OHM Cycles,Standard,medium,medium,1636.9,44.71,1970-01-01 00:00:00.000038859
+70,Trek Bicycles,Standard,high,medium,495.72,297.43,1970-01-01 00:00:00.000042710
+9,OHM Cycles,Road,medium,medium,742.54,667.4,1970-01-01 00:00:00.000037838
+61,Norco Bicycles,Standard,medium,small,586.45,521.94,1970-01-01 00:00:00.000035667
+41,Norco Bicycles,Standard,low,medium,958.74,748.9,1970-01-01 00:00:00.000034244
+37,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000034071
+91,WeareA2B,Standard,low,medium,642.31,513.85,1970-01-01 00:00:00.000041533
+11,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000034586
+5,Trek Bicycles,Mountain,low,medium,574.64,459.71,1970-01-01 00:00:00.000040649
+0,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000040649
+29,Norco Bicycles,Road,medium,medium,543.39,407.54,1970-01-01 00:00:00.000034556
+26,WeareA2B,Standard,medium,medium,1992.93,762.63,1970-01-01 00:00:00.000033455
+85,WeareA2B,Standard,medium,medium,1228.07,400.91,1970-01-01 00:00:00.000042226
+87,Giant Bicycles,Standard,high,medium,1179.0,707.4,1970-01-01 00:00:00.000034586
+40,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000042172
+0,N/A,N/A,N/A,N/A,1192.33,589.27,1970-01-01 00:00:00.000038482
+1,Giant Bicycles,Touring,medium,large,1873.97,863.95,1970-01-01 00:00:00.000040553
+11,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000034586
+34,WeareA2B,Standard,medium,medium,1231.15,161.6,1970-01-01 00:00:00.000039880
+0,Norco Bicycles,Road,medium,medium,543.39,407.54,1970-01-01 00:00:00.000037698
+90,Solex,Standard,low,medium,945.04,507.58,1970-01-01 00:00:00.000036498
+98,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000042710
+100,Trek Bicycles,Standard,medium,small,1386.84,1234.29,1970-01-01 00:00:00.000034165
+45,Solex,Standard,medium,medium,441.49,84.99,1970-01-01 00:00:00.000036146
+0,OHM Cycles,Road,high,large,12.01,7.21,1970-01-01 00:00:00.000034115
+4,Solex,Standard,medium,medium,1483.2,99.59,1970-01-01 00:00:00.000040487
+8,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000034586
+30,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000034996
+29,Norco Bicycles,Road,medium,medium,543.39,407.54,1970-01-01 00:00:00.000033552
+45,Solex,Standard,medium,medium,441.49,84.99,1970-01-01 00:00:00.000041848
+70,Norco Bicycles,Road,medium,medium,1036.59,206.35,1970-01-01 00:00:00.000033429
+2,Giant Bicycles,Road,low,small,590.26,525.33,1970-01-01 00:00:00.000038647
+0,OHM Cycles,Standard,high,medium,227.88,136.73,1970-01-01 00:00:00.000041701
+70,Trek Bicycles,Standard,high,medium,495.72,297.43,1970-01-01 00:00:00.000040553
+2,Giant Bicycles,Road,low,small,590.26,525.33,1970-01-01 00:00:00.000034996
+64,Giant Bicycles,Standard,high,small,1977.36,1759.85,1970-01-01 00:00:00.000036146
+13,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000037220
+0,Norco Bicycles,Standard,low,medium,363.01,290.41,1970-01-01 00:00:00.000037539
+81,Norco Bicycles,Standard,medium,small,586.45,521.94,1970-01-01 00:00:00.000033364
+88,Norco Bicycles,Standard,medium,medium,1198.46,381.1,1970-01-01 00:00:00.000041701
+0,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000037337
+62,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000041701
+83,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000036145
+77,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000038002
+78,Giant Bicycles,Standard,medium,large,1765.3,709.48,1970-01-01 00:00:00.000034556
+0,N/A,N/A,N/A,N/A,1672.07,1503.79,1970-01-01 00:00:00.000041009
+60,Giant Bicycles,Standard,high,small,1977.36,1759.85,1970-01-01 00:00:00.000034143
+2,Giant Bicycles,Road,low,small,590.26,525.33,1970-01-01 00:00:00.000040553
+85,WeareA2B,Standard,medium,medium,752.64,205.36,1970-01-01 00:00:00.000034079
+0,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000037220
+34,Norco Bicycles,Road,high,large,774.53,464.72,1970-01-01 00:00:00.000035560
+29,Norco Bicycles,Road,medium,medium,543.39,407.54,1970-01-01 00:00:00.000037698
+51,OHM Cycles,Standard,high,medium,2005.66,1203.4,1970-01-01 00:00:00.000041848
+21,Solex,Standard,medium,large,1071.23,380.74,1970-01-01 00:00:00.000036334
+58,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000038339
+0,Norco Bicycles,Road,medium,medium,543.39,407.54,1970-01-01 00:00:00.000033552
+86,OHM Cycles,Standard,medium,medium,235.63,125.07,1970-01-01 00:00:00.000036145
+98,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000042295
+82,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000033888
+84,Giant Bicycles,Road,medium,medium,792.9,594.68,1970-01-01 00:00:00.000042696
+9,OHM Cycles,Road,medium,medium,742.54,667.4,1970-01-01 00:00:00.000033879
+76,WeareA2B,Standard,low,medium,642.31,513.85,1970-01-01 00:00:00.000038193
+1,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000041434
+29,Norco Bicycles,Road,medium,medium,543.39,407.54,1970-01-01 00:00:00.000042458
+88,Norco Bicycles,Standard,high,small,1661.92,1479.11,1970-01-01 00:00:00.000034165
+80,OHM Cycles,Touring,low,medium,1073.07,933.84,1970-01-01 00:00:00.000035667
+71,Solex,Standard,high,large,1842.92,1105.75,1970-01-01 00:00:00.000038193
+97,OHM Cycles,Road,medium,medium,742.54,667.4,1970-01-01 00:00:00.000035378
+0,Norco Bicycles,Standard,low,medium,363.01,290.41,1970-01-01 00:00:00.000036833
+59,Solex,Standard,medium,large,1061.56,733.58,1970-01-01 00:00:00.000041047
+44,WeareA2B,Standard,medium,medium,1769.64,108.76,1970-01-01 00:00:00.000041848
+76,WeareA2B,Road,low,small,1172.78,1043.77,1970-01-01 00:00:00.000036498
+10,Solex,Standard,medium,medium,1945.43,333.18,1970-01-01 00:00:00.000037873
+5,Giant Bicycles,Standard,high,medium,1129.13,677.48,1970-01-01 00:00:00.000040784
+60,Giant Bicycles,Standard,high,small,1977.36,1759.85,1970-01-01 00:00:00.000042172
+0,N/A,N/A,N/A,N/A,1099.68,677.48,1970-01-01 00:00:00.000038482
+22,WeareA2B,Standard,medium,medium,60.34,45.26,1970-01-01 00:00:00.000036334
+0,Solex,Road,medium,medium,416.98,312.74,1970-01-01 00:00:00.000033455
+22,WeareA2B,Standard,medium,medium,60.34,45.26,1970-01-01 00:00:00.000033455
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000041701
+95,Giant Bicycles,Standard,medium,large,569.56,528.43,1970-01-01 00:00:00.000033364
+0,N/A,N/A,N/A,N/A,1281.6,899.0333333333334,1970-01-01 00:00:00.000038339
+74,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000037668
+0,OHM Cycles,Standard,medium,medium,235.63,125.07,1970-01-01 00:00:00.000041434
+69,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000042458
+54,WeareA2B,Standard,medium,medium,1292.84,13.44,1970-01-01 00:00:00.000040779
+51,OHM Cycles,Standard,high,medium,2005.66,1203.4,1970-01-01 00:00:00.000035470
+0,N/A,N/A,N/A,N/A,1220.66,468.5199999999999,1970-01-01 00:00:00.000037873
+45,Solex,Standard,medium,medium,441.49,84.99,1970-01-01 00:00:00.000037668
+22,Solex,Standard,medium,medium,575.27,431.45,1970-01-01 00:00:00.000035160
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000040336
+4,Giant Bicycles,Standard,high,medium,1129.13,677.48,1970-01-01 00:00:00.000034527
+38,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000034071
+0,OHM Cycles,Road,high,large,12.01,7.21,1970-01-01 00:00:00.000034165
+59,WeareA2B,Standard,medium,small,1415.01,1259.36,1970-01-01 00:00:00.000034079
+0,N/A,N/A,N/A,N/A,1061.92,458.76,1970-01-01 00:00:00.000038482
+4,Solex,Standard,medium,medium,1483.2,99.59,1970-01-01 00:00:00.000041047
+15,Norco Bicycles,Standard,low,medium,958.74,748.9,1970-01-01 00:00:00.000034586
+0,Solex,Standard,medium,medium,100.35,75.26,1970-01-01 00:00:00.000037874
+52,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000037337
+0,N/A,N/A,N/A,N/A,1502.93,363.25,1970-01-01 00:00:00.000041009
+98,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000035707
+10,Solex,Standard,medium,medium,1945.43,333.18,1970-01-01 00:00:00.000040553
+23,Norco Bicycles,Mountain,low,small,688.63,612.88,1970-01-01 00:00:00.000041009
+0,Solex,Standard,medium,medium,100.35,75.26,1970-01-01 00:00:00.000041434
+36,Solex,Standard,low,medium,1289.85,74.51,1970-01-01 00:00:00.000038573
+81,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000034071
+19,OHM Cycles,Road,high,large,12.01,7.21,1970-01-01 00:00:00.000042404
+0,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000040487
+94,Giant Bicycles,Standard,medium,large,1635.3,993.66,1970-01-01 00:00:00.000041848
+0,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000038573
+59,Solex,Standard,medium,large,1061.56,733.58,1970-01-01 00:00:00.000040670
+0,N/A,N/A,N/A,N/A,398.08,272.7266666666667,1970-01-01 00:00:00.000037337
+95,OHM Cycles,Touring,low,medium,1073.07,933.84,1970-01-01 00:00:00.000033429
+99,Trek Bicycles,Road,low,small,1720.7,1531.42,1970-01-01 00:00:00.000037823
+0,N/A,N/A,N/A,N/A,101.55,60.833333333333336,1970-01-01 00:00:00.000038991
+67,Norco Bicycles,Road,medium,medium,544.05,376.84,1970-01-01 00:00:00.000042560
+100,Norco Bicycles,Road,medium,medium,1036.59,206.35,1970-01-01 00:00:00.000040553
+4,Solex,Standard,medium,medium,1483.2,99.59,1970-01-01 00:00:00.000037838
+1,Giant Bicycles,Touring,medium,large,1873.97,863.95,1970-01-01 00:00:00.000041533
+60,Giant Bicycles,Standard,high,small,1977.36,1759.85,1970-01-01 00:00:00.000037220
+0,WeareA2B,Standard,medium,small,175.89,131.92,1970-01-01 00:00:00.000042295
+10,Solex,Standard,medium,medium,1945.43,333.18,1970-01-01 00:00:00.000038193
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000038991
+74,WeareA2B,Standard,medium,medium,1228.07,400.91,1970-01-01 00:00:00.000034527
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000033429
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000037698
+20,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000035378
+54,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000042105
+62,Solex,Standard,high,medium,1024.66,614.8,1970-01-01 00:00:00.000040670
+0,N/A,N/A,N/A,N/A,1957.87,476.33,1970-01-01 00:00:00.000037668
+59,Solex,Standard,medium,large,1061.56,733.58,1970-01-01 00:00:00.000034244
+26,WeareA2B,Standard,medium,medium,1992.93,762.63,1970-01-01 00:00:00.000038193
+40,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000033259
+67,Norco Bicycles,Road,medium,medium,544.05,376.84,1970-01-01 00:00:00.000037659
+67,Norco Bicycles,Road,medium,medium,544.05,376.84,1970-01-01 00:00:00.000042105
+46,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000040672
+53,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000037838
+21,Solex,Standard,medium,large,1071.23,380.74,1970-01-01 00:00:00.000034527
+16,Norco Bicycles,Standard,high,small,1661.92,1479.11,1970-01-01 00:00:00.000040303
+0,N/A,N/A,N/A,N/A,1095.66,677.48,1970-01-01 00:00:00.000037873
+79,Norco Bicycles,Standard,medium,medium,1555.58,818.01,1970-01-01 00:00:00.000039880
+40,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000036146
+77,WeareA2B,Standard,medium,medium,1769.64,108.76,1970-01-01 00:00:00.000037668
+92,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000034170
+0,N/A,N/A,N/A,N/A,1776.08,1036.9099999999999,1970-01-01 00:00:00.000041047
+48,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000040784
+52,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000039915
+34,WeareA2B,Standard,medium,medium,1231.15,161.6,1970-01-01 00:00:00.000042560
+27,Trek Bicycles,Standard,low,medium,1057.51,154.4,1970-01-01 00:00:00.000036498
+46,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000040618
+0,N/A,N/A,N/A,N/A,752.36,594.5666666666666,1970-01-01 00:00:00.000034079
+14,Trek Bicycles,Standard,medium,small,1386.84,1234.29,1970-01-01 00:00:00.000035160
+84,Giant Bicycles,Road,medium,medium,792.9,594.68,1970-01-01 00:00:00.000040553
+11,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000035160
+0,WeareA2B,Standard,medium,medium,60.34,45.26,1970-01-01 00:00:00.000034244
+36,Solex,Standard,low,medium,1289.85,74.51,1970-01-01 00:00:00.000037220
+83,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000040670
+86,Norco Bicycles,Road,high,large,774.53,464.72,1970-01-01 00:00:00.000041064
+0,Norco Bicycles,Road,medium,medium,543.39,407.54,1970-01-01 00:00:00.000037337
+0,Norco Bicycles,Standard,medium,medium,360.4,270.3,1970-01-01 00:00:00.000038193
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000037499
+47,Trek Bicycles,Road,low,small,1720.7,1531.42,1970-01-01 00:00:00.000037838
+2,Solex,Standard,medium,medium,71.49,53.62,1970-01-01 00:00:00.000040649
+63,WeareA2B,Standard,medium,medium,1992.93,762.63,1970-01-01 00:00:00.000037698
+69,Giant Bicycles,Road,medium,medium,792.9,594.68,1970-01-01 00:00:00.000042696
+12,WeareA2B,Standard,medium,medium,1231.15,161.6,1970-01-01 00:00:00.000042172
+100,Trek Bicycles,Standard,medium,small,1386.84,1234.29,1970-01-01 00:00:00.000035378
+76,WeareA2B,Standard,low,medium,642.31,513.85,1970-01-01 00:00:00.000038339
+57,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000040670
+25,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000041533
+56,Norco Bicycles,Mountain,low,small,688.63,612.88,1970-01-01 00:00:00.000036334
+86,Norco Bicycles,Road,high,large,774.53,464.72,1970-01-01 00:00:00.000035052
+0,N/A,N/A,N/A,N/A,172.09,133.91333333333333,1970-01-01 00:00:00.000038339
+22,Solex,Standard,medium,medium,575.27,431.45,1970-01-01 00:00:00.000040670
+33,OHM Cycles,Road,medium,small,1810.0,1610.9,1970-01-01 00:00:00.000034071
+73,Solex,Standard,medium,medium,1945.43,333.18,1970-01-01 00:00:00.000041848
+14,Solex,Standard,high,large,1842.92,1105.75,1970-01-01 00:00:00.000036668
+0,N/A,N/A,N/A,N/A,1740.16,1290.14,1970-01-01 00:00:00.000037873
+50,WeareA2B,Standard,medium,small,175.89,131.92,1970-01-01 00:00:00.000035470
+13,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000040336
+96,WeareA2B,Road,low,small,1172.78,1043.77,1970-01-01 00:00:00.000036361
+46,Solex,Standard,low,medium,1289.85,74.51,1970-01-01 00:00:00.000041701
+0,N/A,N/A,N/A,N/A,1734.3,1559.0233333333335,1970-01-01 00:00:00.000038258
+15,WeareA2B,Standard,medium,medium,1292.84,13.44,1970-01-01 00:00:00.000042226
+67,Norco Bicycles,Road,medium,medium,544.05,376.84,1970-01-01 00:00:00.000033549
+41,Solex,Road,medium,medium,416.98,312.74,1970-01-01 00:00:00.000034071
+0,N/A,N/A,N/A,N/A,240.72,148.88,1970-01-01 00:00:00.000037873
+34,WeareA2B,Standard,medium,medium,1231.15,161.6,1970-01-01 00:00:00.000038693
+0,N/A,N/A,N/A,N/A,1958.34,333.18,1970-01-01 00:00:00.000036367
+7,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000038750
+53,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000042560
+30,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000035052
+84,Giant Bicycles,Road,medium,medium,792.9,594.68,1970-01-01 00:00:00.000034996
+95,Giant Bicycles,Standard,medium,large,569.56,528.43,1970-01-01 00:00:00.000034527
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000037823
+33,OHM Cycles,Road,medium,small,1810.0,1610.9,1970-01-01 00:00:00.000036498
+82,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000041922
+40,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000042295
+43,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000041009
+71,Solex,Standard,high,large,1842.92,1105.75,1970-01-01 00:00:00.000036668
+0,Solex,Road,medium,medium,416.98,312.74,1970-01-01 00:00:00.000040672
+0,N/A,N/A,N/A,N/A,330.36,277.00333333333333,1970-01-01 00:00:00.000041009
+69,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000042218
+49,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000034170
+83,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000033455
+0,Trek Bicycles,Standard,high,medium,495.72,297.43,1970-01-01 00:00:00.000038193
+0,N/A,N/A,N/A,N/A,1709.26,1516.13,1970-01-01 00:00:00.000037838
+1,Giant Bicycles,Touring,medium,large,1873.97,863.95,1970-01-01 00:00:00.000040410
+18,Solex,Standard,medium,medium,575.27,431.45,1970-01-01 00:00:00.000040303
+0,Solex,Standard,medium,large,202.62,151.96,1970-01-01 00:00:00.000034556
+61,Norco Bicycles,Standard,medium,small,586.45,521.94,1970-01-01 00:00:00.000042218
+93,WeareA2B,Standard,medium,medium,1065.03,230.09,1970-01-01 00:00:00.000038216
+0,Giant Bicycles,Standard,medium,large,569.56,528.43,1970-01-01 00:00:00.000042458
+12,Giant Bicycles,Standard,medium,large,1765.3,709.48,1970-01-01 00:00:00.000041533
+27,Trek Bicycles,Standard,low,medium,1057.51,154.4,1970-01-01 00:00:00.000040618
+0,N/A,N/A,N/A,N/A,60.72,48.04666666666666,1970-01-01 00:00:00.000036498
+28,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000039298
+47,Trek Bicycles,Road,low,small,1720.7,1531.42,1970-01-01 00:00:00.000034586
+89,Giant Bicycles,Standard,medium,large,1812.75,582.48,1970-01-01 00:00:00.000038991
+70,Trek Bicycles,Standard,high,medium,495.72,297.43,1970-01-01 00:00:00.000034996
+30,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000038859
+14,Trek Bicycles,Standard,medium,small,1386.84,1234.29,1970-01-01 00:00:00.000034586
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000037337
+72,OHM Cycles,Standard,medium,medium,912.52,141.4,1970-01-01 00:00:00.000042172
+21,WeareA2B,Touring,medium,medium,1466.68,363.25,1970-01-01 00:00:00.000039298
+90,Solex,Standard,low,medium,945.04,507.58,1970-01-01 00:00:00.000039526
+56,Norco Bicycles,Mountain,low,small,688.63,612.88,1970-01-01 00:00:00.000042696
+29,WeareA2B,Standard,medium,medium,1065.03,230.09,1970-01-01 00:00:00.000037874
+0,Solex,Standard,medium,large,202.62,151.96,1970-01-01 00:00:00.000033364
+22,Solex,Standard,medium,medium,575.27,431.45,1970-01-01 00:00:00.000040303
+26,WeareA2B,Standard,medium,medium,1992.93,762.63,1970-01-01 00:00:00.000037337
+0,Solex,Standard,medium,medium,441.49,84.99,1970-01-01 00:00:00.000037668
+79,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000036145
+41,Norco Bicycles,Standard,low,medium,958.74,748.9,1970-01-01 00:00:00.000039880
+28,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000034586
+33,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000037668
+79,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000038339
+47,Trek Bicycles,Road,low,small,1720.7,1531.42,1970-01-01 00:00:00.000041009
+36,Solex,Standard,low,medium,1289.85,74.51,1970-01-01 00:00:00.000039915
+42,OHM Cycles,Road,medium,small,1810.0,1610.9,1970-01-01 00:00:00.000035667
+52,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000042710
+0,Norco Bicycles,Standard,medium,medium,360.4,270.3,1970-01-01 00:00:00.000037499
+0,N/A,N/A,N/A,N/A,1193.44,753.6333333333332,1970-01-01 00:00:00.000040487
+0,Trek Bicycles,Standard,high,medium,495.72,297.43,1970-01-01 00:00:00.000036668
+41,Norco Bicycles,Standard,low,medium,958.74,748.9,1970-01-01 00:00:00.000035378
+24,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000038647
+96,Giant Bicycles,Standard,medium,large,1635.3,993.66,1970-01-01 00:00:00.000037539
+11,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000033455
+59,WeareA2B,Standard,medium,small,1415.01,1259.36,1970-01-01 00:00:00.000036145
+0,N/A,N/A,N/A,N/A,2037.77,638.0600000000001,1970-01-01 00:00:00.000036833
+85,WeareA2B,Standard,medium,medium,1228.07,400.91,1970-01-01 00:00:00.000040553
+0,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000042696
+59,Solex,Standard,medium,large,1061.56,733.58,1970-01-01 00:00:00.000038647
+48,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000038573
+0,N/A,N/A,N/A,N/A,1349.47,427.55333333333334,1970-01-01 00:00:00.000037337
+0,N/A,N/A,N/A,N/A,56.21,48.04666666666666,1970-01-01 00:00:00.000036498
+0,Solex,Standard,medium,medium,100.35,75.26,1970-01-01 00:00:00.000034556
+90,Solex,Standard,low,medium,945.04,507.58,1970-01-01 00:00:00.000040618
+69,Giant Bicycles,Road,medium,medium,792.9,594.68,1970-01-01 00:00:00.000036668
+0,N/A,N/A,N/A,N/A,126.36,68.04666666666667,1970-01-01 00:00:00.000040618
+15,WeareA2B,Standard,medium,medium,1292.84,13.44,1970-01-01 00:00:00.000035707
+46,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000036498
+19,Trek Bicycles,Mountain,low,medium,574.64,459.71,1970-01-01 00:00:00.000041701
+38,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000033259
+46,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000038647
+0,N/A,N/A,N/A,N/A,1300.96,263.94666666666666,1970-01-01 00:00:00.000039915
+84,Trek Bicycles,Road,medium,medium,290.62,215.14,1970-01-01 00:00:00.000036145
+64,Giant Bicycles,Standard,high,small,1977.36,1759.85,1970-01-01 00:00:00.000040487
+88,Norco Bicycles,Standard,high,small,1661.92,1479.11,1970-01-01 00:00:00.000034244
+81,Norco Bicycles,Standard,medium,small,586.45,521.94,1970-01-01 00:00:00.000042226
+0,Trek Bicycles,Road,medium,medium,290.62,215.14,1970-01-01 00:00:00.000036145
+64,Giant Bicycles,Standard,high,small,1977.36,1759.85,1970-01-01 00:00:00.000034143
+46,Solex,Standard,low,medium,1289.85,74.51,1970-01-01 00:00:00.000038991
+13,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000034071
+0,N/A,N/A,N/A,N/A,1697.27,1516.13,1970-01-01 00:00:00.000040336
+79,Norco Bicycles,Standard,medium,medium,1555.58,818.01,1970-01-01 00:00:00.000042560
+74,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000040784
+0,Solex,Standard,medium,medium,71.49,53.62,1970-01-01 00:00:00.000033549
+93,OHM Cycles,Standard,high,medium,1458.17,874.9,1970-01-01 00:00:00.000040672
+0,Solex,Standard,medium,medium,441.49,84.99,1970-01-01 00:00:00.000035470
+0,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000033455
+11,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000038693
+28,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000035378
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000042295
+78,Giant Bicycles,Standard,medium,large,1765.3,709.48,1970-01-01 00:00:00.000037626
+80,Trek Bicycles,Standard,medium,large,1469.44,596.55,1970-01-01 00:00:00.000042105
+29,Norco Bicycles,Road,medium,medium,543.39,407.54,1970-01-01 00:00:00.000034527
+0,Giant Bicycles,Standard,medium,medium,230.91,173.18,1970-01-01 00:00:00.000037698
+35,Trek Bicycles,Standard,low,medium,1057.51,154.4,1970-01-01 00:00:00.000033888
+13,Solex,Standard,medium,medium,1163.89,589.27,1970-01-01 00:00:00.000039880
+0,OHM Cycles,Standard,low,medium,71.16,56.93,1970-01-01 00:00:00.000040487
+0,N/A,N/A,N/A,N/A,26.15,7.21,1970-01-01 00:00:00.000036334
+0,Solex,Road,medium,medium,416.98,312.74,1970-01-01 00:00:00.000036498
+57,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000035160
+41,Norco Bicycles,Standard,low,medium,958.74,748.9,1970-01-01 00:00:00.000034586
+12,Giant Bicycles,Standard,medium,large,1765.3,709.48,1970-01-01 00:00:00.000042226
+33,OHM Cycles,Road,medium,small,1810.0,1610.9,1970-01-01 00:00:00.000041848
+0,N/A,N/A,N/A,N/A,875.99,141.4,1970-01-01 00:00:00.000039427
+70,Trek Bicycles,Standard,high,medium,495.72,297.43,1970-01-01 00:00:00.000034556
+43,Norco Bicycles,Standard,medium,medium,1555.58,818.01,1970-01-01 00:00:00.000042226
+100,Trek Bicycles,Standard,medium,small,1386.84,1234.29,1970-01-01 00:00:00.000034586
+97,OHM Cycles,Road,medium,medium,742.54,667.4,1970-01-01 00:00:00.000038216
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000038258
+0,N/A,N/A,N/A,N/A,1862.82,1025.1499999999999,1970-01-01 00:00:00.000037873
+0,N/A,N/A,N/A,N/A,2028.26,784.9833333333335,1970-01-01 00:00:00.000039031
+0,N/A,N/A,N/A,N/A,678.25,479.04333333333335,1970-01-01 00:00:00.000034071
+6,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000037698
+53,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000033879
+52,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000038339
+17,WeareA2B,Touring,medium,large,1362.99,57.74,1970-01-01 00:00:00.000037539
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000040784
+11,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000042560
+0,Solex,Standard,medium,medium,100.35,75.26,1970-01-01 00:00:00.000037626
+63,WeareA2B,Standard,medium,medium,1992.93,762.63,1970-01-01 00:00:00.000033552
+11,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000038216
+0,N/A,N/A,N/A,N/A,890.28,141.4,1970-01-01 00:00:00.000040303
+46,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000042145
+77,WeareA2B,Standard,medium,medium,1769.64,108.76,1970-01-01 00:00:00.000037220
+67,Norco Bicycles,Road,medium,medium,544.05,376.84,1970-01-01 00:00:00.000042710
+5,Giant Bicycles,Standard,high,medium,1129.13,677.48,1970-01-01 00:00:00.000035560
+50,WeareA2B,Standard,medium,small,175.89,131.92,1970-01-01 00:00:00.000033259
+7,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000039427
+0,N/A,N/A,N/A,N/A,1084.18,380.74,1970-01-01 00:00:00.000034586
+23,Norco Bicycles,Standard,medium,medium,1198.46,381.1,1970-01-01 00:00:00.000038216
+29,WeareA2B,Standard,medium,medium,1065.03,230.09,1970-01-01 00:00:00.000041434
+10,Solex,Standard,medium,medium,1945.43,333.18,1970-01-01 00:00:00.000035455
+0,N/A,N/A,N/A,N/A,1107.08,677.48,1970-01-01 00:00:00.000038647
+9,OHM Cycles,Road,medium,medium,742.54,667.4,1970-01-01 00:00:00.000035378
+81,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000040672
+76,WeareA2B,Road,low,small,1172.78,1043.77,1970-01-01 00:00:00.000038002
+87,OHM Cycles,Standard,medium,medium,1636.9,44.71,1970-01-01 00:00:00.000042105
+0,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000037698
+80,Trek Bicycles,Standard,medium,large,1469.44,596.55,1970-01-01 00:00:00.000040410
+0,Norco Bicycles,Standard,low,medium,363.01,290.41,1970-01-01 00:00:00.000037626
+22,WeareA2B,Standard,medium,medium,60.34,45.26,1970-01-01 00:00:00.000034115
+59,WeareA2B,Standard,medium,small,1415.01,1259.36,1970-01-01 00:00:00.000038002
+0,N/A,N/A,N/A,N/A,1790.31,1074.01,1970-01-01 00:00:00.000037499
+83,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000035160
+18,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000035667
+0,N/A,N/A,N/A,N/A,724.37,667.4,1970-01-01 00:00:00.000038216
+0,N/A,N/A,N/A,N/A,1095.65,479.65333333333336,1970-01-01 00:00:00.000036361
+68,OHM Cycles,Standard,medium,medium,1636.9,44.71,1970-01-01 00:00:00.000041922
+0,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000038647
+81,Norco Bicycles,Standard,medium,small,586.45,521.94,1970-01-01 00:00:00.000038339
+32,Giant Bicycles,Standard,high,medium,1179.0,707.4,1970-01-01 00:00:00.000036145
+9,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000042404
+0,Solex,Road,medium,medium,416.98,312.7350159,1970-01-01 00:00:00.000042218
+13,Solex,Standard,medium,medium,1163.89,589.27,1970-01-01 00:00:00.000035160
+92,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000042145
+0,OHM Cycles,Road,high,large,12.01,7.21,1970-01-01 00:00:00.000036334
+58,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000042295
+12,Giant Bicycles,Standard,medium,large,1765.3,709.48,1970-01-01 00:00:00.000035455
+71,Solex,Standard,high,large,1842.92,1105.75,1970-01-01 00:00:00.000042458
+0,Norco Bicycles,Road,medium,medium,544.05,376.84,1970-01-01 00:00:00.000033879
+0,Solex,Standard,medium,medium,441.49,84.99,1970-01-01 00:00:00.000042172
+1,Giant Bicycles,Touring,medium,large,1873.97,863.95,1970-01-01 00:00:00.000035455
+31,WeareA2B,Standard,medium,medium,752.64,205.36,1970-01-01 00:00:00.000036334
+17,WeareA2B,Touring,medium,large,1362.99,57.74,1970-01-01 00:00:00.000037626
+25,OHM Cycles,Standard,high,medium,2005.66,1203.4,1970-01-01 00:00:00.000040672
+7,Trek Bicycles,Road,low,medium,980.37,234.43,1970-01-01 00:00:00.000042226
+100,Trek Bicycles,Standard,medium,small,1386.84,1234.29,1970-01-01 00:00:00.000035160
+66,Solex,Standard,medium,medium,1163.89,589.27,1970-01-01 00:00:00.000035378
+87,OHM Cycles,Standard,medium,medium,1636.9,44.71,1970-01-01 00:00:00.000034996
+0,N/A,N/A,N/A,N/A,1223.24,161.6,1970-01-01 00:00:00.000036334
+98,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000039915
+0,N/A,N/A,N/A,N/A,541.44,387.0733333333333,1970-01-01 00:00:00.000038258
+73,Solex,Standard,medium,medium,1945.43,333.18,1970-01-01 00:00:00.000037668
+29,WeareA2B,Standard,medium,medium,1065.03,230.09,1970-01-01 00:00:00.000037539
+28,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000037337
+18,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000036668
+21,Solex,Standard,medium,large,1071.23,380.74,1970-01-01 00:00:00.000035052
+14,Trek Bicycles,Standard,medium,small,1386.84,1234.29,1970-01-01 00:00:00.000035378
+61,Norco Bicycles,Standard,medium,small,586.45,521.94,1970-01-01 00:00:00.000038206
+17,Solex,Standard,high,medium,1024.66,614.8,1970-01-01 00:00:00.000042710
+81,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000041848
+0,Norco Bicycles,Standard,low,medium,363.01,290.41,1970-01-01 00:00:00.000038002
+61,Norco Bicycles,Standard,medium,small,586.45,521.94,1970-01-01 00:00:00.000038002
+0,N/A,N/A,N/A,N/A,470.07,328.29,1970-01-01 00:00:00.000039526
+36,Solex,Standard,low,medium,945.04,507.58,1970-01-01 00:00:00.000041701
+0,N/A,N/A,N/A,N/A,2052.92,388.92,1970-01-01 00:00:00.000041245
+0,N/A,N/A,N/A,N/A,1817.13,814.0666666666667,1970-01-01 00:00:00.000038482
+0,N/A,N/A,N/A,N/A,1473.09,275.36333333333334,1970-01-01 00:00:00.000036833
+15,WeareA2B,Standard,medium,medium,1292.84,13.44,1970-01-01 00:00:00.000033259
+80,Trek Bicycles,Standard,medium,large,1469.44,596.55,1970-01-01 00:00:00.000034996
+0,OHM Cycles,Standard,low,medium,71.16,56.93,1970-01-01 00:00:00.000041047
+61,Norco Bicycles,Standard,medium,small,586.45,521.94,1970-01-01 00:00:00.000038339
+0,N/A,N/A,N/A,N/A,1480.76,275.36333333333334,1970-01-01 00:00:00.000040303
+93,OHM Cycles,Standard,high,medium,1458.17,874.9,1970-01-01 00:00:00.000036498
+0,N/A,N/A,N/A,N/A,2012.84,762.63,1970-01-01 00:00:00.000033888
+11,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000034165
+22,WeareA2B,Standard,medium,medium,60.34,45.26,1970-01-01 00:00:00.000034244
+0,Trek Bicycles,Road,medium,medium,290.62,215.14,1970-01-01 00:00:00.000038482
+63,Solex,Standard,medium,medium,1483.2,99.59,1970-01-01 00:00:00.000041047
+0,N/A,N/A,N/A,N/A,1711.35,1516.13,1970-01-01 00:00:00.000040649
+51,OHM Cycles,Standard,high,medium,2005.66,1203.4,1970-01-01 00:00:00.000037823
+79,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000042404
+70,Trek Bicycles,Standard,high,medium,495.72,297.43,1970-01-01 00:00:00.000038859
+52,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000038206
+74,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000041064
+17,WeareA2B,Touring,medium,large,1362.99,57.74,1970-01-01 00:00:00.000037874
+23,Norco Bicycles,Standard,medium,medium,1198.46,381.1,1970-01-01 00:00:00.000034079
+96,WeareA2B,Road,low,small,1172.78,1043.77,1970-01-01 00:00:00.000036498
+9,OHM Cycles,Road,medium,medium,742.54,667.4,1970-01-01 00:00:00.000038647
+0,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000033888
+23,Norco Bicycles,Standard,medium,medium,1198.46,381.1,1970-01-01 00:00:00.000041434
+45,Trek Bicycles,Road,low,medium,980.37,234.43,1970-01-01 00:00:00.000037838
+68,OHM Cycles,Standard,medium,medium,1636.9,44.71,1970-01-01 00:00:00.000037823
+0,N/A,N/A,N/A,N/A,753.76,594.5666666666666,1970-01-01 00:00:00.000036367
+86,OHM Cycles,Standard,medium,medium,235.63,125.07,1970-01-01 00:00:00.000035667
+79,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000042218
+65,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000033888
+0,N/A,N/A,N/A,N/A,840.02,101.58,1970-01-01 00:00:00.000034527
+59,Solex,Standard,medium,large,1061.56,733.58,1970-01-01 00:00:00.000034115
+55,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000039298
+0,N/A,N/A,N/A,N/A,1922.94,397.35999999999996,1970-01-01 00:00:00.000038482
+0,Solex,Standard,medium,medium,71.49,53.62,1970-01-01 00:00:00.000040649
+31,WeareA2B,Standard,medium,medium,752.64,205.36,1970-01-01 00:00:00.000037337
+35,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000040649
+40,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000034170
+14,Solex,Standard,high,large,1842.92,1105.75,1970-01-01 00:00:00.000038193
+32,Giant Bicycles,Standard,medium,medium,642.7,211.37,1970-01-01 00:00:00.000036498
+5,Trek Bicycles,Mountain,low,medium,574.64,459.71,1970-01-01 00:00:00.000037626
+15,Norco Bicycles,Standard,low,medium,958.74,748.9,1970-01-01 00:00:00.000034115
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000038206
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000041047
+96,WeareA2B,Road,low,small,1172.78,1043.77,1970-01-01 00:00:00.000040336
+0,N/A,N/A,N/A,N/A,1759.3,999.81,1970-01-01 00:00:00.000038482
+96,WeareA2B,Road,low,small,1172.78,1043.77,1970-01-01 00:00:00.000035052
+0,Trek Bicycles,Standard,high,medium,358.39,215.03,1970-01-01 00:00:00.000034556
+0,N/A,N/A,N/A,N/A,330.91,251.87666666666667,1970-01-01 00:00:00.000038206
+59,WeareA2B,Standard,medium,small,1415.01,1259.36,1970-01-01 00:00:00.000034556
+78,Giant Bicycles,Standard,medium,large,1765.3,709.48,1970-01-01 00:00:00.000036833
+47,Trek Bicycles,Road,low,small,1720.7,1531.42,1970-01-01 00:00:00.000035160
+87,OHM Cycles,Standard,medium,medium,1636.9,44.71,1970-01-01 00:00:00.000033879
+41,Solex,Road,medium,medium,416.98,312.74,1970-01-01 00:00:00.000034165
+0,Norco Bicycles,Road,medium,medium,543.39,407.54,1970-01-01 00:00:00.000033364
+0,Trek Bicycles,Standard,high,medium,495.72,297.43,1970-01-01 00:00:00.000037499
+0,Solex,Standard,medium,medium,100.35,75.26,1970-01-01 00:00:00.000042458
+52,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000042404
+62,Solex,Standard,high,medium,1024.66,614.8,1970-01-01 00:00:00.000040487
+33,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000041009
+68,OHM Cycles,Standard,medium,medium,1636.9,44.71,1970-01-01 00:00:00.000039915
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000035560
+33,OHM Cycles,Road,medium,small,1810.0,1610.9,1970-01-01 00:00:00.000038991
+53,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000040670
+41,Solex,Road,medium,medium,416.98,312.74,1970-01-01 00:00:00.000038991
+27,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000042696
+93,OHM Cycles,Standard,high,medium,1458.17,874.9,1970-01-01 00:00:00.000038991
+30,OHM Cycles,Standard,medium,medium,1227.34,770.89,1970-01-01 00:00:00.000033364
+43,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000033259
+54,WeareA2B,Standard,medium,medium,1292.84,13.44,1970-01-01 00:00:00.000034170
+49,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000034143
+52,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000042218
+35,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000038573
+18,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000033879
+0,N/A,N/A,N/A,N/A,1029.36,614.8,1970-01-01 00:00:00.000037873
+51,OHM Cycles,Standard,high,medium,2005.66,1203.4,1970-01-01 00:00:00.000038991
+96,Giant Bicycles,Standard,medium,large,1635.3,993.66,1970-01-01 00:00:00.000033364
+83,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000036334
+14,Trek Bicycles,Standard,medium,small,1386.84,1234.29,1970-01-01 00:00:00.000042458
+2,Giant Bicycles,Road,low,small,590.26,525.33,1970-01-01 00:00:00.000040410
+23,Norco Bicycles,Mountain,low,small,688.63,612.88,1970-01-01 00:00:00.000038991
+52,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000041533
+0,WeareA2B,Standard,medium,medium,60.34,45.26,1970-01-01 00:00:00.000042696
+1,Giant Bicycles,Touring,medium,large,1873.97,863.95,1970-01-01 00:00:00.000034996
+99,Trek Bicycles,Road,low,small,1720.7,1531.42,1970-01-01 00:00:00.000041848
+13,Solex,Standard,medium,medium,1163.89,589.27,1970-01-01 00:00:00.000042295
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000041533
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000038750
+66,Solex,Standard,medium,medium,1163.89,589.27,1970-01-01 00:00:00.000034143
+55,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000038693
+83,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000034115
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000040553
+0,N/A,N/A,N/A,N/A,1487.8,275.36333333333334,1970-01-01 00:00:00.000036833
+64,Trek Bicycles,Standard,medium,large,1469.44,596.55,1970-01-01 00:00:00.000037873
+0,Solex,Standard,medium,medium,100.35,75.26,1970-01-01 00:00:00.000038002
+0,OHM Cycles,Standard,medium,medium,235.63,125.07,1970-01-01 00:00:00.000036367
+6,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000033888
+54,WeareA2B,Standard,medium,medium,1292.84,13.44,1970-01-01 00:00:00.000038482
+13,Solex,Standard,medium,medium,1163.89,589.27,1970-01-01 00:00:00.000040487
+0,N/A,N/A,N/A,N/A,1624.69,1479.11,1970-01-01 00:00:00.000037499
+0,Norco Bicycles,Standard,medium,medium,360.4,270.3,1970-01-01 00:00:00.000040553
+94,Giant Bicycles,Standard,medium,large,1635.3,993.66,1970-01-01 00:00:00.000041009
+85,WeareA2B,Standard,medium,medium,1228.07,400.91,1970-01-01 00:00:00.000039526
+0,N/A,N/A,N/A,N/A,1719.95,1516.13,1970-01-01 00:00:00.000038206
+91,Solex,Standard,medium,medium,100.35,75.26,1970-01-01 00:00:00.000037539
+33,OHM Cycles,Road,medium,small,1810.0,1610.9,1970-01-01 00:00:00.000035455
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000034996
+97,OHM Cycles,Road,medium,medium,742.54,667.4,1970-01-01 00:00:00.000038693
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000039031
+0,N/A,N/A,N/A,N/A,899.52,263.46,1970-01-01 00:00:00.000040553
+92,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000041047
+92,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000036146
+62,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000037659
+24,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000042145
+79,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000033455
+25,OHM Cycles,Standard,high,medium,2005.66,1203.4,1970-01-01 00:00:00.000033259
+4,Solex,Standard,medium,medium,1483.2,99.59,1970-01-01 00:00:00.000038216
+0,N/A,N/A,N/A,N/A,554.38,454.99333333333334,1970-01-01 00:00:00.000038991
+69,Giant Bicycles,Road,medium,medium,792.9,594.68,1970-01-01 00:00:00.000035052
+0,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000040410
+62,Solex,Standard,high,medium,1024.66,614.8,1970-01-01 00:00:00.000036668
+34,WeareA2B,Standard,medium,medium,1231.15,161.6,1970-01-01 00:00:00.000034586
+18,Solex,Standard,medium,medium,575.27,431.45,1970-01-01 00:00:00.000036145
+57,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000041345
+23,Norco Bicycles,Mountain,low,small,688.63,612.88,1970-01-01 00:00:00.000041064
+21,Solex,Standard,medium,large,1071.23,380.74,1970-01-01 00:00:00.000040618
+88,Norco Bicycles,Standard,high,small,1661.92,1479.11,1970-01-01 00:00:00.000038750
+30,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000036668
+91,WeareA2B,Standard,low,medium,642.31,513.85,1970-01-01 00:00:00.000033429
+0,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000042145
+0,N/A,N/A,N/A,N/A,960.51,588.02,1970-01-01 00:00:00.000036498
+14,Trek Bicycles,Standard,medium,small,1386.84,1234.29,1970-01-01 00:00:00.000038693
+99,Trek Bicycles,Road,low,small,1720.7,1531.42,1970-01-01 00:00:00.000037668
+1,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000037874
+55,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000037838
+21,Solex,Standard,medium,large,1071.23,380.74,1970-01-01 00:00:00.000036361
+0,N/A,N/A,N/A,N/A,1978.64,619.48,1970-01-01 00:00:00.000034996
+0,N/A,N/A,N/A,N/A,36.78,32.57666666666666,1970-01-01 00:00:00.000036334
+0,N/A,N/A,N/A,N/A,74.89,54.72333333333333,1970-01-01 00:00:00.000040553
+59,WeareA2B,Standard,medium,small,1415.01,1259.36,1970-01-01 00:00:00.000041434
+1,Giant Bicycles,Standard,medium,medium,1403.5,954.82,1970-01-01 00:00:00.000037626
+82,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000042710
+50,Giant Bicycles,Standard,medium,medium,642.7,211.37,1970-01-01 00:00:00.000037698
+18,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000034079
+42,OHM Cycles,Road,medium,small,1810.0,1610.9,1970-01-01 00:00:00.000042218
+21,Solex,Standard,medium,large,1071.23,380.74,1970-01-01 00:00:00.000042696
+70,Trek Bicycles,Standard,high,medium,495.72,297.43,1970-01-01 00:00:00.000037499
+36,Solex,Standard,low,medium,945.04,507.58,1970-01-01 00:00:00.000039298
+12,Giant Bicycles,Standard,medium,large,1765.3,709.48,1970-01-01 00:00:00.000037873
+30,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000041922
+55,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000041701
+0,N/A,N/A,N/A,N/A,1091.51,479.65333333333336,1970-01-01 00:00:00.000036367
+12,Giant Bicycles,Standard,medium,large,1765.3,709.48,1970-01-01 00:00:00.000033429
+0,N/A,N/A,N/A,N/A,695.23,631.0533333333333,1970-01-01 00:00:00.000034143
+54,WeareA2B,Standard,medium,medium,1292.84,13.44,1970-01-01 00:00:00.000035667
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000038647
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000034996
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000033549
+0,N/A,N/A,N/A,N/A,1148.41,622.5733333333333,1970-01-01 00:00:00.000040487
+0,N/A,N/A,N/A,N/A,750.25,667.4,1970-01-01 00:00:00.000036367
+0,N/A,N/A,N/A,N/A,1997.68,762.63,1970-01-01 00:00:00.000034079
+8,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000042458
+25,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000042218
+94,Giant Bicycles,Standard,medium,large,1635.3,993.66,1970-01-01 00:00:00.000037220
+74,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000042688
+0,N/A,N/A,N/A,N/A,1392.76,954.82,1970-01-01 00:00:00.000039427
+93,OHM Cycles,Standard,high,medium,1458.17,874.9,1970-01-01 00:00:00.000039526
+0,OHM Cycles,Standard,high,medium,227.88,136.73,1970-01-01 00:00:00.000037838
+36,Solex,Standard,low,medium,1289.85,74.51,1970-01-01 00:00:00.000040784
+85,WeareA2B,Standard,medium,medium,1228.07,400.91,1970-01-01 00:00:00.000041922
+82,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000038193
+88,Norco Bicycles,Standard,high,small,1661.92,1479.11,1970-01-01 00:00:00.000040618
+98,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000040779
+0,N/A,N/A,N/A,N/A,1294.37,13.44,1970-01-01 00:00:00.000038002
+100,Trek Bicycles,Standard,medium,small,1386.84,1234.29,1970-01-01 00:00:00.000039880
+0,N/A,N/A,N/A,N/A,311.57,277.00333333333333,1970-01-01 00:00:00.000038573
+0,N/A,N/A,N/A,N/A,899.92,465.96000000000004,1970-01-01 00:00:00.000041533
+33,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000039427
+57,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000034244
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000039526
+29,WeareA2B,Standard,medium,medium,1065.03,230.09,1970-01-01 00:00:00.000033364
+57,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000034170
+33,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000038991
+12,WeareA2B,Standard,medium,medium,1231.15,161.6,1970-01-01 00:00:00.000040487
+0,N/A,N/A,N/A,N/A,162.87,133.91333333333333,1970-01-01 00:00:00.000038339
+36,Solex,Standard,low,medium,945.04,507.58,1970-01-01 00:00:00.000038258
+0,WeareA2B,Standard,medium,small,175.89,131.92,1970-01-01 00:00:00.000041009
+13,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000033259
+77,WeareA2B,Standard,medium,medium,1769.64,108.76,1970-01-01 00:00:00.000038750
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000040553
+0,OHM Cycles,Standard,high,medium,227.88,136.73,1970-01-01 00:00:00.000038216
+63,WeareA2B,Standard,medium,medium,1992.93,762.63,1970-01-01 00:00:00.000038193
+0,N/A,N/A,N/A,N/A,1678.51,1503.79,1970-01-01 00:00:00.000036833
+0,Solex,Road,medium,medium,416.98,312.74,1970-01-01 00:00:00.000034071
+11,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000041701
+79,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000034079
+0,N/A,N/A,N/A,N/A,1703.18,1516.13,1970-01-01 00:00:00.000040618
+95,Giant Bicycles,Standard,medium,large,569.56,528.43,1970-01-01 00:00:00.000035052
+0,N/A,N/A,N/A,N/A,675.28,479.04333333333335,1970-01-01 00:00:00.000036833
+0,OHM Cycles,Standard,low,medium,71.16,56.93,1970-01-01 00:00:00.000033879
+0,Giant Bicycles,Standard,medium,medium,230.91,173.18,1970-01-01 00:00:00.000037337
+0,N/A,N/A,N/A,N/A,487.8,388.72,1970-01-01 00:00:00.000035560
+0,N/A,N/A,N/A,N/A,1292.13,899.0333333333334,1970-01-01 00:00:00.000036334
+0,N/A,N/A,N/A,N/A,1578.52,827.5566666666667,1970-01-01 00:00:00.000039880
+0,N/A,N/A,N/A,N/A,922.15,588.02,1970-01-01 00:00:00.000038216
+54,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000036334
+0,N/A,N/A,N/A,N/A,122.74,60.833333333333336,1970-01-01 00:00:00.000037873
+90,Solex,Standard,low,medium,945.04,507.58,1970-01-01 00:00:00.000038750
+84,Giant Bicycles,Road,medium,medium,792.9,594.68,1970-01-01 00:00:00.000037499
+9,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000033552
+74,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000041245
+66,Giant Bicycles,Road,low,small,590.26,525.33,1970-01-01 00:00:00.000036668
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000042172
+82,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000042226
+87,Giant Bicycles,Standard,high,medium,1179.0,707.4,1970-01-01 00:00:00.000034244
+73,Solex,Standard,medium,medium,1945.43,333.18,1970-01-01 00:00:00.000038991
+31,WeareA2B,Standard,medium,medium,752.64,205.36,1970-01-01 00:00:00.000038482
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000038339
+47,Trek Bicycles,Road,low,small,1720.7,1531.42,1970-01-01 00:00:00.000040303
+95,Giant Bicycles,Standard,medium,large,569.56,528.43,1970-01-01 00:00:00.000036361
+34,WeareA2B,Standard,medium,medium,1231.15,161.6,1970-01-01 00:00:00.000040487
+8,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000041434
+49,Solex,Standard,medium,large,1061.56,733.58,1970-01-01 00:00:00.000042172
+0,N/A,N/A,N/A,N/A,435.66,236.82333333333335,1970-01-01 00:00:00.000040618
+0,N/A,N/A,N/A,N/A,1409.68,954.82,1970-01-01 00:00:00.000042218
+0,N/A,N/A,N/A,N/A,1315.16,398.02000000000004,1970-01-01 00:00:00.000038647
+0,N/A,N/A,N/A,N/A,1233.12,161.6,1970-01-01 00:00:00.000037659
+98,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000033259
+59,WeareA2B,Standard,medium,small,1415.01,1259.36,1970-01-01 00:00:00.000036833
+45,Trek Bicycles,Road,low,medium,980.37,234.43,1970-01-01 00:00:00.000041701
+20,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000039298
+0,Trek Bicycles,Standard,high,medium,495.72,297.43,1970-01-01 00:00:00.000036367
+53,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000040410
+28,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000041345
+7,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000036361
+0,N/A,N/A,N/A,N/A,758.73,594.5666666666666,1970-01-01 00:00:00.000036367
+10,Solex,Standard,medium,medium,1945.43,333.18,1970-01-01 00:00:00.000038991
+0,N/A,N/A,N/A,N/A,405.94,297.8533333333334,1970-01-01 00:00:00.000038859
+17,WeareA2B,Touring,medium,large,1362.99,57.74,1970-01-01 00:00:00.000034586
+43,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000042172
+53,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000036334
+90,Norco Bicycles,Standard,low,medium,363.01,290.41,1970-01-01 00:00:00.000034115
+71,Solex,Standard,high,large,1842.92,1105.75,1970-01-01 00:00:00.000037539
+68,OHM Cycles,Standard,medium,medium,1636.9,44.71,1970-01-01 00:00:00.000042172
+45,Trek Bicycles,Road,low,medium,980.37,234.43,1970-01-01 00:00:00.000033549
+0,N/A,N/A,N/A,N/A,1026.7,614.8,1970-01-01 00:00:00.000041533
+53,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000035160
+0,N/A,N/A,N/A,N/A,687.9,612.88,1970-01-01 00:00:00.000034244
+94,Giant Bicycles,Standard,medium,large,1635.3,993.66,1970-01-01 00:00:00.000037874
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000034170
+53,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000041345
+0,N/A,N/A,N/A,N/A,494.96,298.29,1970-01-01 00:00:00.000037499
+53,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000033455
+0,N/A,N/A,N/A,N/A,1181.89,628.6466666666666,1970-01-01 00:00:00.000040487
+79,Solex,Touring,medium,large,2083.94,675.03,1970-01-01 00:00:00.000036367
+0,N/A,N/A,N/A,N/A,465.71,327.86,1970-01-01 00:00:00.000040553
+80,Trek Bicycles,Standard,medium,large,1469.44,596.55,1970-01-01 00:00:00.000042710
+27,Trek Bicycles,Standard,low,medium,1057.51,154.4,1970-01-01 00:00:00.000038750
+93,OHM Cycles,Standard,high,medium,1458.17,874.9,1970-01-01 00:00:00.000035052
+0,N/A,N/A,N/A,N/A,880.3,263.46,1970-01-01 00:00:00.000041434
+0,N/A,N/A,N/A,N/A,1989.3,762.63,1970-01-01 00:00:00.000034079
+0,N/A,N/A,N/A,N/A,1413.98,954.82,1970-01-01 00:00:00.000039298
+5,Giant Bicycles,Standard,high,medium,1129.13,677.48,1970-01-01 00:00:00.000039298
+0,Solex,Standard,medium,medium,441.49,84.99,1970-01-01 00:00:00.000041848
+27,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000037220
+28,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000033549
+42,OHM Cycles,Road,medium,small,1810.0,1610.9,1970-01-01 00:00:00.000042226
+88,Norco Bicycles,Standard,medium,medium,1198.46,381.1,1970-01-01 00:00:00.000038216
+48,WeareA2B,Standard,medium,medium,1762.96,950.52,1970-01-01 00:00:00.000041245
+13,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000037823
+58,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000033259
+17,Solex,Standard,high,medium,1024.66,614.8,1970-01-01 00:00:00.000033879
+35,Trek Bicycles,Standard,low,medium,1057.51,154.4,1970-01-01 00:00:00.000037698
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000036361
+90,Norco Bicycles,Standard,low,medium,363.01,290.41,1970-01-01 00:00:00.000040303
+16,Norco Bicycles,Standard,high,small,1661.92,1479.11,1970-01-01 00:00:00.000034244
+24,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000033879
+0,N/A,N/A,N/A,N/A,483.12,358.72,1970-01-01 00:00:00.000037499
+31,WeareA2B,Standard,medium,medium,752.64,205.36,1970-01-01 00:00:00.000038206
+63,Solex,Standard,medium,medium,1483.2,99.59,1970-01-01 00:00:00.000040410
+0,N/A,N/A,N/A,N/A,753.01,521.7333333333332,1970-01-01 00:00:00.000039427
+53,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000037499
+99,Trek Bicycles,Road,low,small,1720.7,1531.42,1970-01-01 00:00:00.000041345
+0,Norco Bicycles,Standard,low,medium,363.01,290.41,1970-01-01 00:00:00.000039880
+49,Solex,Standard,medium,large,1061.56,733.58,1970-01-01 00:00:00.000041047
+11,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000033455
+81,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000037668
+0,N/A,N/A,N/A,N/A,883.91,141.4,1970-01-01 00:00:00.000040618
+0,N/A,N/A,N/A,N/A,1216.4,234.76666666666665,1970-01-01 00:00:00.000038193
+0,N/A,N/A,N/A,N/A,32.44,7.21,1970-01-01 00:00:00.000038002
+0,Norco Bicycles,Standard,medium,medium,360.4,270.3,1970-01-01 00:00:00.000037873
+4,Solex,Standard,medium,medium,1483.2,99.59,1970-01-01 00:00:00.000042560
+64,Giant Bicycles,Standard,high,small,1977.36,1759.85,1970-01-01 00:00:00.000042145
+15,WeareA2B,Standard,medium,medium,1292.84,13.44,1970-01-01 00:00:00.000034143
+46,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000038750
+0,N/A,N/A,N/A,N/A,16.08,19.893333333333334,1970-01-01 00:00:00.000038002
+0,N/A,N/A,N/A,N/A,1184.0,519.88,1970-01-01 00:00:00.000038859
+38,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000040779
+6,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000041922
+16,Norco Bicycles,Standard,high,small,1661.92,1479.11,1970-01-01 00:00:00.000040336
+54,WeareA2B,Standard,medium,medium,1292.84,13.44,1970-01-01 00:00:00.000033259
+0,N/A,N/A,N/A,N/A,587.02,526.3633333333333,1970-01-01 00:00:00.000039298
+0,N/A,N/A,N/A,N/A,1919.23,598.63,1970-01-01 00:00:00.000037659
+27,Trek Bicycles,Standard,low,medium,1057.51,154.4,1970-01-01 00:00:00.000035052
+15,WeareA2B,Standard,medium,medium,1292.84,13.44,1970-01-01 00:00:00.000042295
+100,Norco Bicycles,Road,medium,medium,1036.59,206.35,1970-01-01 00:00:00.000038193
+0,N/A,N/A,N/A,N/A,1660.68,1479.11,1970-01-01 00:00:00.000036668
+70,Trek Bicycles,Standard,high,medium,495.72,297.43,1970-01-01 00:00:00.000036833
+57,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000039880
+31,WeareA2B,Standard,medium,medium,752.64,205.36,1970-01-01 00:00:00.000039031
+5,Giant Bicycles,Standard,high,medium,1129.13,677.48,1970-01-01 00:00:00.000040649
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000042145
+15,WeareA2B,Standard,medium,medium,1292.84,13.44,1970-01-01 00:00:00.000035667
+37,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000042105
+40,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000040649
+0,OHM Cycles,Standard,low,medium,71.16,56.93,1970-01-01 00:00:00.000034143
+32,Giant Bicycles,Standard,high,medium,1179.0,707.4,1970-01-01 00:00:00.000034079
+35,Trek Bicycles,Standard,low,medium,1057.51,154.4,1970-01-01 00:00:00.000037337
+62,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000038647
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000036367
+0,N/A,N/A,N/A,N/A,1224.41,364.69666666666666,1970-01-01 00:00:00.000037838
+34,WeareA2B,Standard,medium,medium,1231.15,161.6,1970-01-01 00:00:00.000040303
+82,Norco Bicycles,Standard,high,medium,1148.64,689.18,1970-01-01 00:00:00.000037499
+100,Norco Bicycles,Road,medium,medium,1036.59,206.35,1970-01-01 00:00:00.000037873
+73,Solex,Standard,medium,medium,1945.43,333.18,1970-01-01 00:00:00.000035470
+65,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000033455
+0,N/A,N/A,N/A,N/A,1535.84,825.77,1970-01-01 00:00:00.000042295
+40,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000040779
+62,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000038573
+4,Solex,Standard,medium,medium,1483.2,99.59,1970-01-01 00:00:00.000033879
+82,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000042696
+91,WeareA2B,Standard,low,medium,642.31,513.85,1970-01-01 00:00:00.000038339
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000042696
+0,N/A,N/A,N/A,N/A,150.51,131.92,1970-01-01 00:00:00.000037668
+28,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000041434
+0,N/A,N/A,N/A,N/A,2062.95,388.92,1970-01-01 00:00:00.000039915
+64,Trek Bicycles,Standard,medium,large,1469.44,596.55,1970-01-01 00:00:00.000040553
+11,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000040670
+92,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000040779
+0,N/A,N/A,N/A,N/A,1689.63,1516.13,1970-01-01 00:00:00.000040649
+12,Giant Bicycles,Standard,medium,large,1765.3,709.48,1970-01-01 00:00:00.000038206
+81,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000034170
+58,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000033429
+0,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000034527
+12,Giant Bicycles,Standard,medium,large,1765.3,709.48,1970-01-01 00:00:00.000037626
+22,Solex,Standard,medium,medium,575.27,431.45,1970-01-01 00:00:00.000034244
+62,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000041167
+59,WeareA2B,Standard,medium,small,1415.01,1259.36,1970-01-01 00:00:00.000042458
+72,OHM Cycles,Standard,medium,medium,912.52,141.4,1970-01-01 00:00:00.000041047
+23,Norco Bicycles,Mountain,low,small,688.63,612.88,1970-01-01 00:00:00.000042404
+4,Solex,Standard,medium,medium,1483.2,99.59,1970-01-01 00:00:00.000042105
+0,N/A,N/A,N/A,N/A,1934.41,333.18,1970-01-01 00:00:00.000039298
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000040410
+92,WeareA2B,Touring,medium,large,1890.39,260.14,1970-01-01 00:00:00.000040303
+0,Giant Bicycles,Standard,medium,large,569.56,528.43,1970-01-01 00:00:00.000040336
+0,N/A,N/A,N/A,N/A,889.05,263.46,1970-01-01 00:00:00.000039031
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000037337
+0,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000040779
+0,N/A,N/A,N/A,N/A,1617.32,1044.0433333333333,1970-01-01 00:00:00.000037539
+0,N/A,N/A,N/A,N/A,1788.93,1327.24,1970-01-01 00:00:00.000038258
+0,N/A,N/A,N/A,N/A,2064.08,388.92,1970-01-01 00:00:00.000037539
+1,Giant Bicycles,Touring,medium,large,1873.97,863.95,1970-01-01 00:00:00.000038193
+28,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000034244
+61,Norco Bicycles,Standard,medium,small,586.45,521.94,1970-01-01 00:00:00.000034079
+6,Solex,Standard,high,medium,748.17,448.9,1970-01-01 00:00:00.000037337
+0,Trek Bicycles,Road,medium,medium,290.62,215.14,1970-01-01 00:00:00.000038206
+0,N/A,N/A,N/A,N/A,2020.14,762.63,1970-01-01 00:00:00.000034079
+0,N/A,N/A,N/A,N/A,489.58,328.72,1970-01-01 00:00:00.000037337
+18,Solex,Standard,medium,medium,575.27,431.45,1970-01-01 00:00:00.000042218
+69,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000037873
+51,OHM Cycles,Standard,high,medium,2005.66,1203.4,1970-01-01 00:00:00.000041064
+0,OHM Cycles,Standard,medium,medium,183.86,137.9,1970-01-01 00:00:00.000042295
+26,WeareA2B,Standard,medium,medium,1992.93,762.63,1970-01-01 00:00:00.000037873
+41,Solex,Road,medium,medium,416.98,312.74,1970-01-01 00:00:00.000042696
+0,N/A,N/A,N/A,N/A,2076.81,388.92,1970-01-01 00:00:00.000040784
+63,Solex,Standard,medium,medium,1483.2,99.59,1970-01-01 00:00:00.000035378
+55,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000038216
+58,OHM Cycles,Standard,medium,medium,912.52,141.4,1970-01-01 00:00:00.000037874
+46,Solex,Standard,low,medium,1289.85,74.51,1970-01-01 00:00:00.000041848
+71,Solex,Standard,high,large,1842.92,1105.75,1970-01-01 00:00:00.000037874
+0,N/A,N/A,N/A,N/A,2061.38,388.92,1970-01-01 00:00:00.000037823
+0,N/A,N/A,N/A,N/A,877.44,141.4,1970-01-01 00:00:00.000042226
+54,WeareA2B,Standard,medium,medium,1292.84,13.44,1970-01-01 00:00:00.000042218
+0,Norco Bicycles,Standard,medium,medium,360.4,270.2999878,1970-01-01 00:00:00.000035667
+24,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000040487
+23,Norco Bicycles,Mountain,low,small,688.63,612.88,1970-01-01 00:00:00.000037220
+0,N/A,N/A,N/A,N/A,1374.2,449.92333333333335,1970-01-01 00:00:00.000040303
+97,OHM Cycles,Road,medium,medium,742.54,667.4,1970-01-01 00:00:00.000036146
+0,OHM Cycles,Standard,low,medium,71.16,56.93,1970-01-01 00:00:00.000036146
+25,OHM Cycles,Standard,high,medium,2005.66,1203.4,1970-01-01 00:00:00.000037220
+0,N/A,N/A,N/A,N/A,731.41,594.5666666666666,1970-01-01 00:00:00.000034996
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000034115
+0,N/A,N/A,N/A,N/A,1034.17,307.8666666666666,1970-01-01 00:00:00.000034556
+10,Solex,Standard,medium,medium,1945.43,333.18,1970-01-01 00:00:00.000033429
+23,Norco Bicycles,Mountain,low,small,688.63,612.88,1970-01-01 00:00:00.000035470
+14,Trek Bicycles,Standard,medium,small,1386.84,1234.29,1970-01-01 00:00:00.000037539
+53,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000042710
+38,Solex,Standard,medium,medium,1577.53,826.51,1970-01-01 00:00:00.000039915
+68,OHM Cycles,Standard,medium,medium,1636.9,44.71,1970-01-01 00:00:00.000034170
+8,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000037874
+0,N/A,N/A,N/A,N/A,156.56,133.91333333333333,1970-01-01 00:00:00.000038647
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000040672
+0,Giant Bicycles,Standard,medium,large,569.56,528.43,1970-01-01 00:00:00.000034556
+75,Giant Bicycles,Touring,medium,large,1873.97,863.95,1970-01-01 00:00:00.000037499
+85,WeareA2B,Standard,medium,medium,1228.07,400.91,1970-01-01 00:00:00.000038193
+81,Solex,Standard,medium,medium,1151.96,649.49,1970-01-01 00:00:00.000040779
+0,N/A,N/A,N/A,N/A,643.95,345.20666666666665,1970-01-01 00:00:00.000035667
+27,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000035707
+0,N/A,N/A,N/A,N/A,517.53,388.72,1970-01-01 00:00:00.000038339
+27,Trek Bicycles,Standard,medium,medium,499.53,388.72,1970-01-01 00:00:00.000035470
+80,OHM Cycles,Touring,low,medium,1073.07,933.84,1970-01-01 00:00:00.000038482
+0,N/A,N/A,N/A,N/A,226.94,161.03,1970-01-01 00:00:00.000040303
+49,Solex,Standard,medium,large,1061.56,733.58,1970-01-01 00:00:00.000039031
+0,N/A,N/A,N/A,N/A,1196.65,614.8533333333334,1970-01-01 00:00:00.000035470
+49,Solex,Standard,medium,large,1061.56,733.58,1970-01-01 00:00:00.000034244
+93,WeareA2B,Standard,medium,medium,1065.03,230.09,1970-01-01 00:00:00.000035378
+0,OHM Cycles,Road,medium,medium,742.54,667.4000244,1970-01-01 00:00:00.000033879
+0,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000034170
+0,N/A,N/A,N/A,N/A,634.57,316.02333333333337,1970-01-01 00:00:00.000038002
+0,Norco Bicycles,Standard,low,medium,363.01,290.41,1970-01-01 00:00:00.000034165
+20,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000037838
+11,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000035378
+69,Giant Bicycles,Road,medium,medium,792.9,594.68,1970-01-01 00:00:00.000037499
+0,Trek Bicycles,Standard,high,medium,495.72,297.43,1970-01-01 00:00:00.000041922
+76,WeareA2B,Road,low,small,1172.78,1043.77,1970-01-01 00:00:00.000035052
+12,Giant Bicycles,Standard,medium,large,1765.3,709.48,1970-01-01 00:00:00.000038339
+52,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000035667
+13,Solex,Standard,medium,medium,1163.89,589.27,1970-01-01 00:00:00.000034170
+64,Trek Bicycles,Standard,medium,large,1469.44,596.55,1970-01-01 00:00:00.000038193
+60,Giant Bicycles,Standard,high,small,1977.36,1759.85,1970-01-01 00:00:00.000041009
+0,Solex,Standard,medium,medium,478.16,298.72,1970-01-01 00:00:00.000038258
+0,N/A,N/A,N/A,N/A,1571.83,826.5099999999999,1970-01-01 00:00:00.000040410
+0,N/A,N/A,N/A,N/A,1999.54,909.5533333333334,1970-01-01 00:00:00.000035378
+72,OHM Cycles,Standard,medium,medium,912.52,141.4,1970-01-01 00:00:00.000034170
+69,Giant Bicycles,Road,medium,medium,792.9,594.68,1970-01-01 00:00:00.000033888
+53,Giant Bicycles,Standard,high,medium,1274.93,764.96,1970-01-01 00:00:00.000038693
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000035560
+19,Trek Bicycles,Mountain,low,medium,574.64,459.71,1970-01-01 00:00:00.000040649
+34,WeareA2B,Standard,medium,medium,1231.15,161.6,1970-01-01 00:00:00.000034170
+0,N/A,N/A,N/A,N/A,1562.88,828.6033333333334,1970-01-01 00:00:00.000037838
+0,N/A,N/A,N/A,N/A,1150.59,677.48,1970-01-01 00:00:00.000038573
+96,WeareA2B,Road,low,small,1172.78,1043.77,1970-01-01 00:00:00.000035560
+0,N/A,N/A,N/A,N/A,356.05,258.58,1970-01-01 00:00:00.000037838
+85,WeareA2B,Standard,medium,medium,1228.07,400.91,1970-01-01 00:00:00.000038859
+16,Norco Bicycles,Standard,high,small,1661.92,1479.11,1970-01-01 00:00:00.000040618
+0,Solex,Road,medium,medium,416.98,312.74,1970-01-01 00:00:00.000041848
+9,OHM Cycles,Road,medium,medium,742.54,667.4,1970-01-01 00:00:00.000041047
+97,OHM Cycles,Road,medium,medium,742.54,667.4,1970-01-01 00:00:00.000037838
+0,N/A,N/A,N/A,N/A,1780.22,1580.47,1970-01-01 00:00:00.000038750
+0,Solex,Standard,medium,medium,441.49,84.99,1970-01-01 00:00:00.000041064
+2,Giant Bicycles,Road,low,small,590.26,525.33,1970-01-01 00:00:00.000037499
+0,N/A,N/A,N/A,N/A,1438.9,757.6300000000001,1970-01-01 00:00:00.000040672
+0,N/A,N/A,N/A,N/A,966.91,577.41,1970-01-01 00:00:00.000039526
+52,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000036145
+0,N/A,N/A,N/A,N/A,918.43,668.46,1970-01-01 00:00:00.000038339
+37,OHM Cycles,Standard,low,medium,1793.43,248.82,1970-01-01 00:00:00.000038647
+100,Trek Bicycles,Standard,medium,small,1386.84,1234.29,1970-01-01 00:00:00.000041345
+0,N/A,N/A,N/A,N/A,1541.1,829.65,1970-01-01 00:00:00.000037838
+0,N/A,N/A,N/A,N/A,1476.88,275.36333333333334,1970-01-01 00:00:00.000038859
+0,N/A,N/A,N/A,N/A,1023.39,614.8,1970-01-01 00:00:00.000035052
+50,Giant Bicycles,Standard,medium,medium,642.7,211.37,1970-01-01 00:00:00.000041848
+75,Giant Bicycles,Touring,medium,large,1873.97,863.95,1970-01-01 00:00:00.000033879
+1,Giant Bicycles,Touring,medium,large,1873.97,863.95,1970-01-01 00:00:00.000041922
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000042404
+49,Trek Bicycles,Road,medium,medium,533.51,400.13,1970-01-01 00:00:00.000042172
+95,OHM Cycles,Touring,low,medium,1073.07,933.84,1970-01-01 00:00:00.000037626
+23,Norco Bicycles,Standard,medium,medium,1198.46,381.1,1970-01-01 00:00:00.000041701
+20,Trek Bicycles,Standard,medium,small,1775.81,1580.47,1970-01-01 00:00:00.000041345
+28,Solex,Road,medium,small,1703.52,1516.13,1970-01-01 00:00:00.000034079
+55,Trek Bicycles,Road,medium,large,1894.19,598.76,1970-01-01 00:00:00.000033549
+0,N/A,N/A,N/A,N/A,310.57,240.23000000000002,1970-01-01 00:00:00.000038859
+69,Norco Bicycles,Road,medium,large,1240.31,795.1,1970-01-01 00:00:00.000038193
+62,Solex,Standard,high,medium,1024.66,614.8,1970-01-01 00:00:00.000040303
+0,N/A,N/A,N/A,N/A,356.39,233.45333333333335,1970-01-01 00:00:00.000039880
+14,Trek Bicycles,Standard,medium,small,1386.84,1234.29,1970-01-01 00:00:00.000038002
+87,Giant Bicycles,Standard,high,medium,1179.0,707.4,1970-01-01 00:00:00.000039880
+21,Solex,Standard,medium,large,1071.23,380.74,1970-01-01 00:00:00.000039031
+0,Solex,Standard,medium,medium,441.49,84.99,1970-01-01 00:00:00.000037220
+86,Norco Bicycles,Road,high,large,774.53,464.72,1970-01-01 00:00:00.000039526
+53,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000038859
+52,Solex,Road,medium,large,1777.8,820.78,1970-01-01 00:00:00.000036334
+38,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000036334
+76,WeareA2B,Road,low,small,1172.78,1043.77,1970-01-01 00:00:00.000040336
+0,N/A,N/A,N/A,N/A,1695.42,1516.13,1970-01-01 00:00:00.000040649
+15,Norco Bicycles,Standard,low,medium,958.74,748.9,1970-01-01 00:00:00.000042404
+9,Norco Bicycles,Standard,medium,small,1216.14,1082.36,1970-01-01 00:00:00.000035378
+0,N/A,N/A,N/A,N/A,877.6,141.4,1970-01-01 00:00:00.000040618
+0,N/A,N/A,N/A,N/A,1401.63,954.82,1970-01-01 00:00:00.000040410
+0,N/A,N/A,N/A,N/A,2086.07,388.92,1970-01-01 00:00:00.000036145
+0,N/A,N/A,N/A,N/A,1761.75,1074.01,1970-01-01 00:00:00.000038859
+82,Giant Bicycles,Road,medium,medium,1538.99,829.65,1970-01-01 00:00:00.000033552
+0,N/A,N/A,N/A,N/A,1615.62,1044.0433333333333,1970-01-01 00:00:00.000038216
+100,Trek Bicycles,Standard,medium,small,1386.84,1234.29,1970-01-01 00:00:00.000038693
+58,OHM Cycles,Road,medium,medium,1280.28,829.51,1970-01-01 00:00:00.000042226
+98,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000038647
+0,N/A,N/A,N/A,N/A,744.54,594.5666666666666,1970-01-01 00:00:00.000039526
+0,N/A,N/A,N/A,N/A,1098.18,578.5666666666667,1970-01-01 00:00:00.000035707
+33,Giant Bicycles,Standard,medium,small,1311.44,1167.18,1970-01-01 00:00:00.000034071
+45,Solex,Standard,medium,medium,441.49,84.99,1970-01-01 00:00:00.000042145
+65,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000037337
+98,OHM Cycles,Standard,medium,medium,795.34,101.58,1970-01-01 00:00:00.000036668
+85,WeareA2B,Standard,medium,medium,1228.07,400.91,1970-01-01 00:00:00.000037873
+54,WeareA2B,Standard,medium,medium,1807.45,778.69,1970-01-01 00:00:00.000040487
+0,N/A,N/A,N/A,N/A,868.56,141.4,1970-01-01 00:00:00.000040303
+13,Solex,Standard,medium,medium,1163.89,589.27,1970-01-01 00:00:00.000041047
+0,N/A,N/A,N/A,N/A,1497.43,518.7166666666667,1970-01-01 00:00:00.000042105
+7,Trek Bicycles,Road,low,medium,980.37,234.43,1970-01-01 00:00:00.000042218
+0,N/A,N/A,N/A,N/A,867.92,141.4,1970-01-01 00:00:00.000042226
+3,Trek Bicycles,Standard,medium,large,2091.47,388.92,1970-01-01 00:00:00.000037698
+88,Norco Bicycles,Standard,high,small,1661.92,1479.11,1970-01-01 00:00:00.000034527
