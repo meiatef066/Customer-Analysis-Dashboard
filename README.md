@@ -11,12 +11,14 @@ This project is a comprehensive customer analysis dashboard designed to provide 
   - Gender-based bike purchases
   - Customer segmentation by age and title
   - Wealth segment distribution across states
+    
   ![Image](https://github.com/user-attachments/assets/cc8fa44c-6ae5-4e4b-8c75-2e892d234445)
 
 - **RFM (Recency, Frequency, Monetary) Analysis**
   - Categorization of customers into segments such as Loyal, At Risk, Big Spenders, and more
   - Average Recency, Frequency, and Monetary value tracking
   - Revenue influence on customer segments
+    
   ![Image](https://github.com/user-attachments/assets/67753d80-3806-4268-bb4a-2de4394ad05e)
 
 - **Transaction and Revenue Analysis**
