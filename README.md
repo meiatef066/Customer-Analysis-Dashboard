@@ -4,6 +4,9 @@
 ## Overview
 This project is a comprehensive customer analysis dashboard designed to provide insights into customer demographics, purchasing behavior, and business profitability. The dashboard visualizes key metrics such as customer segmentation, transaction trends, and revenue distribution.
 
+## Project Presentation 
+🎞 **[[Project Presentation Link]([https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce](https://www.canva.com/design/DAGSJ_S8b7E/f9M0aKqflDfhzTlDQVlDkQ/edit?utm_content=DAGSJ_S8b7E&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)`)]**
+
 ## Features
 - **Customer Distribution Analysis**
   - Customer count by country
